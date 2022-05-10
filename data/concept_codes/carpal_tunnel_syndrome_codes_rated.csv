@@ -1,0 +1,8 @@
+Code,Description,Source,Decision
+XE15g,Carpal tunnel syndrome,V3,1
+F340.,Carpal tunnel syndrome,V2,1
+1541,carpal tunnel syndrome,SR,1
+G560,Carpal tunnel syndrome,MD,1
+3540,Carpal tunnel syndrome,ICD9,1
+G560,Carpal tunnel syndrome,ICD10,1
+G560,Carpal tunnel syndrome,cancer,1

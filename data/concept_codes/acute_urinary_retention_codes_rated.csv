@@ -1,0 +1,17 @@
+Code,Description,Source,Decision
+XE0rS,Urinary retention,V3,1
+X30O4,Acute retention of urine,V3,1
+X30O6,Chronic retention of urine,V3,0
+X30O7,Clot retention of urine,V3,0
+X30O8,Postoperative retention of urine,V3,1
+1A32.,Cannot pass urine - retention,V2,1
+R33,Retention of urine,MD,1
+F453,Somatoform autonomic dysfunction,MD,0
+7882,Retention of urine,ICD9,1
+7882,Retention of urine,ICD9,1
+78821,Incomplete bladder emptying,ICD9,1
+78829,Other specified retention of urine,ICD9,1
+R33,Retention of urine,ICD10,1
+F453,Somatoform autonomic dysfunction,ICD10,0
+R33,Retention of urine,cancer,1
+F453,Somatoform autonomic dysfunction,cancer,0

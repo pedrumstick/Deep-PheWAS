@@ -1,0 +1,259 @@
+Code,Description,Source,Decision
+XE0s9,Hearing loss,V3,1
+X75qM,Dead ear,V3,1
+1C131,Unilateral deafness,V3,1
+1C132,Partial deafness,V3,1
+1C133,Bilateral deafness,V3,1
+X00kO,Chronic deafness,V3,1
+XM0Cb,Deafness symptom,V3,1
+F592.,Mixed hearing loss,V3,1
+F5920,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",V3,1
+F5921,"Mixed conductive and sensorineural hearing loss, bilateral",V3,1
+XaXoh,No H/O hearing loss,V3,0
+F5912,Neural hearing loss,V3,1
+F5913,Central hearing loss,V3,1
+F5911,Sensory hearing loss,V3,1
+Xa0U4,Simulated hearing loss,V3,0
+X00kW,Functional hearing loss,V3,1
+E2012,Dissociative deafness,V3,1
+XE17N,Perceptive hearing loss,V3,1
+XaZuF,Mild sensorineural hearing loss,V3,1
+XaZuE,Profound sensorineural hearing loss,V3,1
+XaZuB,Severe sensorineural hearing loss,V3,1
+XaZuA,Moderate sensorineural hearing loss,V3,1
+X00kR,Dominant sensorineural hearing loss,V3,1
+X00kS,X-linked sensorineural hearing loss,V3,1
+X00kT,Recessive sensorineural hearing loss,V3,1
+X00kU,Perinatal sensorineural hearing loss,V3,1
+X00kV,Postnatal acquired sensorineural hearing loss,V3,0
+F5801,Presbyacusis,V3,1
+Xa0PN,Postoperative profound sensorineural hearing loss,V3,1
+F5914,Congenital sensorineural deafness,V3,1
+XaRE1,Congenital prelingual deafness,V3,1
+XaOPs,Maternally inherited deafness,V3,1
+F5910,Unspecified perceptive hearing loss,V3,1
+F5916,"Sensorineural hearing loss, bilateral",V3,1
+XaaLf,Bilateral profound sensorineural hearing loss,V3,1
+XaaLg,Bilateral congenital sensorineural hearing loss,V3,1
+F5917,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",V3,1
+F591y,Combined perceptive hearing loss,V3,1
+F591z,Perceptive hearing loss NOS,V3,1
+X00kP,High frequency deafness,V3,1
+X00kQ,Low frequency deafness,V3,1
+XE17O,Ototoxicity - deafness,V3,1
+XM1QG,Drug ototoxicity - deafness,V3,1
+F590.,Conductive hearing loss,V3,1
+F5900,Unspecified conductive hearing loss,V3,1
+F5901,Conductive hearing loss due to disorder of external ear,V3,1
+F5902,Conductive hearing loss due to disorder of tympanic membrane,V3,1
+F5903,Conductive hearing loss due to disorder of middle ear,V3,1
+F5904,Conductive hearing loss due to disorder of inner ear,V3,1
+F5905,"Conductive hearing loss, bilateral",V3,1
+F5906,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",V3,1
+F590y,Combined conductive hearing loss,V3,1
+F590z,Conductive hearing loss NOS,V3,1
+XaRE2,Mild acquired hearing loss,V3,1
+F5812,Noise-induced hearing loss,V3,1
+XA06M,Noise-induced temporary threshold shift,V3,0
+XA06N,Noise-induced permanent threshold shift,V3,0
+XaRE4,Severe acquired hearing loss,V3,1
+XaXfZ,Family history of hearing loss,V3,0
+XaRE5,Profound acquired hearing loss,V3,1
+XaRE3,Moderate acquired hearing loss,V3,1
+F582.,Unspecified sudden hearing loss,V3,1
+FyuU1,[X]Other specified hearing loss,V3,1
+ZV192,[V]Family history of hearing loss,V3,1
+XaXjZ,No family history of hearing loss,V3,1
+Ub1SV,Voice associated with hearing loss,V3,0
+Xabxq,Articulatory defect due to conductive hearing loss,V3,1
+F59..,Hearing loss,V2,1
+1C131,Unilateral deafness,V2,1
+1C132,Partial deafness,V2,1
+1C133,Bilateral deafness,V2,1
+F59z.,Chronic deafness,V2,1
+1C13.,Deafness symptom,V2,1
+F592.,Mixed hearing loss,V2,1
+F5920,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",V2,1
+F5921,"Mixed conductive and sensorineural hearing loss, bilateral",V2,1
+115..,No significant medical history,V2,0
+F5912,Neural hearing loss,V2,1
+F5913,Central hearing loss,V2,1
+F5911,Sensory hearing loss,V2,1
+Eu446,[X]Dissociative anaesthesia and sensory loss,V2,1
+E2012,Hysterical deafness,V2,0
+F591.,Perceptive hearing loss,V2,1
+F591D,Mild sensorineural hearing loss,V2,1
+F591B,Profound sensorineural hearing loss,V2,1
+F591E,Severe sensorineural hearing loss,V2,1
+F591C,Moderate sensorineural hearing loss,V2,1
+F5801,Presbyacusis,V2,1
+F5914,Congenital sensorineural deafness,V2,1
+F5918,Congenital prelingual deafness,V2,1
+F596.,Maternally inherited deafness,V2,1
+F5910,Unspecified perceptive hearing loss,V2,1
+F5916,"Sensorineural hearing loss, bilateral",V2,1
+F5919,Bilateral profound sensorineural hearing loss,V2,1
+F591A,Bilateral congenital sensorineural hearing loss,V2,1
+F5917,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",V2,1
+F591y,Combined perceptive hearing loss,V2,1
+F591z,Perceptive hearing loss NOS,V2,1
+F594.,High frequency deafness,V2,1
+F595.,Low frequency deafness,V2,1
+F5915,Ototoxicity - deafness,V2,1
+F590.,Conductive hearing loss,V2,1
+F5900,Unspecified conductive hearing loss,V2,1
+F5901,Conductive hearing loss due to disorder of external ear,V2,1
+F5902,Conductive hearing loss due to disorder of tympanic membrane,V2,1
+F5903,Conductive hearing loss due to disorder of middle ear,V2,1
+F5904,Conductive hearing loss due to disorder of inner ear,V2,1
+F5905,"Conductive hearing loss, bilateral",V2,1
+F5906,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",V2,1
+F590y,Combined conductive hearing loss,V2,1
+F590z,Conductive hearing loss NOS,V2,1
+F597.,Mild acquired hearing loss,V2,1
+F5812,Noise-induced hearing loss,V2,1
+F599.,Severe acquired hearing loss,V2,1
+12B..,FH: Ear disorder,V2,0
+F59A.,Profound acquired hearing loss,V2,1
+F598.,Moderate acquired hearing loss,V2,1
+F582.,Unspecified sudden hearing loss,V2,1
+FyuU1,[X]Other specified hearing loss,V2,1
+ZV192,[V]Family history of hearing loss,V2,1
+122..,No relevant family history,V2,0
+1Bc..,Speech and language observations,V2,0
+E2F32,Articulatory defect due to conductive hearing loss,V2,1
+H919,"Hearing loss, unspecified",MD,1
+H91,Other hearing loss,MD,1
+F446,Dissociative anaesthesia and sensory loss,MD,0
+H833,Noise effects on inner ear,MD,0
+H90,Conductive and sensorineural hearing loss,MD,1
+H930,Degenerative and vascular disorders of ear,MD,0
+Q780,Osteogenesis imperfecta,MD,0
+R488,Other and unspecified symbolic dysfunctions,MD,0
+T700,Otitic barotrauma,MD,0
+A521,Symptomatic neurosyphilis,MD,0
+H948,Other specified disorders of ear in diseases classified elsewhere,MD,0
+H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",MD,1
+S046,Injury of acoustic nerve,MD,0
+H940,Acoustic neuritis in infectious and parasitic diseases classified elsewhere,MD,0
+R448,Other and unspecified symptoms and signs involving general sensations and perceptions,MD,0
+H908,"Mixed conductive and sensorineural hearing loss, unspecified",MD,1
+H905,"Sensorineural hearing loss, unspecified",MD,1
+H906,"Mixed conductive and sensorineural hearing loss, bilateral",MD,1
+H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",MD,1
+H903,"Sensorineural hearing loss, bilateral",MD,1
+F802,Receptive language disorder,MD,0
+H911,Presbycusis,MD,1
+T818,"Other complications of procedures, not elsewhere classified",MD,0
+H910,Ototoxic hearing loss,MD,1
+H902,"Conductive hearing loss, unspecified",MD,1
+H900,"Conductive hearing loss, bilateral",MD,1
+H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",MD,1
+H912,Sudden idiopathic hearing loss,MD,1
+H918,Other specified hearing loss,MD,1
+Z822,Family history of deafness and hearing loss,MD,0
+R498,Other and unspecified voice disturbances,MD,0
+H913,"Deaf mutism, not elsewhere classified",MD,1
+Z461,Fitting and adjustment of hearing aid,MD,1
+Z974,Presence of external hearing-aid,MD,1
+38801,Presbyacusis,ICD9,1
+38802,Transient ischemic deafness,ICD9,1
+38812,Noise-induced hearing loss,ICD9,1
+3882,Sudden hearing loss NOS,ICD9,1
+389,Hearing loss,ICD9,1
+3890,Conductive hearing loss,ICD9,1
+38900,"Conductive hearing loss, unspecified",ICD9,1
+38901,"Conductive hearing loss, external ear",ICD9,1
+38902,"Conductive hearing loss, tympanic membrane",ICD9,1
+38903,"Conductive hearing loss, middle ear",ICD9,1
+38904,"Conductive hearing loss, inner ear",ICD9,1
+38905,"Conductive hearing loss, unilateral",ICD9,1
+38906,"Conductive hearing loss, bilateral",ICD9,1
+38908,Conductive hearing loss of combined types,ICD9,1
+3891,Sensorineural hearing loss,ICD9,1
+38910,"Sensorineural hearing loss, unspecified",ICD9,1
+38911,"Sensory hearing loss, bilateral",ICD9,1
+38912,"Neural hearing loss, bilateral",ICD9,1
+38913,"Neural hearing loss, unilateral",ICD9,1
+38914,Central hearing loss,ICD9,1
+38915,"Sensorineural hearing loss, unilateral",ICD9,1
+38916,"Sensorineural hearing loss, asymmetrical",ICD9,1
+38917,"Sensory hearing loss, unilateral",ICD9,1
+38918,"Sensorineural hearing loss, bilateral",ICD9,1
+3892,Mixed conductive and sensorineural hearing loss,ICD9,1
+38920,"Mixed hearing loss, unspecified",ICD9,1
+38921,"Mixed hearing loss, unilateral",ICD9,1
+38922,"Mixed hearing loss, bilateral",ICD9,1
+3897,"Deaf nonspeaking, not elsewhere classifiable",ICD9,1
+3898,Other specified forms of hearing loss,ICD9,1
+3899,Unspecified hearing loss,ICD9,1
+V412,Problems with hearing,ICD9,1
+V532,Fitting and adjustment of hearing aid,ICD9,1
+H919,"Hearing loss, unspecified",ICD10,1
+H91,Other hearing loss,ICD10,1
+F446,Dissociative anaesthesia and sensory loss,ICD10,0
+H833,Noise effects on inner ear,ICD10,0
+H90,Conductive and sensorineural hearing loss,ICD10,1
+H930,Degenerative and vascular disorders of ear,ICD10,0
+Q780,Osteogenesis imperfecta,ICD10,0
+R488,Other and unspecified symbolic dysfunctions,ICD10,0
+T700,Otitic barotrauma,ICD10,0
+A521,Symptomatic neurosyphilis,ICD10,0
+H948,Other specified disorders of ear in diseases classified elsewhere,ICD10,0
+H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",ICD10,1
+S046,Injury of acoustic nerve,ICD10,0
+H940,Acoustic neuritis in infectious and parasitic diseases classified elsewhere,ICD10,0
+R448,Other and unspecified symptoms and signs involving general sensations and perceptions,ICD10,0
+H908,"Mixed conductive and sensorineural hearing loss, unspecified",ICD10,1
+H905,"Sensorineural hearing loss, unspecified",ICD10,1
+H906,"Mixed conductive and sensorineural hearing loss, bilateral",ICD10,1
+H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",ICD10,1
+H903,"Sensorineural hearing loss, bilateral",ICD10,1
+F802,Receptive language disorder,ICD10,0
+H911,Presbycusis,ICD10,1
+T818,"Other complications of procedures, not elsewhere classified",ICD10,0
+H910,Ototoxic hearing loss,ICD10,1
+H902,"Conductive hearing loss, unspecified",ICD10,1
+H900,"Conductive hearing loss, bilateral",ICD10,1
+H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",ICD10,1
+H912,Sudden idiopathic hearing loss,ICD10,1
+H918,Other specified hearing loss,ICD10,1
+Z822,Family history of deafness and hearing loss,ICD10,0
+R498,Other and unspecified voice disturbances,ICD10,0
+H913,"Deaf mutism, not elsewhere classified",ICD10,1
+Z461,Fitting and adjustment of hearing aid,ICD10,1
+Z974,Presence of external hearing-aid,ICD10,1
+H919,"Hearing loss, unspecified",cancer,1
+H91,Other hearing loss,cancer,1
+F446,Dissociative anaesthesia and sensory loss,cancer,0
+H833,Noise effects on inner ear,cancer,0
+H90,Conductive and sensorineural hearing loss,cancer,1
+H930,Degenerative and vascular disorders of ear,cancer,0
+Q780,Osteogenesis imperfecta,cancer,0
+R488,Other and unspecified symbolic dysfunctions,cancer,0
+T700,Otitic barotrauma,cancer,0
+A521,Symptomatic neurosyphilis,cancer,0
+H948,Other specified disorders of ear in diseases classified elsewhere,cancer,0
+H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",cancer,1
+S046,Injury of acoustic nerve,cancer,0
+H940,Acoustic neuritis in infectious and parasitic diseases classified elsewhere,cancer,0
+R448,Other and unspecified symptoms and signs involving general sensations and perceptions,cancer,0
+H908,"Mixed conductive and sensorineural hearing loss, unspecified",cancer,1
+H905,"Sensorineural hearing loss, unspecified",cancer,1
+H906,"Mixed conductive and sensorineural hearing loss, bilateral",cancer,1
+H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",cancer,1
+H903,"Sensorineural hearing loss, bilateral",cancer,1
+F802,Receptive language disorder,cancer,0
+H911,Presbycusis,cancer,1
+T818,"Other complications of procedures, not elsewhere classified",cancer,0
+H910,Ototoxic hearing loss,cancer,1
+H902,"Conductive hearing loss, unspecified",cancer,1
+H900,"Conductive hearing loss, bilateral",cancer,1
+H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",cancer,1
+H912,Sudden idiopathic hearing loss,cancer,1
+H918,Other specified hearing loss,cancer,1
+Z822,Family history of deafness and hearing loss,cancer,0
+R498,Other and unspecified voice disturbances,cancer,0
+H913,"Deaf mutism, not elsewhere classified",cancer,1
+Z461,Fitting and adjustment of hearing aid,cancer,1
+Z974,Presence of external hearing-aid,cancer,1

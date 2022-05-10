@@ -1,0 +1,6 @@
+Code,Description,Source,Decision
+XaJxp,Acute hepatic failure due to drugs,V3,1
+J6357,Acute hepatic failure due to drugs,V2,1
+K711,Toxic liver disease with hepatic necrosis,MD,0
+K711,Toxic liver disease with hepatic necrosis,ICD10,0
+K711,Toxic liver disease with hepatic necrosis,cancer,0

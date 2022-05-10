@@ -1,0 +1,66 @@
+Code,Description,Source,Decision
+F152.,Motor neurone disease,V3,1
+F1524,Primary lateral sclerosis,V3,1
+F1522,Progressive bulbar palsy,V3,1
+X76ls,Progressive pseudobulbar palsy,V3,0
+F1521,Progressive muscular atrophy,V3,1
+X002i,Western Pacific motor neurone disease,V3,1
+X002j,Madras-type motor neurone disease,V3,1
+X002k,Benign monomelic amyotrophy,V3,0
+X002l,Paraneoplastic motor neurone disease,V3,0
+X002m,Amyotrophic lateral sclerosis with dementia,V3,1
+1299.,FH: Motor neurone disease,V3,0
+F152z,Motor neurone disease NOS,V3,1
+XaeCg,Amyotrophic Lateral Sclerosis Functional Rating Scale - Revised,V3,0
+X0039,Frontal lobe degeneration with motor neurone disease,V3,1
+F1520,Motor neurone disease,V3,1
+.F251,Motor neurone disease,V3,1
+F1523,Pseudobulbar palsy,V3,0
+Xaa2w,Anterior opercular syndrome,V3,0
+F152.,Motor neurone disease,V2,1
+F1524,Primary lateral sclerosis,V2,1
+F1522,Progressive bulbar palsy,V2,1
+F1523,Pseudobulbar palsy,V2,0
+F1521,Progressive muscular atrophy,V2,1
+1299.,FH: Motor neurone disease,V2,0
+F152z,Motor neurone disease NOS,V2,1
+38VT.,Amyotrophic Lateral Sclerosis Functional Rating Scale - Revised,V2,0
+Eu02z,[X] Unspecified dementia,V2,0
+F118.,Frontotemporal degeneration,V2,0
+F3265,Anterior opercular syndrome,V2,0
+1259,motor neurone disease,SR,1
+G122,Motor neuron disease,MD,1
+D489,"Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified",MD,0
+C800,"Malignant neoplasm, primary site unknown, so stated",MD,0
+C809,"Malignant neoplasm, primary site unspecified",MD,0
+G130,Paraneoplastic neuromyopathy and neuropathy,MD,0
+G318,Other specified degenerative diseases of nervous system,MD,0
+G528,Disorders of other specified cranial nerves,MD,0
+G52,Disorders of other cranial nerves,MD,0
+G50,Disorders of trigeminal nerve,MD,0
+G51,Facial nerve disorders,MD,0
+3352,Motor neurone disease,ICD9,1
+3350,Werdnig-hoffman disease,ICD9,0
+3351,Spinal muscular atrophy,ICD9,0
+3532," Cervical root lesions, not elsewhere classified",ICD9,0
+2901,Presenile dementia,ICD9,0
+G122,Motor neuron disease,ICD10,1
+D489,"Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified",ICD10,0
+C800,"Malignant neoplasm, primary site unknown, so stated",ICD10,0
+C809,"Malignant neoplasm, primary site unspecified",ICD10,0
+G130,Paraneoplastic neuromyopathy and neuropathy,ICD10,0
+G318,Other specified degenerative diseases of nervous system,ICD10,0
+G528,Disorders of other specified cranial nerves,ICD10,0
+G52,Disorders of other cranial nerves,ICD10,0
+G50,Disorders of trigeminal nerve,ICD10,0
+G51,Facial nerve disorders,ICD10,0
+G122,Motor neuron disease,cancer,1
+D489,"Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified",cancer,0
+C800,"Malignant neoplasm, primary site unknown, so stated",cancer,0
+C809,"Malignant neoplasm, primary site unspecified",cancer,0
+G130,Paraneoplastic neuromyopathy and neuropathy,cancer,0
+G318,Other specified degenerative diseases of nervous system,cancer,0
+G528,Disorders of other specified cranial nerves,cancer,0
+G52,Disorders of other cranial nerves,cancer,0
+G50,Disorders of trigeminal nerve,cancer,0
+G51,Facial nerve disorders,cancer,0

@@ -1,0 +1,61 @@
+Code,Description,Source,Decision
+F110.,Alzheimer's disease,V3,1
+XaIKB,Alzheimer's disease with early onset,V3,1
+X002y,Familial Alzheimer's disease of early onset,V3,1
+X002z,Non-familial Alzheimer's disease of early onset,V3,1
+XaIKC,Alzheimer's disease with late onset,V3,1
+X0031,Familial Alzheimer's disease of late onset,V3,1
+X0032,Non-familial Alzheimer's disease of late onset,V3,1
+X0033,Focal Alzheimer's disease,V3,1
+X003G,Progressive aphasia in Alzheimer's disease,V3,1
+Eu00.,[X]Dementia in Alzheimer's disease,V3,1
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type",V3,1
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified",V3,1
+Fyu30,[X]Other Alzheimer's disease,V3,1
+X002x,"Presenile dementia, Alzheimer's type",V3,1
+X0030,Dementia in Alzheimer's disease - type 1,V3,1
+F110.,Alzheimer's disease,V2,1
+F1100,Alzheimer's disease with early onset,V2,1
+F1101,Alzheimer's disease with late onset,V2,1
+F118.,Frontotemporal degeneration,V2,0
+Eu00.,[X]Dementia in Alzheimer's disease,V2,1
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type",V2,1
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified",V2,1
+Fyu30,[X]Other Alzheimer's disease,V2,1
+Eu000,"[X]Presenile dementia,Alzheimer's type",V2,1
+Eu001,[X]Dementia in Alzheimer's disease with late onset,V2,1
+1263,dementia/alzheimers/cognitive impairment,SR,0
+G309,"Alzheimer disease, unspecified",MD,1
+G30,Alzheimer disease,MD,1
+G300,Alzheimer disease with early onset,MD,1
+F000,Dementia in Alzheimer disease with early onset,MD,1
+G301,Alzheimer disease with late onset,MD,1
+F001,Dementia in Alzheimer disease with late onset,MD,1
+G308,Other Alzheimer disease,MD,1
+F002,"Dementia in Alzheimer disease, atypical or mixed type",MD,1
+F009,"Dementia in Alzheimer disease, unspecified",MD,1
+G318,Other specified degenerative diseases of nervous system,MD,0
+3310,Alzheimer's disease,ICD9,1
+2901,Presenile dementia,ICD9,0
+7845,Other speech disturbance,ICD9,0
+290,Senile and presenile organic psychotic conditions,ICD9,0
+G309,"Alzheimer disease, unspecified",ICD10,1
+G30,Alzheimer disease,ICD10,1
+G300,Alzheimer disease with early onset,ICD10,1
+F000,Dementia in Alzheimer disease with early onset,ICD10,1
+G301,Alzheimer disease with late onset,ICD10,1
+F001,Dementia in Alzheimer disease with late onset,ICD10,1
+G308,Other Alzheimer disease,ICD10,1
+F002,"Dementia in Alzheimer disease, atypical or mixed type",ICD10,1
+F009,"Dementia in Alzheimer disease, unspecified",ICD10,1
+G318,Other specified degenerative diseases of nervous system,ICD10,0
+G309,"Alzheimer disease, unspecified",cancer,1
+G30,Alzheimer disease,cancer,1
+G300,Alzheimer disease with early onset,cancer,1
+F000,Dementia in Alzheimer disease with early onset,cancer,1
+G301,Alzheimer disease with late onset,cancer,1
+F001,Dementia in Alzheimer disease with late onset,cancer,1
+G308,Other Alzheimer disease,cancer,1
+F002,"Dementia in Alzheimer disease, atypical or mixed type",cancer,1
+F009,"Dementia in Alzheimer disease, unspecified",cancer,1
+G318,Other specified degenerative diseases of nervous system,cancer,0

@@ -1,0 +1,12 @@
+Code,Description,Source,Decision
+70560,Carpal tunnel release,V3,1
+70564,Endoscopic carpal tunnel release,V3,1
+70562,Re-release of carpal tunnel,V3,1
+XaPuG,Revision of carpal tunnel release,V3,1
+70560,Carpal tunnel release,V2,1
+70562,Re-release of carpal tunnel,V2,1
+70564,Endoscopic carpal tunnel release,V2,1
+705A1,Revision of carpal tunnel release,V2,1
+1501,carpal tunnel surgery,SROP,
+A651,Carpal tunnel release,OPCS,1
+A692,Revision of carpal tunnel release,OPCS,1

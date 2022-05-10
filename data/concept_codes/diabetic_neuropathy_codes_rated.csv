@@ -1,0 +1,48 @@
+Code,Description,Source,Decision
+F3720,Acute painful diabetic neuropathy,V3,1
+X00Ai,Diabetic acute painful polyneuropathy,V3,1
+F3721,Chronic painful diabetic neuropathy,V3,1
+X00Aj,Diabetic chronic painful polyneuropathy,V3,1
+F3450,Diabetic mononeuritis multiplex,V3,1
+Xac0x,Diabetic peripheral neuropathic pain,V3,1
+X00Am,Diabetic truncal radiculopathy,V3,0
+X00An,Diabetic thoracic radiculopathy,V3,0
+F35z0,Diabetic mononeuritis NOS,V3,0
+F3720,Acute painful diabetic neuropathy,V2,1
+F3721,Chronic painful diabetic neuropathy,V2,1
+F372.,Polyneuropathy in diabetes,V2,0
+F3450,Diabetic mononeuritis multiplex,V2,1
+1M8..,Diabetic peripheral neuropathic pain,V2,1
+F35z0,Diabetic mononeuritis NOS,V2,0
+E144,Unspecified diabetes mellitus,MD,0
+E104,Type 1 diabetes mellitus,MD,0
+E114,Type 2 diabetes mellitus,MD,0
+E124,Malnutrition-related diabetes mellitus,MD,0
+E134,Other specified diabetes mellitus,MD,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",MD,0
+O244,Diabetes mellitus arising in pregnancy,MD,0
+O249,"Diabetes mellitus in pregnancy, unspecified",MD,0
+G632,Diabetic polyneuropathy,MD,0
+G590,Diabetic mononeuropathy,MD,0
+3572,Polyneuropathy in diabetes,ICD9,0
+3559,Mononeuritis of unspecified site,ICD9,0
+E144,Unspecified diabetes mellitus,ICD10,0
+E104,Type 1 diabetes mellitus,ICD10,0
+E114,Type 2 diabetes mellitus,ICD10,0
+E124,Malnutrition-related diabetes mellitus,ICD10,0
+E134,Other specified diabetes mellitus,ICD10,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",ICD10,0
+O244,Diabetes mellitus arising in pregnancy,ICD10,0
+O249,"Diabetes mellitus in pregnancy, unspecified",ICD10,0
+G632,Diabetic polyneuropathy,ICD10,0
+G590,Diabetic mononeuropathy,ICD10,0
+E144,Unspecified diabetes mellitus,cancer,0
+E104,Type 1 diabetes mellitus,cancer,0
+E114,Type 2 diabetes mellitus,cancer,0
+E124,Malnutrition-related diabetes mellitus,cancer,0
+E134,Other specified diabetes mellitus,cancer,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",cancer,0
+O244,Diabetes mellitus arising in pregnancy,cancer,0
+O249,"Diabetes mellitus in pregnancy, unspecified",cancer,0
+G632,Diabetic polyneuropathy,cancer,0
+G590,Diabetic mononeuropathy,cancer,0

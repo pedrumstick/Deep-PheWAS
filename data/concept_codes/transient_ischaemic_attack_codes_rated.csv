@@ -1,0 +1,141 @@
+Code,Description,Source,Decision
+XE0VK,Transient ischaemic attack,V3,1
+X00DU,Carotid territory transient ischaemic attack,V3,1
+F4236,Amaurosis fugax,V3,1
+G653.,Carotid artery syndrome hemispheric,V3,0
+X00DV,Vertebrobasilar territory transient ischaemic attack,V3,1
+X00DW,Vertebrobasilar insufficiency,V3,1
+G650.,Basilar artery syndrome,V3,0
+G651.,Vertebral artery syndrome,V3,0
+G6510,Vertebrobasilar artery syndrome,V3,0
+G652.,Subclavian steal syndrome,V3,0
+Fyu55,[X]Other transient cerebral ischaemic attacks and related syndromes,V3,1
+G654.,Multiple and bilateral precerebral artery syndromes,V3,0
+G65y.,Other transient cerebral ischaemia,V3,1
+G65z.,Transient cerebral ischaemia NOS,V3,1
+G660.,Middle cerebral artery syndrome,V3,0
+G661.,Anterior cerebral artery syndrome,V3,0
+G662.,Posterior cerebral artery syndrome,V3,0
+XaEGK,Transient ischaemic attacks,V3,1
+X3068,Transient ischaemic colitis,V3,0
+F5802,Transient ischaemic deafness,V3,0
+XaFsH,Transient myocardial ischaemia,V3,0
+XaXNG,Suspected transient ischaemic attack,V3,0
+XaZp5,High risk of transient ischaemic attack,V3,0
+Xa07k,Transient myocardial ischaemia of newborn,V3,0
+XaRCF,Transient ischaemic attack monthly review,V3,1
+XaJkS,Stroke / transient ischaemic attack referral,V3,0
+12C7.,Family history of transient ischaemic attack,V3,0
+XaXOh,Referral to transient ischaemic attack clinic,V3,0
+XaX16,[V]Personal history of transient ischaemic attack,V3,1
+XaJwA,Stroke/transient ischaemic attack monitoring status,V3,0
+XaKcm,Stroke/transient ischaemic attack monitoring invitation,V3,0
+XaJuU,Stroke/transient ischaemic attack monitoring first letter,V3,0
+XaJuX,Stroke/transient ischaemic attack monitoring second letter,V3,0
+XaKba,Stroke/transient ischaemic attack monitoring verbal invitation,V3,0
+XaJuH,Stroke/transient ischaemic attack monitoring administration,V3,0
+XaMGv,Stroke/transient ischaemic attack monitoring telephone invite,V3,0
+XaZIY,H/O amaurosis fugax,V3,1
+G65..,Transient ischaemic attack,V2,1
+G657.,Carotid territory transient ischaemic attack,V2,1
+F4236,Amaurosis fugax,V2,1
+G653.,Carotid artery syndrome hemispheric,V2,0
+G656.,Vertebrobasilar insufficiency,V2,0
+G650.,Basilar artery syndrome,V2,0
+G651.,Vertebral artery syndrome,V2,0
+G6510,Vertebro-basilar artery syndrome,V2,0
+G652.,Subclavian steal syndrome,V2,0
+Fyu55,[X]Other transient cerebral ischaemic attacks and related syndromes,V2,1
+G654.,Multiple and bilateral precerebral artery syndromes,V2,0
+G65y.,Other transient cerebral ischaemia,V2,1
+G65z.,Transient cerebral ischaemia NOS,V2,1
+G660.,Middle cerebral artery syndrome,V2,0
+G661.,Anterior cerebral artery syndrome,V2,0
+G662.,Posterior cerebral artery syndrome,V2,0
+J42z0,Ischaemic colitis NOS,V2,0
+J437.,Colitis,V2,0
+F5802,Transient ischaemic deafness,V2,0
+G31y3,Transient myocardial ischaemia,V2,0
+1JK..,Suspected transient ischaemic attack,V2,0
+33BC.,Cardiovascular event risk,V2,0
+Q494.,Transient myocardial ischaemia of newborn,V2,0
+66f..,Cardiovascular disease monitoring,V2,0
+8HBJ.,Stroke / transient ischaemic attack referral,V2,0
+12C7.,Family history of transient ischaemic attack,V2,0
+8HT..,Referral to clinic,V2,0
+ZV12D,[V]Personal history of transient ischaemic attack,V2,1
+9....,Administration,V2,0
+9Om0.,Stroke/transient ischaemic attack monitoring first letter,V2,0
+9Om1.,Stroke/transient ischaemic attack monitoring second letter,V2,0
+9Om3.,Stroke/transient ischaemic attack monitoring verbal invitation,V2,0
+9Om..,Stroke/transient ischaemic attack monitoring administration,V2,0
+9Om4.,Stroke/transient ischaemic attack monitoring telephone invite,V2,0
+14AB0,H/O amaurosis fugax,V2,1
+1082,transient ischaemic attack (tia),SR,1
+G459,"Transient cerebral ischaemic attack, unspecified",MD,1
+G45,Transient cerebral ischaemic attacks and related syndromes,MD,1
+G451,Carotid artery syndrome (hemispheric),MD,0
+G453,Amaurosis fugax,MD,1
+G450,Vertebro-basilar artery syndrome,MD,0
+G458,Other transient cerebral ischaemic attacks and related syndromes,MD,1
+G452,Multiple and bilateral precerebral artery syndromes,MD,0
+I660,Occlusion and stenosis of middle cerebral artery,MD,0
+G460,Middle cerebral artery syndrome,MD,0
+I661,Occlusion and stenosis of anterior cerebral artery,MD,0
+G461,Anterior cerebral artery syndrome,MD,0
+I662,Occlusion and stenosis of posterior cerebral artery,MD,0
+G462,Posterior cerebral artery syndrome,MD,0
+K559,"Vascular disorder of intestine, unspecified",MD,0
+K550,Acute vascular disorders of intestine,MD,0
+K551,Chronic vascular disorders of intestine,MD,0
+H930,Degenerative and vascular disorders of ear,MD,0
+I248,Other forms of acute ischaemic heart disease,MD,0
+P294,Transient myocardial ischaemia of newborn,MD,0
+Z820,Family history of epilepsy and other diseases of the nervous system,MD,0
+435,Transient cerebral ischaemia,ICD9,1
+436,Acute but ill-defined cerebrovascular disease,ICD9,0
+3688,Other specified visual disturbances,ICD9,0
+5579," Vascular insufficiency of intestine, unspecified",ICD9,0
+557,Vascular insufficiency of intestine,ICD9,0
+3880,Degenerative and vascular disorders of ear,ICD9,0
+7798,Other specified conditions originating in perinatal period,ICD9,0
+G459,"Transient cerebral ischaemic attack, unspecified",ICD10,1
+G45,Transient cerebral ischaemic attacks and related syndromes,ICD10,1
+G451,Carotid artery syndrome (hemispheric),ICD10,0
+G453,Amaurosis fugax,ICD10,1
+G450,Vertebro-basilar artery syndrome,ICD10,0
+G458,Other transient cerebral ischaemic attacks and related syndromes,ICD10,1
+G452,Multiple and bilateral precerebral artery syndromes,ICD10,0
+I660,Occlusion and stenosis of middle cerebral artery,ICD10,0
+G460,Middle cerebral artery syndrome,ICD10,0
+I661,Occlusion and stenosis of anterior cerebral artery,ICD10,0
+G461,Anterior cerebral artery syndrome,ICD10,0
+I662,Occlusion and stenosis of posterior cerebral artery,ICD10,0
+G462,Posterior cerebral artery syndrome,ICD10,0
+K559,"Vascular disorder of intestine, unspecified",ICD10,0
+K550,Acute vascular disorders of intestine,ICD10,0
+K551,Chronic vascular disorders of intestine,ICD10,0
+H930,Degenerative and vascular disorders of ear,ICD10,0
+I248,Other forms of acute ischaemic heart disease,ICD10,0
+P294,Transient myocardial ischaemia of newborn,ICD10,0
+Z820,Family history of epilepsy and other diseases of the nervous system,ICD10,0
+G459,"Transient cerebral ischaemic attack, unspecified",cancer,1
+G45,Transient cerebral ischaemic attacks and related syndromes,cancer,1
+G451,Carotid artery syndrome (hemispheric),cancer,0
+G453,Amaurosis fugax,cancer,1
+G450,Vertebro-basilar artery syndrome,cancer,0
+G458,Other transient cerebral ischaemic attacks and related syndromes,cancer,1
+G452,Multiple and bilateral precerebral artery syndromes,cancer,0
+I660,Occlusion and stenosis of middle cerebral artery,cancer,0
+G460,Middle cerebral artery syndrome,cancer,0
+I661,Occlusion and stenosis of anterior cerebral artery,cancer,0
+G461,Anterior cerebral artery syndrome,cancer,0
+I662,Occlusion and stenosis of posterior cerebral artery,cancer,0
+G462,Posterior cerebral artery syndrome,cancer,0
+K559,"Vascular disorder of intestine, unspecified",cancer,0
+K550,Acute vascular disorders of intestine,cancer,0
+K551,Chronic vascular disorders of intestine,cancer,0
+H930,Degenerative and vascular disorders of ear,cancer,0
+I248,Other forms of acute ischaemic heart disease,cancer,0
+P294,Transient myocardial ischaemia of newborn,cancer,0
+Z820,Family history of epilepsy and other diseases of the nervous system,cancer,0

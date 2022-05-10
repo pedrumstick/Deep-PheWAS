@@ -1,0 +1,57 @@
+Code,Description,Source,Decision
+H32..,Emphysema,V2,1
+H3200,Segmental bullous emphysema,V2,1
+H3201,Zonal bullous emphysema,V2,1
+H3202,Giant bullous emphysema,V2,1
+H3203,Bullous emphysema with collapse,V2,1
+H320z,Chronic bullous emphysema NOS,V2,1
+H321.,Panlobular emphysema,V2,1
+H322.,Centrilobular emphysema,V2,1
+H32y.,Other emphysema,V2,1
+H32y0,Acute vesicular emphysema,V2,1
+H32z.,Emphysema NOS,V2,1
+H32..,Emphysema,V3,1
+X101n,Pulmonary emphysema,V3,1
+X101o,Pulmonary emphysema in alpha-1 PI deficiency,V3,1
+X101p,Toxic emphysema,V3,1
+H4640,Chronic emphysema due to chemical fumes,V3,1
+H320.,Chronic bullous emphysema,V3,1
+H3202,Giant bullous emphysema,V3,1
+H3200,Segmental bullous emphysema,V3,1
+H3201,Zonal bullous emphysema,V3,1
+H320z,Chronic bullous emphysema NOS,V3,1
+XE0YN,Bullous emphysema with collapse,V3,1
+H582.,Compensatory emphysema,V3,1
+X101q,Congenital lobar emphysema,V3,1
+X101r,Scar emphysema,V3,1
+XaIQg,Interstitial pulmonary emphysema,V3,1
+H32y2,MacLeods syndrome,V3,1
+H321.,Panlobular emphysema,V3,1
+H322.,Centrilobular emphysema,V3,1
+H32y.,Other emphysema,V3,1
+H32y0,Acute vesicular emphysema,V3,1
+Hyu30,[X]Other emphysema,V3,1
+XE0YO,Atrophic (senile) emphysema,V3,1
+XE0YP,Other emphysema NOS,V3,1
+H32z.,Emphysema NOS,V3,1
+J43,Emphysema,ICD10,1
+J430,MacLeod syndrome,ICD10,1
+J431,Panlobular emphysema,ICD10,1
+J432,Centrilobular emphysema,ICD10,1
+J438,Other emphysema,ICD10,1
+J439,"Emphysema, unspecified",ICD10,1
+J43,Emphysema,cancer,1
+J430,MacLeod syndrome,cancer,1
+J431,Panlobular emphysema,cancer,1
+J432,Centrilobular emphysema,cancer,1
+J438,Other emphysema,cancer,1
+J439,"Emphysema, unspecified",cancer,1
+J43,Emphysema,MD,1
+J430,MacLeod syndrome,MD,1
+J431,Panlobular emphysema,MD,1
+J432,Centrilobular emphysema,MD,1
+J438,Other emphysema,MD,1
+J439,"Emphysema, unspecified",MD,1
+492,Emphysema,ICD9,1
+492,Emphysematous bleb,ICD9,1
+492.8,Other emphysema,ICD9,1

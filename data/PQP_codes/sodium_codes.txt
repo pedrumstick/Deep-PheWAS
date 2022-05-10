@@ -1,0 +1,6 @@
+read_code	term_description	type
+44I5.	Serum sodium	read_V2
+44I5.	Serum sodium (& level)	read_V3
+44I5.	Serum sodium	read_V3
+XE2q0	Serum sodium level	read_V3
+XE2q0	Serum sodium	read_V3

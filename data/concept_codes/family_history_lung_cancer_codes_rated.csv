@@ -1,0 +1,6 @@
+Code,Description,Source,Decision
+XaaLh,FH: Lung cancer,V3,1
+1242.,FH: * - trachea/bronchus/lung,V2,1
+Z801,Family history of malignant neoplasm of the trachea/bronchus/lung,ICD10,1
+Z801,Family history of malignant neoplasm of the trachea/bronchus/lung,MD,1
+Z801,Family history of malignant neoplasm of the trachea/bronchus/lung,cancer,1

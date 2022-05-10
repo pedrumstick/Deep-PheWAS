@@ -1,0 +1,161 @@
+Code,Description,Source,Decision
+XaZd1,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),V3,1
+XaJFu,Admit COPD emergency,V3,1
+H3...,COPD - Chronic obstructive pulmonary disease,V3,1
+H3122,Acute exacerbation of chronic obstructive airways disease,V3,1
+Xa35l,Acute infective exacerbation of chronic obstructive airways disease,V3,1
+XaIND,End stage chronic obstructive airways disease,V3,1
+H3y0.,Chronic obstructive pulmonary disease with acute lower respiratory infection,V3,1
+X101i,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",V3,1
+H312z,Obstructive chronic bronchitis NOS,V3,1
+H3y..,Other specified chronic obstructive airways disease,V3,1
+XaN4a,Very severe chronic obstructive pulmonary disease,V3,1
+XaEIY,Severe chronic obstructive pulmonary disease,V3,1
+H32..,Emphysema,V3,1
+XaKv8,Chronic obstructive pulmonary disease disturbs sleep,V3,1
+XaKv9,Chronic obstructive pulmonary disease does not disturb sleep,V3,1
+663K.,Airways obstructn irreversible,V3,1
+H3z..,Chronic obstructive pulmonary disease NOS,V3,1
+XaIQT,Chronic obstructive pulmonary disease monitoring,V3,1
+XaIUt,Chronic obstructive pulmonary disease self-management plan given,V3,1
+XaIet,Chronic obstructive pulmonary disease annual review,V3,1
+XaIu7,Chronic obstructive pulmonary disease monitoring by nurse,V3,1
+XaIu8,Chronic obstructive pulmonary disease monitoring by doctor,V3,1
+XaRCG,Step down change in chronic obstructive pulmonary disease management plan,V3,1
+XaRCH,Step up change in chronic obstructive pulmonary disease management plan,V3,1
+XaXCa,Chronic obstructive pulmonary disease 3 monthly review,V3,1
+XaXCb,Chronic obstructive pulmonary disease 6 monthly review,V3,1
+XaavA,Shared care chronic obstructive pulmonary disease monitoring,V3,1
+Xac8s,Telehealth chronic obstructive pulmonary disease monitoring,V3,1
+XaEIW,Moderate chronic obstructive pulmonary disease,V3,1
+XaEIV,Mild chronic obstructive pulmonary disease,V3,1
+H322.,Centrilobular emphysema,V3,1
+H3121,Emphysematous bronchitis,V3,1
+XaIes,Chronic obstructive pulmonary disease follow-up,V3,1
+XaJlS,Chronic obstructive pulmonary disease monitoring administration,V3,1
+XaJlT,Chronic obstructive pulmonary disease monitoring 1st letter,V3,1
+XaJlU,Chronic obstructive pulmonary disease monitoring 2nd letter,V3,1
+XaJlV,Chronic obstructive pulmonary disease monitoring 3rd letter,V3,1
+XaJlW,Chronic obstructive pulmonary disease monitoring verbal invite,V3,1
+XaJlY,Chronic obstructive pulmonary disease monitoring phone invite,V3,1
+H320z,Chronic bullous emphysema NOS,V3,1
+H320.,Chronic bullous emphysema,V3,1
+H3202,Giant bullous emphysema,V3,1
+H3200,Segmental bullous emphysema,V3,1
+H3201,Zonal bullous emphysema,V3,1
+XE0YN,Bullous emphysema with collapse,V3,1
+H32z.,Emphysema NOS,V3,1
+XaIRO,Chronic obstructive pulmonary disease monitoring due,V3,1
+XaLqj,Health education - chronic obstructive pulmonary disease,V3,1
+H3122,Acute exacerbation of chronic obstructive airways disease,V2,1
+8H2R.,Admit COPD emergency,V2,1
+H3...,Chronic obstructive pulmonary disease,V2,1
+H3A..,End stage chronic obstructive airways disease,V2,1
+H3y0.,Chronic obstructive pulmonary disease with acute lower respiratory infection,V2,1
+H3y1.,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",V2,1
+H312z,Obstructive chronic bronchitis NOS,V2,1
+H3y..,Other specified chronic obstructive airways disease,V2,1
+H39..,Very severe chronic obstructive pulmonary disease,V2,1
+H38..,Severe chronic obstructive pulmonary disease,V2,1
+H32..,Emphysema,V2,1
+66Yg.,Chronic obstructive pulmonary disease disturbs sleep,V2,1
+66Yh.,Chronic obstructive pulmonary disease does not disturb sleep,V2,1
+663K.,Airways obstructn irreversible,V2,1
+H3z..,Chronic obstructive pulmonary disease NOS,V2,1
+66YB.,Chronic obstructive pulmonary disease monitoring,V2,1
+66YI.,Chronic obstructive pulmonary disease self-management plan given,V2,1
+66YM.,Chronic obstructive pulmonary disease annual review,V2,1
+66YS.,Chronic obstructive pulmonary disease monitoring by nurse,V2,1
+66YT.,Chronic obstructive pulmonary disease monitoring by doctor,V2,1
+66YB0,Chronic obstructive pulmonary disease 3 monthly review,V2,1
+66YB1,Chronic obstructive pulmonary disease 6 monthly review,V2,1
+66Yz2,Shared care chronic obstructive pulmonary disease monitoring,V2,1
+66YB2,Telehealth chronic obstructive pulmonary disease monitoring,V2,1
+H37..,Moderate chronic obstructive pulmonary disease,V2,1
+H36..,Mild chronic obstructive pulmonary disease,V2,1
+H322.,Centrilobular emphysema,V2,1
+H3121,Emphysematous bronchitis,V2,1
+66YL.,Chronic obstructive pulmonary disease follow-up,V2,1
+9Oi..,Chronic obstructive pulmonary disease monitoring administration,V2,1
+9Oi0.,Chronic obstructive pulmonary disease monitoring 1st letter,V2,1
+9Oi1.,Chronic obstructive pulmonary disease monitoring 2nd letter,V2,1
+9Oi2.,Chronic obstructive pulmonary disease monitoring 3rd letter,V2,1
+9Oi3.,Chronic obstructive pulmonary disease monitoring verbal invite,V2,1
+9Oi4.,Chronic obstructive pulmonary disease monitoring phone invite,V2,1
+H320z,Chronic bullous emphysema NOS,V2,1
+H320.,Chronic bullous emphysema,V2,1
+H3202,Giant bullous emphysema,V2,1
+H3200,Segmental bullous emphysema,V2,1
+H3201,Zonal bullous emphysema,V2,1
+H3203,Bullous emphysema with collapse,V2,1
+H32z.,Emphysema NOS,V2,1
+66YD.,Chronic obstructive pulmonary disease monitoring due,V2,1
+679V.,Health education - chronic obstructive pulmonary disease,V2,1
+496,"CHRONIC AIRWAYS OBSTRUCTION, NOT ELSEWHERE CLASSIFIED",ICD9,1
+4912,OBSTRUCTIVE CHRONIC BRONCHITIS,ICD9,1
+492,EMPHYSEMA,ICD9,1
+1112,chronic obstructive airways disease/copd,SR,1
+1113,emphysema/chronic bronchitis,SR,1
+1114,bronchiectasis,SR,0
+491,Chronic bronchitis,ICD9,1
+491,Simple chronic bronchitis,ICD9,1
+4911,Mucopurulent chronic bronchitis,ICD9,1
+4912,Obstructive chronic bronchitis,ICD9,1
+49121,Obstructive chronic bronchitis with (acute) exacerbation,ICD9,1
+49122,Obstructive chronic bronchitis with acute bronchitis,ICD9,1
+4918,Other chronic bronchitis,ICD9,1
+4919,Chronic bronchitis NOS,ICD9,1
+492,Emphysema,ICD9,1
+4928,Other emphysema,ICD9,1
+496,"Chronic airway obstruction, not elsewhere classified",ICD9,1
+J41,Simple and mucopurulent chronic bronchitis,ICD10,1
+J410,Simple chronic bronchitis,ICD10,1
+J411,Mucopurulent chronic bronchitis,ICD10,1
+J418,Mixed simple and mucopurulent chronic bronchitis,ICD10,1
+J42,Unspecified chronic bronchitis,ICD10,1
+J43,Emphysema,ICD10,1
+J430,MacLeod syndrome,ICD10,0
+J431,Panlobular emphysema,ICD10,1
+J432,Centrilobular emphysema,ICD10,1
+J438,Other emphysema,ICD10,1
+J439,"Emphysema, unspecified",ICD10,1
+J44,Other chronic obstructive pulmonary disease,ICD10,1
+J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10,1
+J441,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",ICD10,1
+J448,Other specified chronic obstructive pulmonary disease,ICD10,1
+J449,"Chronic obstructive pulmonary disease, unspecified",ICD10,1
+J47,Bronchiectasis,ICD10,0
+J41,Simple and mucopurulent chronic bronchitis,MD,1
+J410,Simple chronic bronchitis,MD,1
+J411,Mucopurulent chronic bronchitis,MD,1
+J418,Mixed simple and mucopurulent chronic bronchitis,MD,1
+J42,Unspecified chronic bronchitis,MD,1
+J43,Emphysema,MD,1
+J430,MacLeod syndrome,MD,0
+J431,Panlobular emphysema,MD,1
+J432,Centrilobular emphysema,MD,1
+J438,Other emphysema,MD,1
+J439,"Emphysema, unspecified",MD,1
+J44,Other chronic obstructive pulmonary disease,MD,1
+J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,MD,1
+J441,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",MD,1
+J448,Other specified chronic obstructive pulmonary disease,MD,1
+J449,"Chronic obstructive pulmonary disease, unspecified",MD,1
+J47,Bronchiectasis,MD,0
+J41,Simple and mucopurulent chronic bronchitis,cancer,1
+J410,Simple chronic bronchitis,cancer,1
+J411,Mucopurulent chronic bronchitis,cancer,1
+J418,Mixed simple and mucopurulent chronic bronchitis,cancer,1
+J42,Unspecified chronic bronchitis,cancer,1
+J43,Emphysema,cancer,1
+J430,MacLeod syndrome,cancer,0
+J431,Panlobular emphysema,cancer,1
+J432,Centrilobular emphysema,cancer,1
+J438,Other emphysema,cancer,1
+J439,"Emphysema, unspecified",cancer,1
+J44,Other chronic obstructive pulmonary disease,cancer,1
+J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,cancer,1
+J441,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",cancer,1
+J448,Other specified chronic obstructive pulmonary disease,cancer,1
+J449,"Chronic obstructive pulmonary disease, unspecified",cancer,1
+J47,Bronchiectasis,cancer,0

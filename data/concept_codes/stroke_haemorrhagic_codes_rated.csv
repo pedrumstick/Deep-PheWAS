@@ -1,0 +1,87 @@
+Code,Description,Source,Decision
+X00DI,Haemorrhagic cerebral infarction,V3,1
+X00DJ,Anterior cerebral circulation haemorrhagic infarction,V3,1
+X00DK,Posterior cerebral circulation haemorrhagic infarction,V3,1
+XE0VF,Cerebral parenchymal haemorrhage,V3,1
+X00DL,Massive supratentorial cerebral haemorrhage,V3,1
+X00DM,Lobar cerebral haemorrhage,V3,1
+X00DN,Subcortical cerebral haemorrhage,V3,1
+X00DO,Thalamic haemorrhage,V3,1
+G612.,Basal ganglia haemorrhage,V3,1
+G611.,Internal capsule haemorrhage,V3,1
+X00DP,Lacunar haemorrhage,V3,1
+X00DQ,Brainstem haemorrhage,V3,1
+G615.,Bulbar haemorrhage,V3,1
+G613.,Cerebellar haemorrhage,V3,1
+Xa0Bj,Intracerebellar and posterior fossa haemorrhage,V3,1
+G610.,Cortical haemorrhage,V3,1
+XaBM4,"Left sided intracerebral haemorrhage, unspecified",V3,1
+XaBM5,"Right sided intracerebral haemorrhage, unspecified",V3,1
+G616.,External capsule haemorrhage,V3,1
+G618.,"Intracerebral haemorrhage, multiple localised",V3,1
+G61z.,Intracerebral haemorrhage NOS,V3,1
+G61..,Intracerebral haemorrhage,V2,1
+G619.,Lobar cerebral haemorrhage,V2,1
+G612.,Basal nucleus haemorrhage,V2,1
+G611.,Internal capsule haemorrhage,V2,1
+G615.,Bulbar haemorrhage,V2,1
+G613.,Cerebellar haemorrhage,V2,1
+G610.,Cortical haemorrhage,V2,1
+G61X0,"Left sided intracerebral haemorrhage, unspecified",V2,1
+G61X1,"Right sided intracerebral haemorrhage, unspecified",V2,1
+G616.,External capsule haemorrhage,V2,1
+G618.,"Intracerebral haemorrhage, multiple localized",V2,1
+G61z.,Intracerebral haemorrhage NOS,V2,1
+1491,brain haemorrhage,SR,1
+I619,"Intracerebral haemorrhage, unspecified",MD,1
+I61,Intracerebral haemorrhage,MD,1
+P101,Cerebral haemorrhage due to birth injury,MD,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,MD,0
+I620,Subdural haemorrhage (acute)(nontraumatic),MD,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",MD,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",MD,1
+I615,"Intracerebral haemorrhage, intraventricular",MD,1
+I618,Other intracerebral haemorrhage,MD,1
+I613,Intracerebral haemorrhage in brain stem,MD,1
+I614,Intracerebral haemorrhage in cerebellum,MD,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,MD,0
+I616,"Intracerebral haemorrhage, multiple localized",MD,1
+I691,Sequelae of intracerebral haemorrhage,MD,0
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",MD,1
+I690,Sequelae of subarachnoid haemorrhage,MD,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,MD,0
+431,intracerebral haemorrhage,ICD9,1
+I619,"Intracerebral haemorrhage, unspecified",cancer,1
+I61,Intracerebral haemorrhage,cancer,1
+P101,Cerebral haemorrhage due to birth injury,cancer,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,cancer,0
+I620,Subdural haemorrhage (acute)(nontraumatic),cancer,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",cancer,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",cancer,1
+I615,"Intracerebral haemorrhage, intraventricular",cancer,1
+I618,Other intracerebral haemorrhage,cancer,1
+I613,Intracerebral haemorrhage in brain stem,cancer,1
+I614,Intracerebral haemorrhage in cerebellum,cancer,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,cancer,0
+I616,"Intracerebral haemorrhage, multiple localized",cancer,1
+I691,Sequelae of intracerebral haemorrhage,cancer,0
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",cancer,1
+I690,Sequelae of subarachnoid haemorrhage,cancer,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,cancer,0
+I619,"Intracerebral haemorrhage, unspecified",ICD10,1
+I61,Intracerebral haemorrhage,ICD10,1
+P101,Cerebral haemorrhage due to birth injury,ICD10,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,ICD10,0
+I620,Subdural haemorrhage (acute)(nontraumatic),ICD10,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",ICD10,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",ICD10,1
+I615,"Intracerebral haemorrhage, intraventricular",ICD10,1
+I618,Other intracerebral haemorrhage,ICD10,1
+I613,Intracerebral haemorrhage in brain stem,ICD10,1
+I614,Intracerebral haemorrhage in cerebellum,ICD10,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,ICD10,0
+I616,"Intracerebral haemorrhage, multiple localized",ICD10,1
+I691,Sequelae of intracerebral haemorrhage,ICD10,0
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",ICD10,1
+I690,Sequelae of subarachnoid haemorrhage,ICD10,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,ICD10,0

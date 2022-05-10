@@ -1,0 +1,15 @@
+read_code	term_description	type
+442..	TSH level	read_V2
+442A.	TSH - thyroid stim. hormone	read_V2
+442W.	Serum TSH level	read_V2
+442X.	Plasma TSH level	read_V2
+442..	(Thyroid function tests (& thyroid hormone)) or (level: [TRH] or [TSH]) or (thyroxine binding globulin)	read_V3
+442..	TSH level	read_V3
+442A.	TSH - thyroid stimulating hormone (& level)	read_V3
+442A.	TSH - thyroid stim. hormone	read_V3
+X80Gc	TSH - Thyroid stimulating hormone	read_V3
+XaELV	Serum TSH level	read_V3
+XaELW	Plasma TSH level	read_V3
+XE27u	TSH - Thyroid stimulating hormone	read_V3
+XE27u	TSH - thyroid stim. hormone	read_V3
+XE2wy	TSH - Thyroid stimulating hormone level	read_V3

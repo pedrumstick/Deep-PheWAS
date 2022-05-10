@@ -1,0 +1,196 @@
+Code,Description,Source,Decision
+F2620,Neuralgic migraine,V3,1
+X007a,Chronic paroxysmal hemicrania,V3,1
+X007W,Episodic cluster headache,V3,1
+X007X,Chronic cluster headache,V3,1
+X007Y,Chronic cluster headache unremitting from onset,V3,1
+X007Z,Chronic cluster headache evolved from episodic cluster headache,V3,1
+X007b,Atypical cluster headache,V3,1
+XE0rh,Headache,V3,1
+XaMIU,Increased frequency of headaches,V3,0
+XE0s6,Frontal headache,V3,1
+1BA8.,Temporal headache,V3,1
+1BA7.,Parietal headache,V3,1
+1BA6.,Occipital headache,V3,1
+1BA2.,Generalised headache,V3,1
+Xa0wU,Cervicogenic headache,V3,1
+1B1G0,Sinus headache,V3,1
+1B1G1,Viral headache,V3,1
+1BA3.,Unilateral headache,V3,1
+1BA4.,Bilateral headache,V3,1
+1BAZ.,Headache site NOS,V3,1
+1BB..,Headache character,V3,1
+1BB1.,Aching headache,V3,1
+1BB2.,Throbbing headache,V3,1
+1BB3.,Shooting headache,V3,1
+1BB4.,Morning headache,V3,1
+1BBZ.,Headache character NOS,V3,1
+1BB5.,Heavy head,V3,1
+61461,Headache caused by oral contraceptive pill,V3,1
+R040.,[D]Headache,V3,1
+XE1Yl,Stress headache,V3,1
+X007U,Episodic tension-type headache,V3,1
+XaXsF,Frequent episodic tension-type headache,V3,1
+XaXpZ,Infrequent episodic tension-type headache,V3,1
+X007V,Chronic tension-type headache,V3,1
+X007T,Muscular headache,V3,1
+X007I,Headache disorder,V3,1
+XaXrD,Paroxysmal hemicrania,V3,1
+XaXsc,Trigeminal autonomic cephalalgia,V3,1
+X007c,Chronic post-traumatic headache,V3,1
+X007d,Low pressure headache,V3,1
+X007h,Idiopathic stabbing headache,V3,1
+X007e,Post dural puncture headache,V3,1
+XE15e,Headache following lumbar puncture,V3,1
+X007f,Headache following myelography,V3,1
+L384.,Obstetric spinal and epidural anaesthesia-induced headache,V3,1
+L3840,Spinal and epidural anaesthesia-induced headache during pregnancy,V3,1
+L3841,Spinal and epidural anaesthesia-induced headache during the puerperium,V3,1
+L387.,Spinal and epidural anaesthesia-induced headache during labour and delivery,V3,1
+X007i,External compression headache,V3,1
+X007j,Cold stimulus headache,V3,1
+X007k,Benign cough headache,V3,1
+X007l,Benign exertion headache,V3,1
+X007m,Headache associated with sexual activity,V3,1
+XaIsz,Benign coital headache,V3,1
+X007o,Headache associated with substance abuse or withdrawal,V3,1
+XaLSP,Medication overuse headache,V3,1
+X007p,Hangover from alcohol,V3,0
+X007n,Carotidynia,V3,1
+F2611,Sick headache,V3,1
+Fyu54,[X]Other specified headache syndromes,V3,1
+Fyu5A,"[X]Vascular headache, not elsewhere classified",V3,1
+Fyu5B,"[X]Drug-induced headache, not elsewhere classified",V3,1
+K5A22,Menopausal headache,V3,1
+XaQZd,Chronic headache disorder,V3,1
+F2620,Cluster headache,V2,1
+F2627,Chronic paroxysmal hemicrania,V2,1
+1B1G.,Headache,V2,1
+1BA5.,Frontal headache,V2,1
+1BA8.,Temporal headache,V2,1
+1BA7.,Parietal headache,V2,1
+1BA6.,Occipital headache,V2,1
+1BA2.,Generalised headache,V2,1
+Fyu5D,[X]Cervicogenic headache,V2,1
+1B1G0,Sinus headache,V2,1
+1B1G1,Viral headache,V2,1
+1BA3.,Unilateral headache,V2,1
+1BA4.,Bilateral headache,V2,1
+1BAZ.,Headache site NOS,V2,1
+1BB..,Headache character,V2,1
+1BB1.,Aching headache,V2,1
+1BB2.,Throbbing headache,V2,1
+1BB3.,Shooting headache,V2,1
+1BB4.,Morning headache,V2,1
+1BBZ.,Headache character NOS,V2,1
+1BB5.,Heavy head,V2,1
+61461,Headache caused by oral contraceptive pill,V2,1
+R040.,[D]Headache,V2,1
+E2781,Tension headache,V2,1
+F262A,Frequent episodic tension-type headache,V2,1
+F2629,Infrequent episodic tension-type headache,V2,1
+F262B,Chronic tension-type headache,V2,1
+F262D,Paroxysmal hemicrania,V2,1
+F262E,Trigeminal autonomic cephalalgia,V2,1
+F29y5,Chronic post-traumatic headache,V2,1
+F2900,Headache after lumbar puncture,V2,1
+L384.,Obstetric spinal and epidural anaesthesia-induced headache,V2,1
+L3840,Spinal and epidural anaesthesia-induced headache during pregnancy,V2,1
+L3841,Spinal and epidural anaesthesia-induced headache during the puerperium,V2,1
+L387.,Spinal and epidural anaesthesia-induced headache during labour and delivery,V2,1
+Fyu5F,[X]Primary cough headache,V2,1
+Fyu5G,[X]Primary exertional headache,V2,1
+Fyu5H,[X]Headache associated with sexual activity,V2,1
+Fyu5C,[X]Benign coital headache,V2,1
+F2W0.,Medication overuse headache,V2,1
+E250.,Nondependent alcohol abuse,V2,0
+F2611,Sick headache,V2,1
+Fyu54,[X]Other specified headache syndromes,V2,1
+Fyu5A,"[X]Vascular headache, not elsewhere classified",V2,1
+Fyu5B,"[X]Drug-induced headache, not elsewhere classified",V2,1
+K5A22,Menopausal headache,V2,1
+Fyu5E,[X]Chronic headache disorder,V2,1
+1436,headaches (mot migraine),SR,1
+G440,Cluster headache syndrome,MD,1
+R51,Headache,MD,1
+F454,Persistent somatoform pain disorder,MD,0
+G43,Migraine,MD,0
+G44,Other headache syndromes,MD,1
+G971,Other reaction to spinal and lumbar puncture,MD,0
+O294,Spinal and epidural anaesthesia-induced headache during pregnancy,MD,1
+O745,Spinal and epidural anaesthesia-induced headache during labour and delivery,MD,1
+O894,Spinal and epidural anaesthesia-induced headache during the puerperium,MD,1
+T885,Other complications of anaesthesia,MD,0
+G448,Other specified headache syndromes,MD,1
+G442,Tension-type headache,MD,1
+G444,"Drug-induced headache, not elsewhere classified",MD,1
+Y424,Oral contraceptives,MD,0
+G443,Chronic post-traumatic headache,MD,1
+F100,Mental and behavioural disorders due to use of alcohol,MD,0
+I779,"Disorder of arteries and arterioles, unspecified",MD,0
+G441,"Vascular headache, not elsewhere classified",MD,1
+N950,Postmenopausal bleeding,MD,0
+339,Other headache syndromes,ICD9,1
+33905,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing,ICD9,1
+33909,Other trigeminal autonomic cephalgias,ICD9,1
+3391,Tension type headache,ICD9,1
+33910,Tension headache NOS,ICD9,1
+33911,Episodic tension type headache,ICD9,1
+33912,Chronic tension type headache,ICD9,1
+3392,Post-traumatic headache,ICD9,1
+33920,"Post-traumatic headache, unspecified",ICD9,1
+33921,Acute post-traumatic headache,ICD9,1
+33922,Chronic post-traumatic headache,ICD9,1
+3393,"Drug induced headache, not elsewhere classified",ICD9,1
+3394,Complicated headache syndromes,ICD9,1
+33941,Hemicrania continua,ICD9,1
+33942,New daily persistent headache,ICD9,1
+33943,Primary thunderclap headache,ICD9,1
+33944,Other complicated headache syndrome,ICD9,1
+3398,Other specified headache syndromes,ICD9,1
+33981,Hypnic headache,ICD9,1
+33982,Headache associated with sexual activity,ICD9,1
+33983,Primary cough headache,ICD9,1
+33984,Primary exertional headache,ICD9,1
+33985,Primary stabbing headache,ICD9,1
+33989,Other specified headache syndromes,ICD9,1
+7840,Headache,ICD9,1
+30781,Tension headache,ICD9,1
+G440,Cluster headache syndrome,ICD10,1
+R51,Headache,ICD10,1
+F454,Persistent somatoform pain disorder,ICD10,0
+G43,Migraine,ICD10,0
+G44,Other headache syndromes,ICD10,1
+G971,Other reaction to spinal and lumbar puncture,ICD10,0
+O294,Spinal and epidural anaesthesia-induced headache during pregnancy,ICD10,1
+O745,Spinal and epidural anaesthesia-induced headache during labour and delivery,ICD10,1
+O894,Spinal and epidural anaesthesia-induced headache during the puerperium,ICD10,1
+T885,Other complications of anaesthesia,ICD10,0
+G448,Other specified headache syndromes,ICD10,1
+G442,Tension-type headache,ICD10,1
+G444,"Drug-induced headache, not elsewhere classified",ICD10,1
+Y424,Oral contraceptives,ICD10,0
+G443,Chronic post-traumatic headache,ICD10,1
+F100,Mental and behavioural disorders due to use of alcohol,ICD10,0
+I779,"Disorder of arteries and arterioles, unspecified",ICD10,0
+G441,"Vascular headache, not elsewhere classified",ICD10,1
+N950,Postmenopausal bleeding,ICD10,0
+G440,Cluster headache syndrome,cancer,1
+R51,Headache,cancer,1
+F454,Persistent somatoform pain disorder,cancer,0
+G43,Migraine,cancer,0
+G44,Other headache syndromes,cancer,1
+G971,Other reaction to spinal and lumbar puncture,cancer,0
+O294,Spinal and epidural anaesthesia-induced headache during pregnancy,cancer,1
+O745,Spinal and epidural anaesthesia-induced headache during labour and delivery,cancer,1
+O894,Spinal and epidural anaesthesia-induced headache during the puerperium,cancer,1
+T885,Other complications of anaesthesia,cancer,0
+G448,Other specified headache syndromes,cancer,1
+G442,Tension-type headache,cancer,1
+G444,"Drug-induced headache, not elsewhere classified",cancer,1
+Y424,Oral contraceptives,cancer,0
+G443,Chronic post-traumatic headache,cancer,1
+F100,Mental and behavioural disorders due to use of alcohol,cancer,0
+I779,"Disorder of arteries and arterioles, unspecified",cancer,0
+G441,"Vascular headache, not elsewhere classified",cancer,1
+N950,Postmenopausal bleeding,cancer,0

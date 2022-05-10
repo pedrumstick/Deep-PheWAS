@@ -1,0 +1,15 @@
+Code,Description,Source,Decision
+F134.,Huntington's disease,V3,1
+X003p,Juvenile onset Huntington's disease,V3,1
+X003q,Late onset Huntington's disease,V3,1
+X003r,Akinetic-rigid form of Huntington's disease,V3,1
+Eu022,[X]Dementia in Huntington's disease,V3,1
+F134.,Huntington's chorea,V2,1
+Eu022,[X]Dementia in Huntington's disease,V2,1
+G10X,Huntington disease,MD,1
+F022,Dementia in Huntington disease,MD,1
+3334,Huntington's chorea,ICD9,1
+G10X,Huntington disease,ICD10,1
+F022,Dementia in Huntington disease,ICD10,1
+G10X,Huntington disease,cancer,1
+F022,Dementia in Huntington disease,cancer,1

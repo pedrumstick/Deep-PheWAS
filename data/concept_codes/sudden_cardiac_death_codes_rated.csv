@@ -1,0 +1,7 @@
+Code,Description,Source,Decision
+G5751,"Sudden cardiac death, so described",V3,1
+G5751,"Sudden cardiac death, so described",V2,1
+I461,"Sudden cardiac death, so described",MD,1
+4275,Cardiac arrest,ICD9,0
+I461,"Sudden cardiac death, so described",ICD10,1
+I461,"Sudden cardiac death, so described",cancer,1

@@ -1,0 +1,121 @@
+Code,Description,Source,Decision
+X202W,Ventricular arrhythmia,V3,1
+G5740,Ventricular fibrillation,V3,1
+X202X,Paroxysmal familial ventricular fibrillation,V3,1
+X202K,Ventricular tachycardia,V3,1
+X202L,Ventricular tachycardia with normal heart,V3,1
+X202M,Familial ventricular tachycardia,V3,1
+X202N,Induced ventricular tachycardia,V3,1
+X202O,Incessant infant ventricular tachycardia,V3,1
+X202P,Right ventricular outflow tract ventricular tachycardia,V3,1
+X77BS,Wide QRS ventricular tachycardia,V3,1
+X77BT,Narrow QRS ventricular tachycardia,V3,1
+X77BU,"Ventricular tachycardia, monomorphic",V3,1
+X77BV,"Ventricular tachycardia, polymorphic",V3,1
+X77BW,"Ventricular tachycardia, polymorphic without Q-T prolongation",V3,1
+X77BX,"Ventricular tachycardia, polymorphic with Q-T prolongation",V3,1
+XE0V4,Paroxysmal ventricular tachycardia,V3,1
+X77Ba,Slow ventricular response,V3,0
+X77Bk,Idioventricular rhythm,V3,0
+G574.,Ventricular fibrillation and flutter,V3,1
+G574z,Ventricular fibrillation and flutter NOS,V3,1
+328..,ECG: ventricular arrhythmia,V3,1
+3281.,ECG: no ventricular arrhythmia,V3,0
+bc...,Drug for ventricular arrhythmia,V3,0
+G57yA,Re-entry ventricular arrhythmia,V3,1
+328Z.,ECG: ventricular arrhythmia NOS,V3,1
+Xa1fq,Arrhythmogenic right ventricular dysplasia,V3,0
+14AD.,H/O ventricular fibrillation,V3,1
+3283.,ECG: ventricular fibrillation,V3,1
+X77yh,Primary left ventricular endocardial fibroelastosis,V3,0
+X77yN,Primary right ventricular endocardial fibroelastosis,V3,0
+X776w,Right ventricular fibromuscular infundibular stenosis,V3,0
+X77Bv,Ventricular premature complex,V3,0
+X77Bw,Multiple premature ventricular complexes,V3,0
+X77Bx,Run of ventricular premature complexes,V3,0
+X77By,Ventricular interpolated complexes,V3,0
+X77Bz,Multiple ventricular interpolated complexes,V3,0
+X77C0,Ventricular bigeminy,V3,0
+X77C1,Ventricular trigeminy,V3,0
+X77C2,Ventricular quadrigeminy,V3,0
+X77C3,Paired ventricular premature complexes,V3,0
+G57..,Cardiac dysrhythmias,V2,0
+G5740,Ventricular fibrillation,V2,1
+G571.,Ventricular tachycardia,V2,1
+G574.,Ventricular fibrillation and flutter,V2,1
+G574z,Ventricular fibrillation and flutter NOS,V2,1
+328..,ECG: ventricular arrhythmia,V2,0
+3281.,ECG: no ventricular arrhythmia,V2,0
+G57yA,Re-entry ventricular arrhythmia,V2,0
+328Z.,ECG: ventricular arrhythmia NOS,V2,0
+G559.,Arrhythmogenic right ventricular cardiomyopathy,V2,0
+14AD.,H/O ventricular fibrillation,V2,1
+3283.,ECG: ventricular fibrillation,V2,1
+P68..,Congenital heart disease,V2,0
+G55..,Cardiomyopathy,V2,0
+G5765,Ventricular premature depolarization,V2,0
+1077,heart arrhythmia,SR,0
+I499,"Cardiac arrhythmia, unspecified",MD,0
+I470,Re-entry ventricular arrhythmia,MD,0
+I472,Ventricular tachycardia,MD,1
+I490,Ventricular fibrillation and flutter,MD,1
+P291,Neonatal cardiac dysrhythmia,MD,0
+I498,Other specified cardiac arrhythmias,MD,0
+I442,"Atrioventricular block, complete",MD,0
+R943,Abnormal results of cardiovascular function studies,MD,0
+I428,Other cardiomyopathies,MD,0
+I42,Cardiomyopathy,MD,0
+O903,Cardiomyopathy in the puerperium,MD,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",MD,0
+Z867,Personal history of diseases of the circulatory system,MD,0
+I424,Endocardial fibroelastosis,MD,0
+I518,Other ill-defined heart diseases,MD,0
+I493,Ventricular premature depolarization,MD,0
+R008,Other and unspecified abnormalities of heart beat,MD,0
+4271,Paroxysmal ventricular tachycardia,ICD9,1
+4276,Premature beats,ICD9,0
+6681,Cardiac comp. in admin. of anaesthetic/other sedation in labour delivery,ICD9,0
+6694,Other complications of obstetrical surgery and procedures,ICD9,0
+4274,Ventricular fibrillation and flutter,ICD9,1
+4267,Anomalous atrioventricular excitation,ICD9,0
+7943,Nonspecific abnormal results of cardiovascular function studies,ICD9,0
+4278,Other specified cardiac dysrhythmias,ICD9,0
+4259," Secondary cardiomyopathy, unspecified",ICD9,0
+425,Cardiomyopathy,ICD9,0
+4253,Endocardial fibroelastosis,ICD9,0
+42741,Ventricular fibrillation,ICD9,1
+42742,Ventricular flutter,ICD9,1
+I499,"Cardiac arrhythmia, unspecified",ICD10,0
+I470,Re-entry ventricular arrhythmia,ICD10,0
+I472,Ventricular tachycardia,ICD10,1
+I490,Ventricular fibrillation and flutter,ICD10,1
+P291,Neonatal cardiac dysrhythmia,ICD10,0
+I498,Other specified cardiac arrhythmias,ICD10,0
+I442,"Atrioventricular block, complete",ICD10,0
+R943,Abnormal results of cardiovascular function studies,ICD10,0
+I428,Other cardiomyopathies,ICD10,0
+I42,Cardiomyopathy,ICD10,0
+O903,Cardiomyopathy in the puerperium,ICD10,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",ICD10,0
+Z867,Personal history of diseases of the circulatory system,ICD10,0
+I424,Endocardial fibroelastosis,ICD10,0
+I518,Other ill-defined heart diseases,ICD10,0
+I493,Ventricular premature depolarization,ICD10,0
+R008,Other and unspecified abnormalities of heart beat,ICD10,0
+I499,"Cardiac arrhythmia, unspecified",cancer,0
+I470,Re-entry ventricular arrhythmia,cancer,0
+I472,Ventricular tachycardia,cancer,1
+I490,Ventricular fibrillation and flutter,cancer,1
+P291,Neonatal cardiac dysrhythmia,cancer,0
+I498,Other specified cardiac arrhythmias,cancer,0
+I442,"Atrioventricular block, complete",cancer,0
+R943,Abnormal results of cardiovascular function studies,cancer,0
+I428,Other cardiomyopathies,cancer,0
+I42,Cardiomyopathy,cancer,0
+O903,Cardiomyopathy in the puerperium,cancer,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",cancer,0
+Z867,Personal history of diseases of the circulatory system,cancer,0
+I424,Endocardial fibroelastosis,cancer,0
+I518,Other ill-defined heart diseases,cancer,0
+I493,Ventricular premature depolarization,cancer,0
+R008,Other and unspecified abnormalities of heart beat,cancer,0

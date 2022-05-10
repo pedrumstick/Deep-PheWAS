@@ -1,0 +1,8 @@
+Code,Description,Source,Decision
+XaEDY,Family history of neoplasm of breast,V3,1
+XE2vh,FH: * - breast,V3,1
+XM1Wr,Family history of breast cancer,V3,1
+1243.,FH: breast cancer,V2,1
+Z803,Family history of malignant neoplasm of breast,ICD10,1
+Z803,Family history of malignant neoplasm of breast,MD,1
+Z803,Family history of malignant neoplasm of breast,cancer,1

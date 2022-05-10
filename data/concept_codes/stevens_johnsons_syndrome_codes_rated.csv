@@ -1,0 +1,7 @@
+Code,Description,Source,Decision
+M1517,Stevens-Johnson syndrome,V3,1
+M1517,Stevens-Johnson syndrome,V2,1
+L511,Bullous erythema multiforme,MD,0
+6951,Erythema multiforme,ICD9,0
+L511,Bullous erythema multiforme,ICD10,0
+L511,Bullous erythema multiforme,cancer,0

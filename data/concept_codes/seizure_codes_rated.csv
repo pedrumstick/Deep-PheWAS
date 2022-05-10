@@ -1,0 +1,233 @@
+Code,Description,Source,Decision
+XaEHz,Seizure,V3,1
+X75YS,Partial seizure,V3,1
+XaIke,Partial complex seizure,V3,1
+X75YT,"Simple partial seizure, consciousness not impaired",V3,1
+X75YU,Simple partial seizure with motor dysfunction,V3,1
+X75YV,Simple partial seizure with focal motor signs without march,V3,1
+X75YW,Simple partial seizure with focal motor signs with march,V3,1
+X75YY,Versive seizure,V3,1
+X75YZ,Postural seizure,V3,1
+X75Ya,Phonatory seizure,V3,1
+X75Yb,Simple partial seizure with somatosensory or special sensory dysfunction,V3,1
+X75Yc,Somatosensory seizure,V3,1
+X75Yd,Visual seizure,V3,1
+X75Ye,Auditory seizure,V3,1
+X75Yf,Olfactory seizure,V3,1
+X75Yg,Gustatory seizure,V3,1
+X75Yh,Vertiginous seizure,V3,1
+X75Yi,Simple partial seizure with autonomic dysfunction,V3,1
+X75Yj,Simple partial seizure with psychic dysfunction,V3,1
+X75Yk,Dysphasic seizure,V3,1
+X75Yl,Dysmnesic seizure,V3,1
+X75Ym,Cognitive seizure,V3,1
+X75Yn,Affective seizure,V3,1
+X75Yo,Seizure causing illusions,V3,1
+X75Yp,Seizure with structured hallucinations,V3,1
+XM03j,Complex partial seizure with impairment of consciousness,V3,1
+X75Yq,Simple partial onset of seizure followed by impairment of consciousness,V3,1
+X75Yr,Simple partial seizure followed by impaired consciousness,V3,1
+X75Ys,Simple partial onset of seizure with automatisms,V3,1
+X75Yt,Complex partial seizure with impairment of consciousness at onset,V3,1
+X75Yu,Complex partial seizure with impairment of consciousness only,V3,1
+X75Yv,Complex partial seizure with automatisms,V3,1
+X75Yw,Partial seizure evolving to secondary generalised seizure,V3,1
+X75Yx,Simple partial seizure evolving to secondary generalised seizure,V3,1
+X75Yy,Complex partial seizure evolving to generalised seizure,V3,1
+X75Yz,Simple partial seizure evolving to complex partial seizure evolving to generalised seizure,V3,1
+X006g,Situation-related seizures,V3,1
+XM03l,Febrile convulsion,V3,0
+X006h,Familial febrile convulsions,V3,0
+XaB1J,Recurrent febrile convulsion,V3,0
+X006i,Isolated seizures,V3,1
+X006j,Seizures in response to acute event,V3,1
+X006k,Reflex anoxic seizures,V3,0
+XaBY7,Hypoglycaemia-induced convulsion,V3,0
+XaBZA,Alcohol withdrawal-induced convulsion,V3,0
+X75Z0,Generalised seizure,V3,1
+XM03i,Absence seizure,V3,1
+X75Z1,Absence seizure with impairment of consciousness only,V3,1
+X75Z2,Absence seizure with mild clonic components,V3,1
+X75Z3,Absence seizure with atonic components,V3,1
+X75Z4,Absence seizure with tonic components,V3,1
+X75Z5,Absence seizure with automatisms,V3,1
+X75Z6,Absence seizure with autonomic components,V3,1
+F2544,Epileptic automatism,V3,0
+X75Z7,Atypical absence seizure,V3,1
+X75Z8,Myoclonic seizure,V3,1
+X75Z9,Clonic seizure,V3,1
+X75ZA,Tonic seizure,V3,1
+XM03h,Tonic-clonic seizure,V3,1
+X75ZC,Salaam spasm,V3,1
+X75ZD,Atonic seizure,V3,1
+Xa0Ji,Seizure undetermined whether focal or generalised,V3,1
+F25y1,Gelastic seizure,V3,1
+X75ZE,Cursive seizure,V3,1
+XaDbE,Fit - convulsion,V3,0
+XaPQC,Alcohol related fit,V3,0
+XaEI2,Fits - convulsions,V3,0
+X75YR,"Fit - had one, symptom",V3,0
+XE0rw,Had a fit,V3,0
+XaJBg,Daily seizures,V3,1
+R003z,[D]Seizure NOS,V3,1
+282..,O/E - a seizure,V3,1
+2822.,O/E - grand mal fit,V3,1
+2823.,O/E - petit mal fit,V3,1
+2825.,O/E - psychomotor fit,V3,1
+2826.,O/E - salaam attack,V3,1
+2827.,O/E - febrile convulsion,V3,1
+282Z.,O/E - fit/convulsion NOS,V3,1
+XE1hj,O/E - focal (Jacksonian) fit,V3,1
+Q480.,Neonatal seizures,V3,0
+Xa09G,Fifth day fits,V3,0
+Xa0Bl,Benign neonatal seizures,V3,0
+XaEIj,Epileptic seizure,V3,1
+F2502,Epileptic seizures - atonic,V3,1
+F2503,Epileptic seizures - akinetic,V3,1
+F2512,Epileptic seizures - clonic,V3,1
+F2514,Epileptic seizures - tonic,V3,1
+XaJBh,Many seizures a day,V3,1
+XaEI1,Duration of seizure,V3,0
+Xa7MI,Duration of fit,V3,0
+E2015,Hysterical seizures,V3,0
+XaJBf,1 to 7 seizures a week,V3,1
+Xa3Dv,Post-ictal state,V3,1
+XaELN,Post-ictal drowsiness,V3,1
+XaJBe,2 to 4 seizures a month,V3,1
+XaJBd,1 to 12 seizures a year,V3,1
+1B63.,Had a fit,V2,0
+2....,Examination / Signs,V2,0
+1B6B.,Febrile convulsion,V2,0
+1B27.,Seizures in response to acute event,V2,1
+Eu108,[X]Alcohol withdrawal-induced seizure,V2,0
+F25H.,Generalised seizure,V2,1
+2828.,Absence seizure,V2,1
+F2544,Epileptic automatism,V2,0
+F132z,Myoclonic seizure,V2,1
+F25y1,Gelastic epilepsy,V2,1
+1B64.,Had a convulsion,V2,1
+667T.,Daily seizures,V2,1
+R003z,[D]Seizure NOS,V2,1
+282..,O/E - a seizure,V2,1
+2822.,O/E - grand mal fit,V2,1
+2823.,O/E - petit mal fit,V2,1
+2825.,O/E - psychomotor fit,V2,1
+2826.,O/E - salaam attack,V2,1
+2827.,O/E - febrile convulsion,V2,1
+282Z.,O/E - fit/convulsion NOS,V2,1
+2824.,O/E - focal (Jacksonian) fit,V2,1
+Q480.,Convulsions in newborn,V2,0
+F25..,Epilepsy,V2,1
+F2502,Epileptic seizures - atonic,V2,1
+F2503,Epileptic seizures - akinetic,V2,1
+F2512,Epileptic seizures - clonic,V2,1
+F2514,Epileptic seizures - tonic,V2,1
+667V.,Many seizures a day,V2,1
+667Y.,Observations of measures of seizures,V2,1
+E2015,Hysterical seizures,V2,0
+667S.,1 to 7 seizures a week,V2,1
+F258.,Post-ictal state,V2,1
+2234.,O/E - drowsy,V2,0
+667R.,2 to 4 seizures a month,V2,1
+667Q.,1 to 12 seizures a year,V2,1
+R568,Other and unspecified convulsions,MD,1
+R56,"Convulsions, not elsewhere classified",MD,1
+F445,Dissociative convulsions,MD,0
+G40,Epilepsy,MD,0
+I64,"Stroke, not specified as haemorrhage or infarction",MD,0
+P90,Convulsions of newborn,MD,0
+G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,MD,0
+G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,MD,0
+F401,Social phobias,MD,0
+R42,Dizziness and giddiness,MD,0
+G408,Other epilepsy,MD,0
+R560,Febrile convulsions,MD,0
+G405,Special epileptic syndromes,MD,0
+E162,"Hypoglycaemia, unspecified",MD,0
+F103,Mental and behavioural disorders due to use of alcohol,MD,0
+G407,"Petit mal, unspecified, without grand mal seizures",MD,1
+G403,Generalized idiopathic epilepsy and epileptic syndromes,MD,0
+G404,Other generalized epilepsy and epileptic syndromes,MD,0
+F109,Mental and behavioural disorders due to use of alcohol,MD,0
+F10,Mental and behavioural disorders due to use of alcohol,MD,0
+G409,"Epilepsy, unspecified",MD,0
+R400,Somnolence,MD,0
+G406,"Grand mal seizures, unspecified (with or without petit mal)",MD,1
+G41,Status epilepticus,MD,1
+G410,Grand mal status epilepticus,MD,1
+G411,Petit mal status epilepticus,MD,1
+G412,Complex partial status epilepticus,MD,1
+G418,Other status epilepticus,MD,1
+G419,"Status epilepticus, unspecified",MD,1
+3459," Epilepsy, unspecified",ICD9,0
+7803,Convulsions,ICD9,1
+345,Epilepsy,ICD9,0
+7790,Convulsions in newborn,ICD9,0
+3454," Partial epilepsy, with impairment of consciousness",ICD9,0
+3456,Infantile spasms,ICD9,0
+3450,Generalized nonconvulsive epilepsy,ICD9,0
+3451,Generalized convulsive epilepsy,ICD9,0
+3001,Hysteria,ICD9,0
+3452,"Petit mal status, epileptic",ICD9,1
+3453,"Grand mal status, epileptic",ICD9,1
+3456,Infantile spasms,ICD9,1
+78032,Complex febrile convulsions,ICD9,1
+78039,Other convulsions,ICD9,1
+R568,Other and unspecified convulsions,ICD10,1
+R56,"Convulsions, not elsewhere classified",ICD10,1
+F445,Dissociative convulsions,ICD10,0
+G40,Epilepsy,ICD10,0
+I64,"Stroke, not specified as haemorrhage or infarction",ICD10,0
+P90,Convulsions of newborn,ICD10,0
+G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,ICD10,0
+G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,ICD10,0
+F401,Social phobias,ICD10,0
+R42,Dizziness and giddiness,ICD10,0
+G408,Other epilepsy,ICD10,0
+R560,Febrile convulsions,ICD10,0
+G405,Special epileptic syndromes,ICD10,0
+E162,"Hypoglycaemia, unspecified",ICD10,0
+F103,Mental and behavioural disorders due to use of alcohol,ICD10,0
+G407,"Petit mal, unspecified, without grand mal seizures",ICD10,1
+G403,Generalized idiopathic epilepsy and epileptic syndromes,ICD10,0
+G404,Other generalized epilepsy and epileptic syndromes,ICD10,0
+F109,Mental and behavioural disorders due to use of alcohol,ICD10,0
+F10,Mental and behavioural disorders due to use of alcohol,ICD10,0
+G409,"Epilepsy, unspecified",ICD10,0
+R400,Somnolence,ICD10,0
+G406,"Grand mal seizures, unspecified (with or without petit mal)",ICD10,1
+G41,Status epilepticus,ICD10,1
+G410,Grand mal status epilepticus,ICD10,1
+G411,Petit mal status epilepticus,ICD10,1
+G412,Complex partial status epilepticus,ICD10,1
+G418,Other status epilepticus,ICD10,1
+G419,"Status epilepticus, unspecified",ICD10,1
+R568,Other and unspecified convulsions,cancer,1
+R56,"Convulsions, not elsewhere classified",cancer,1
+F445,Dissociative convulsions,cancer,0
+G40,Epilepsy,cancer,0
+I64,"Stroke, not specified as haemorrhage or infarction",cancer,0
+P90,Convulsions of newborn,cancer,0
+G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,cancer,0
+G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,cancer,0
+F401,Social phobias,cancer,0
+R42,Dizziness and giddiness,cancer,0
+G408,Other epilepsy,cancer,0
+R560,Febrile convulsions,cancer,0
+G405,Special epileptic syndromes,cancer,0
+E162,"Hypoglycaemia, unspecified",cancer,0
+F103,Mental and behavioural disorders due to use of alcohol,cancer,0
+G407,"Petit mal, unspecified, without grand mal seizures",cancer,1
+G403,Generalized idiopathic epilepsy and epileptic syndromes,cancer,0
+G404,Other generalized epilepsy and epileptic syndromes,cancer,0
+F109,Mental and behavioural disorders due to use of alcohol,cancer,0
+F10,Mental and behavioural disorders due to use of alcohol,cancer,0
+G409,"Epilepsy, unspecified",cancer,0
+R400,Somnolence,cancer,0
+G406,"Grand mal seizures, unspecified (with or without petit mal)",cancer,1
+G41,Status epilepticus,cancer,1
+G410,Grand mal status epilepticus,cancer,1
+G411,Petit mal status epilepticus,cancer,1
+G412,Complex partial status epilepticus,cancer,1
+G418,Other status epilepticus,cancer,1
+G419,"Status epilepticus, unspecified",cancer,1

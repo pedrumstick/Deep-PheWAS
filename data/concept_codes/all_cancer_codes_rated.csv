@@ -1,0 +1,268 @@
+Code,Description,Source,Decision
+Z85,Personal history of malignant neoplasm,ICD10,1
+C44,Other malignant neoplasms of skin,ICD10,1
+C50,Malignant neoplasm of breast,ICD10,1
+Z858,Personal history of malignant neoplasms of other organs and systems,ICD10,1
+Z853,Personal history of malignant neoplasm of breast,ICD10,1
+C509,"Malignant neoplasm: Breast, unspecified",ICD10,1
+C443,Malignant neoplasm: Skin of other and unspecified parts of face,ICD10,1
+Z860,Personal history of other neoplasms,ICD10,1
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,ICD10,1
+C78,Secondary malignant neoplasm of respiratory and digestive organs,ICD10,1
+Z850,Personal history of malignant neoplasm of digestive organs,ICD10,1
+Z854,Personal history of malignant neoplasm of genital organs,ICD10,1
+C79,Secondary malignant neoplasm of other and unspecified sites,ICD10,1
+D22,Melanocytic naevi,ICD10,1
+C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,ICD10,1
+C18,Malignant neoplasm of colon,ICD10,1
+Z855,Personal history of malignant neoplasm of urinary tract,ICD10,1
+C795,Secondary malignant neoplasm of bone and bone marrow,ICD10,1
+C34,Malignant neoplasm of bronchus and lung,ICD10,1
+C780,Secondary malignant neoplasm of lung,ICD10,1
+D69,Purpura and other haemorrhagic conditions,ICD10,1
+C773,Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes,ICD10,1
+C67,Malignant neoplasm of bladder,ICD10,1
+C445,Malignant neoplasm: Skin of trunk,ICD10,1
+C43,Malignant melanoma of skin,ICD10,1
+C504,Malignant neoplasm: Upper-outer quadrant of breast,ICD10,1
+C679,"Malignant neoplasm: Bladder, unspecified",ICD10,1
+D05,Carcinoma in situ of breast,ICD10,1
+D696,"Thrombocytopenia, unspecified",ICD10,1
+C349,"Malignant neoplasm: Bronchus or lung, unspecified",ICD10,1
+C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,ICD10,1
+C772,Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes,ICD10,1
+C444,Malignant neoplasm: Skin of scalp and neck,ICD10,1
+D18,"Haemangioma and lymphangioma, any site",ICD10,1
+D180,"Haemangioma, any site",ICD10,1
+C80,Malignant neoplasm without specification of site,ICD10,1
+Z857,"Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues",ICD10,1
+C446,"Malignant neoplasm: Skin of upper limb, including shoulder",ICD10,1
+D223,Melanocytic naevi of other and unspecified parts of face,ICD10,1
+D225,Melanocytic naevi of trunk,ICD10,1
+C441,"Malignant neoplasm: Skin of eyelid, including canthus",ICD10,1
+C54,Malignant neoplasm of corpus uteri,ICD10,1
+D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,ICD10,1
+C541,Malignant neoplasm: Endometrium,ICD10,1
+C771,Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes,ICD10,1
+C187,Malignant neoplasm: Sigmoid colon,ICD10,1
+C85,Other and unspecified types of non-Hodgkin lymphoma,ICD10,1
+D051,Intraductal carcinoma in situ,ICD10,1
+C341,"Malignant neoplasm: Upper lobe, bronchus or lung",ICD10,1
+C447,"Malignant neoplasm: Skin of lower limb, including hip",ICD10,1
+C442,Malignant neoplasm: Skin of ear and external auricular canal,ICD10,1
+D68,Other coagulation defects,ICD10,1
+C793,Secondary malignant neoplasm of brain and cerebral meninges,ICD10,1
+D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",ICD10,1
+C83,Non-follicular lymphoma,ICD10,1
+C859,"Non-Hodgkin lymphoma, unspecified",ICD10,1
+Z851,"Personal history of malignant neoplasm of trachea, bronchus and lung",ICD10,1
+C798,Secondary malignant neoplasm of other specified sites,ICD10,1
+D04,Carcinoma in situ of skin,ICD10,1
+C189,"Malignant neoplasm: Colon, unspecified",ICD10,1
+C15,Malignant neoplasm of oesophagus,ICD10,1
+C770,"Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck",ICD10,1
+C25,Malignant neoplasm of pancreas,ICD10,1
+D03,Melanoma in situ,ICD10,1
+C782,Secondary malignant neoplasm of pleura,ICD10,1
+D41,Neoplasm of uncertain or unknown behaviour of urinary organs,ICD10,1
+D059,"Carcinoma in situ of breast, unspecified",ICD10,1
+C90,Multiple myeloma and malignant plasma cell neoplasms,ICD10,1
+D75,Other diseases of blood and blood-forming organs,ICD10,1
+D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,ICD10,1
+C91,Lymphoid leukaemia,ICD10,1
+C180,Malignant neoplasm: Caecum,ICD10,1
+C343,"Malignant neoplasm: Lower lobe, bronchus or lung",ICD10,1
+C900,Multiple myeloma,ICD10,1
+Z031,Observation for suspected malignant neoplasm,ICD10,1
+C16,Malignant neoplasm of stomach,ICD10,1
+C833,Diffuse large B-cell lymphoma,ICD10,1
+C502,Malignant neoplasm: Upper-inner quadrant of breast,ICD10,1
+C159,"Malignant neoplasm: Oesophagus, unspecified",ICD10,1
+D73,Diseases of spleen,ICD10,1
+C435,Malignant neoplasm: Malignant melanoma of trunk,ICD10,1
+D86,Sarcoidosis,ICD10,1
+C437,"Malignant neoplasm: Malignant melanoma of lower limb, including hip",ICD10,1
+C799,"Secondary malignant neoplasm, unspecified site",ICD10,1
+C779,"Secondary and unspecified malignant neoplasm: Lymph node, unspecified",ICD10,1
+C259,"Malignant neoplasm: Pancreas, unspecified",ICD10,1
+D414,Neoplasm of uncertain or unknown behaviour: Bladder,ICD10,1
+C911,Chronic lymphocytic leukaemia of B-cell type,ICD10,1
+C71,Malignant neoplasm of brain,ICD10,1
+Z85,Personal history of malignant neoplasm,MD,1
+C44,Other malignant neoplasms of skin,MD,1
+C50,Malignant neoplasm of breast,MD,1
+Z858,Personal history of malignant neoplasms of other organs and systems,MD,1
+Z853,Personal history of malignant neoplasm of breast,MD,1
+C509,"Malignant neoplasm: Breast, unspecified",MD,1
+C443,Malignant neoplasm: Skin of other and unspecified parts of face,MD,1
+Z860,Personal history of other neoplasms,MD,1
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,MD,1
+C78,Secondary malignant neoplasm of respiratory and digestive organs,MD,1
+Z850,Personal history of malignant neoplasm of digestive organs,MD,1
+Z854,Personal history of malignant neoplasm of genital organs,MD,1
+C79,Secondary malignant neoplasm of other and unspecified sites,MD,1
+D22,Melanocytic naevi,MD,1
+C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,MD,1
+C18,Malignant neoplasm of colon,MD,1
+Z855,Personal history of malignant neoplasm of urinary tract,MD,1
+C795,Secondary malignant neoplasm of bone and bone marrow,MD,1
+C34,Malignant neoplasm of bronchus and lung,MD,1
+C780,Secondary malignant neoplasm of lung,MD,1
+D69,Purpura and other haemorrhagic conditions,MD,1
+C773,Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes,MD,1
+C67,Malignant neoplasm of bladder,MD,1
+C445,Malignant neoplasm: Skin of trunk,MD,1
+C43,Malignant melanoma of skin,MD,1
+C504,Malignant neoplasm: Upper-outer quadrant of breast,MD,1
+C679,"Malignant neoplasm: Bladder, unspecified",MD,1
+D05,Carcinoma in situ of breast,MD,1
+D696,"Thrombocytopenia, unspecified",MD,1
+C349,"Malignant neoplasm: Bronchus or lung, unspecified",MD,1
+C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,MD,1
+C772,Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes,MD,1
+C444,Malignant neoplasm: Skin of scalp and neck,MD,1
+D18,"Haemangioma and lymphangioma, any site",MD,1
+D180,"Haemangioma, any site",MD,1
+C80,Malignant neoplasm without specification of site,MD,1
+Z857,"Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues",MD,1
+C446,"Malignant neoplasm: Skin of upper limb, including shoulder",MD,1
+D223,Melanocytic naevi of other and unspecified parts of face,MD,1
+D225,Melanocytic naevi of trunk,MD,1
+C441,"Malignant neoplasm: Skin of eyelid, including canthus",MD,1
+C54,Malignant neoplasm of corpus uteri,MD,1
+D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,MD,1
+C541,Malignant neoplasm: Endometrium,MD,1
+C771,Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes,MD,1
+C187,Malignant neoplasm: Sigmoid colon,MD,1
+C85,Other and unspecified types of non-Hodgkin lymphoma,MD,1
+D051,Intraductal carcinoma in situ,MD,1
+C341,"Malignant neoplasm: Upper lobe, bronchus or lung",MD,1
+C447,"Malignant neoplasm: Skin of lower limb, including hip",MD,1
+C442,Malignant neoplasm: Skin of ear and external auricular canal,MD,1
+D68,Other coagulation defects,MD,1
+C793,Secondary malignant neoplasm of brain and cerebral meninges,MD,1
+D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",MD,1
+C83,Non-follicular lymphoma,MD,1
+C859,"Non-Hodgkin lymphoma, unspecified",MD,1
+Z851,"Personal history of malignant neoplasm of trachea, bronchus and lung",MD,1
+C798,Secondary malignant neoplasm of other specified sites,MD,1
+D04,Carcinoma in situ of skin,MD,1
+C189,"Malignant neoplasm: Colon, unspecified",MD,1
+C15,Malignant neoplasm of oesophagus,MD,1
+C770,"Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck",MD,1
+C25,Malignant neoplasm of pancreas,MD,1
+D03,Melanoma in situ,MD,1
+C782,Secondary malignant neoplasm of pleura,MD,1
+D41,Neoplasm of uncertain or unknown behaviour of urinary organs,MD,1
+D059,"Carcinoma in situ of breast, unspecified",MD,1
+C90,Multiple myeloma and malignant plasma cell neoplasms,MD,1
+D75,Other diseases of blood and blood-forming organs,MD,1
+D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,MD,1
+C91,Lymphoid leukaemia,MD,1
+C180,Malignant neoplasm: Caecum,MD,1
+C343,"Malignant neoplasm: Lower lobe, bronchus or lung",MD,1
+C900,Multiple myeloma,MD,1
+Z031,Observation for suspected malignant neoplasm,MD,1
+C16,Malignant neoplasm of stomach,MD,1
+C833,Diffuse large B-cell lymphoma,MD,1
+C502,Malignant neoplasm: Upper-inner quadrant of breast,MD,1
+C159,"Malignant neoplasm: Oesophagus, unspecified",MD,1
+D73,Diseases of spleen,MD,1
+C435,Malignant neoplasm: Malignant melanoma of trunk,MD,1
+D86,Sarcoidosis,MD,1
+C437,"Malignant neoplasm: Malignant melanoma of lower limb, including hip",MD,1
+C799,"Secondary malignant neoplasm, unspecified site",MD,1
+C779,"Secondary and unspecified malignant neoplasm: Lymph node, unspecified",MD,1
+C259,"Malignant neoplasm: Pancreas, unspecified",MD,1
+D414,Neoplasm of uncertain or unknown behaviour: Bladder,MD,1
+C911,Chronic lymphocytic leukaemia of B-cell type,MD,1
+C71,Malignant neoplasm of brain,MD,1
+Z85,Personal history of malignant neoplasm,cancer,1
+C44,Other malignant neoplasms of skin,cancer,1
+C50,Malignant neoplasm of breast,cancer,1
+Z858,Personal history of malignant neoplasms of other organs and systems,cancer,1
+Z853,Personal history of malignant neoplasm of breast,cancer,1
+C509,"Malignant neoplasm: Breast, unspecified",cancer,1
+C443,Malignant neoplasm: Skin of other and unspecified parts of face,cancer,1
+Z860,Personal history of other neoplasms,cancer,1
+C77,Secondary and unspecified malignant neoplasm of lymph nodes,cancer,1
+C78,Secondary malignant neoplasm of respiratory and digestive organs,cancer,1
+Z850,Personal history of malignant neoplasm of digestive organs,cancer,1
+Z854,Personal history of malignant neoplasm of genital organs,cancer,1
+C79,Secondary malignant neoplasm of other and unspecified sites,cancer,1
+D22,Melanocytic naevi,cancer,1
+C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,cancer,1
+C18,Malignant neoplasm of colon,cancer,1
+Z855,Personal history of malignant neoplasm of urinary tract,cancer,1
+C795,Secondary malignant neoplasm of bone and bone marrow,cancer,1
+C34,Malignant neoplasm of bronchus and lung,cancer,1
+C780,Secondary malignant neoplasm of lung,cancer,1
+D69,Purpura and other haemorrhagic conditions,cancer,1
+C773,Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes,cancer,1
+C67,Malignant neoplasm of bladder,cancer,1
+C445,Malignant neoplasm: Skin of trunk,cancer,1
+C43,Malignant melanoma of skin,cancer,1
+C504,Malignant neoplasm: Upper-outer quadrant of breast,cancer,1
+C679,"Malignant neoplasm: Bladder, unspecified",cancer,1
+D05,Carcinoma in situ of breast,cancer,1
+D696,"Thrombocytopenia, unspecified",cancer,1
+C349,"Malignant neoplasm: Bronchus or lung, unspecified",cancer,1
+C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,cancer,1
+C772,Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes,cancer,1
+C444,Malignant neoplasm: Skin of scalp and neck,cancer,1
+D18,"Haemangioma and lymphangioma, any site",cancer,1
+D180,"Haemangioma, any site",cancer,1
+C80,Malignant neoplasm without specification of site,cancer,1
+Z857,"Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues",cancer,1
+C446,"Malignant neoplasm: Skin of upper limb, including shoulder",cancer,1
+D223,Melanocytic naevi of other and unspecified parts of face,cancer,1
+D225,Melanocytic naevi of trunk,cancer,1
+C441,"Malignant neoplasm: Skin of eyelid, including canthus",cancer,1
+C54,Malignant neoplasm of corpus uteri,cancer,1
+D37,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,cancer,1
+C541,Malignant neoplasm: Endometrium,cancer,1
+C771,Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes,cancer,1
+C187,Malignant neoplasm: Sigmoid colon,cancer,1
+C85,Other and unspecified types of non-Hodgkin lymphoma,cancer,1
+D051,Intraductal carcinoma in situ,cancer,1
+C341,"Malignant neoplasm: Upper lobe, bronchus or lung",cancer,1
+C447,"Malignant neoplasm: Skin of lower limb, including hip",cancer,1
+C442,Malignant neoplasm: Skin of ear and external auricular canal,cancer,1
+D68,Other coagulation defects,cancer,1
+C793,Secondary malignant neoplasm of brain and cerebral meninges,cancer,1
+D47,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",cancer,1
+C83,Non-follicular lymphoma,cancer,1
+C859,"Non-Hodgkin lymphoma, unspecified",cancer,1
+Z851,"Personal history of malignant neoplasm of trachea, bronchus and lung",cancer,1
+C798,Secondary malignant neoplasm of other specified sites,cancer,1
+D04,Carcinoma in situ of skin,cancer,1
+C189,"Malignant neoplasm: Colon, unspecified",cancer,1
+C15,Malignant neoplasm of oesophagus,cancer,1
+C770,"Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck",cancer,1
+C25,Malignant neoplasm of pancreas,cancer,1
+D03,Melanoma in situ,cancer,1
+C782,Secondary malignant neoplasm of pleura,cancer,1
+D41,Neoplasm of uncertain or unknown behaviour of urinary organs,cancer,1
+D059,"Carcinoma in situ of breast, unspecified",cancer,1
+C90,Multiple myeloma and malignant plasma cell neoplasms,cancer,1
+D75,Other diseases of blood and blood-forming organs,cancer,1
+D48,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,cancer,1
+C91,Lymphoid leukaemia,cancer,1
+C180,Malignant neoplasm: Caecum,cancer,1
+C343,"Malignant neoplasm: Lower lobe, bronchus or lung",cancer,1
+C900,Multiple myeloma,cancer,1
+Z031,Observation for suspected malignant neoplasm,cancer,1
+C16,Malignant neoplasm of stomach,cancer,1
+C833,Diffuse large B-cell lymphoma,cancer,1
+C502,Malignant neoplasm: Upper-inner quadrant of breast,cancer,1
+C159,"Malignant neoplasm: Oesophagus, unspecified",cancer,1
+D73,Diseases of spleen,cancer,1
+C435,Malignant neoplasm: Malignant melanoma of trunk,cancer,1
+D86,Sarcoidosis,cancer,1
+C437,"Malignant neoplasm: Malignant melanoma of lower limb, including hip",cancer,1
+C799,"Secondary malignant neoplasm, unspecified site",cancer,1
+C779,"Secondary and unspecified malignant neoplasm: Lymph node, unspecified",cancer,1
+C259,"Malignant neoplasm: Pancreas, unspecified",cancer,1
+D414,Neoplasm of uncertain or unknown behaviour: Bladder,cancer,1
+C911,Chronic lymphocytic leukaemia of B-cell type,cancer,1
+C71,Malignant neoplasm of brain,cancer,1

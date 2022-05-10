@@ -1,0 +1,51 @@
+Code,Description,Source,Decision
+32K..,QT interval,V3,0
+32K3.,Prolonged QT interval,V3,1
+32K4.,Shortened QT interval,V3,0
+Xa7s5,QT interval duration,V3,0
+32KZ.,ECG: Q-T interval NOS,V3,0
+X202j,Long Q-T syndrome,V3,1
+Xagdx,Andersen Tawil syndrome,V3,1
+G56y2,Romano-Ward syndrome,V3,1
+G56y3,Jervell and Lange-Nielsen syndrome,V3,1
+XaaUe,FH: Long QT syndrome,V3,0
+32K1.,ECG: Q-T interval normal,V3,0
+32K2.,ECG: Q-T interval abnormal,V3,0
+XaZfF,QThrombosis risk calculator,V3,0
+X77lO,Q-tip urethrovesical angle test,V3,0
+pq39.,QUFORA QTS starter set toilet system,V3,0
+pq3A.,QUFORA QTM monthly set toilet system,V3,0
+X77BW,"Ventricular tachycardia, polymorphic without Q-T prolongation",V3,0
+X77BX,"Ventricular tachycardia, polymorphic with Q-T prolongation",V3,0
+32K..,ECG: Q-T interval,V2,0
+32K3.,ECG: Q-T interval prolonged,V2,0
+32K4.,ECG: Q-T interval shortened,V2,0
+32KZ.,ECG: Q-T interval NOS,V2,0
+G56y5,Long Q-T syndrome,V2,1
+G56y2,Romano - Ward syndrome,V2,1
+G56y3,Jervell and Lange-Nielsen syndrome,V2,1
+12Ca.,FH: Long QT syndrome,V2,0
+32K1.,ECG: Q-T interval normal,V2,0
+32K2.,ECG: Q-T interval abnormal,V2,0
+38GW.,QThrombosis risk calculator,V2,0
+317..,Special urinary procedures,V2,0
+G571.,Paroxysmal ventricular tachycardia,V2,0
+R943,Abnormal results of cardiovascular function studies,MD,0
+I498,Other specified cardiac arrhythmias,MD,0
+I458,Other specified conduction disorders,MD,0
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,MD,0
+I472,Ventricular tachycardia,MD,0
+4268,Other specified conduction disorders,ICD9,0
+7598,Other specified anomalies,ICD9,0
+4271,Paroxysmal ventricular tachycardia,ICD9,0
+42682,Long QT syndrome,ICD9,1
+R943,Abnormal results of cardiovascular function studies,ICD10,0
+I498,Other specified cardiac arrhythmias,ICD10,0
+I458,Other specified conduction disorders,ICD10,0
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,ICD10,0
+I472,Ventricular tachycardia,ICD10,0
+R943,Abnormal results of cardiovascular function studies,cancer,0
+I498,Other specified cardiac arrhythmias,cancer,0
+I458,Other specified conduction disorders,cancer,0
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,cancer,0
+I472,Ventricular tachycardia,cancer,0

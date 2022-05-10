@@ -1,0 +1,106 @@
+Code,Description,Source,Decision
+X40J4,Type I diabetes mellitus,V3,1
+Xa4g7,Unstable type I diabetes mellitus,V3,1
+C1080,Type I diabetes mellitus with renal complications,V3,1
+XaF04,Type I diabetes mellitus with nephropathy,V3,1
+XaIzM,Type 1 diabetes mellitus with persistent proteinuria,V3,1
+XaIzN,Type 1 diabetes mellitus with persistent microalbuminuria,V3,1
+C1081,Type I diabetes mellitus with ophthalmic complications,V3,1
+C1087,Type I diabetes mellitus with retinopathy,V3,1
+XaFm8,Type I diabetes mellitus with diabetic cataract,V3,1
+XaJSr,Type 1 diabetes mellitus with exudative maculopathy,V3,1
+C1082,Type I diabetes mellitus with neurological complications,V3,1
+XaKyW,Type 1 diabetes mellitus with gastroparesis,V3,1
+C1083,Type I diabetes mellitus with multiple complications,V3,1
+C1085,Type I diabetes mellitus with ulcer,V3,1
+C1086,Type I diabetes mellitus with gangrene,V3,1
+C1088,Type I diabetes mellitus - poor control,V3,1
+C1089,Type I diabetes mellitus maturity onset,V3,1
+XaELP,Type I diabetes mellitus without complication,V3,1
+XaFWG,Type I diabetes mellitus with hypoglycaemic coma,V3,1
+XaFmK,Type I diabetes mellitus with peripheral angiopathy,V3,1
+XaFmL,Type I diabetes mellitus with arthropathy,V3,1
+C1010,Type 1 diabetes mellitus with ketoacidosis,V3,1
+C1030,Type 1 diabetes mellitus with ketoacidotic coma,V3,1
+C10E.,Type I diabetes mellitus,V2,1
+C1084,Unstable type I diabetes mellitus,V2,1
+C10E4,Unstable type I diabetes mellitus,V2,1
+C1080,Type I diabetes mellitus with renal complications,V2,1
+C108D,Type I diabetes mellitus with nephropathy,V2,1
+C10EK,Type 1 diabetes mellitus with persistent proteinuria,V2,1
+C10EL,Type 1 diabetes mellitus with persistent microalbuminuria,V2,1
+C1081,Type I diabetes mellitus with ophthalmic complications,V2,1
+C1087,Type I diabetes mellitus with retinopathy,V2,1
+C108F,Type I diabetes mellitus with diabetic cataract,V2,1
+C10EP,Type 1 diabetes mellitus with exudative maculopathy,V2,1
+C1082,Type I diabetes mellitus with neurological complications,V2,1
+C10EQ,Type 1 diabetes mellitus with gastroparesis,V2,1
+C1083,Type I diabetes mellitus with multiple complications,V2,1
+C1085,Type I diabetes mellitus with ulcer,V2,1
+C1086,Type I diabetes mellitus with gangrene,V2,1
+C1088,Type I diabetes mellitus - poor control,V2,1
+C1089,Type I diabetes mellitus maturity onset,V2,1
+C108A,Type I diabetes mellitus without complication,V2,1
+C10EA,Type I diabetes mellitus without complication,V2,1
+C108E,Type I diabetes mellitus with hypoglycaemic coma,V2,1
+C10EE,Type I diabetes mellitus with hypoglycaemic coma,V2,1
+C108G,Type I diabetes mellitus with peripheral angiopathy,V2,1
+C10EG,Type I diabetes mellitus with peripheral angiopathy,V2,1
+C108H,Type I diabetes mellitus with arthropathy,V2,1
+C10EH,Type I diabetes mellitus with arthropathy,V2,1
+E109,Type 1 diabetes mellitus,MD,1
+E10,Type 1 diabetes mellitus,MD,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,MD,1
+E106,Type 1 diabetes mellitus,MD,1
+E102,Type 1 diabetes mellitus,MD,1
+E103,Type 1 diabetes mellitus,MD,1
+E104,Type 1 diabetes mellitus,MD,1
+E107,Type 1 diabetes mellitus,MD,1
+E105,Type 1 diabetes mellitus,MD,1
+E100,Type 1 diabetes mellitus,MD,1
+E101,Type 1 diabetes mellitus,MD,1
+E108,Type 1 diabetes mellitus,MD,1
+25001,"type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, without mention of complication",ICD9,1
+25003,"type I diabetes mellitus [juvenile type], uncontrolled, without mention of complication",ICD9,1
+25011,"type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ketoacidosis",ICD9,1
+25013,"type I diabetes mellitus [juvenile type], uncontrolled, with ketoacidosis",ICD9,1
+25021,"Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type] with hyperosmolarity, not stated as uncontrolled",ICD9,1
+25023,"Diabetes mellitus, type I [juvenile type] with hyperosmolarity, uncontrolled",ICD9,1
+25031,"Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled",ICD9,1
+25033,"Diabetes mellitus with other coma, type I [juvenile type], uncontrolled",ICD9,1
+25041,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with renal manifestations",ICD9,1
+25043,"Diabetes mellitus type I [juvenile type], uncontrolled, with renal manifestations",ICD9,1
+25051,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations",ICD9,1
+25053,"Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations",ICD9,1
+25061,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with neurological manifestations",ICD9,1
+25063,"Diabetes mellitus type I [juvenile type], uncontrolled, with neurological manifestations",ICD9,1
+25071,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with peripheral circulatory disorders",ICD9,1
+25073,"Diabetes mellitus type I [juvenile type], uncontrolled, with peripheral circulatory disorders",ICD9,1
+25081,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with other specified manifestations",ICD9,1
+25083,"Diabetes mellitus type I [juvenile type], uncontrolled, with other specified manifestations",ICD9,1
+25091,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with unspecified complication",ICD9,1
+25093,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], uncontrolled, with unspecified complication",ICD9,1
+E109,Type 1 diabetes mellitus,cancer,1
+E10,Type 1 diabetes mellitus,cancer,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,cancer,1
+E106,Type 1 diabetes mellitus,cancer,1
+E102,Type 1 diabetes mellitus,cancer,1
+E103,Type 1 diabetes mellitus,cancer,1
+E104,Type 1 diabetes mellitus,cancer,1
+E107,Type 1 diabetes mellitus,cancer,1
+E105,Type 1 diabetes mellitus,cancer,1
+E100,Type 1 diabetes mellitus,cancer,1
+E101,Type 1 diabetes mellitus,cancer,1
+E108,Type 1 diabetes mellitus,cancer,1
+E109,Type 1 diabetes mellitus,ICD10,1
+E10,Type 1 diabetes mellitus,ICD10,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,ICD10,1
+E106,Type 1 diabetes mellitus,ICD10,1
+E102,Type 1 diabetes mellitus,ICD10,1
+E103,Type 1 diabetes mellitus,ICD10,1
+E104,Type 1 diabetes mellitus,ICD10,1
+E107,Type 1 diabetes mellitus,ICD10,1
+E105,Type 1 diabetes mellitus,ICD10,1
+E100,Type 1 diabetes mellitus,ICD10,1
+E101,Type 1 diabetes mellitus,ICD10,1
+E108,Type 1 diabetes mellitus,ICD10,1

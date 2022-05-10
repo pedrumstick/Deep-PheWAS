@@ -1,0 +1,85 @@
+Code,Description,Source,Decision
+X003b,Secondary parkinsonism,V3,1
+F121.,Drug-induced parkinsonism,V3,1
+X003c,Neuroleptic-induced parkinsonism,V3,1
+X003d,Neuroleptic malignant syndrome,V3,0
+Fyu20,[X]Other drug-induced secondary parkinsonism,V3,1
+X003e,Carbon monoxide-induced parkinsonism,V3,1
+X003f,Manganese-induced parkinsonism,V3,1
+X003g,Postencephalitic parkinsonism,V3,1
+X003h,Methylphenyltetrahydropyridine-induced parkinsonism,V3,1
+X003i,Parkinsonism with calcification of basal ganglia,V3,0
+X003j,Vascular parkinsonism,V3,1
+A94y1,Syphilitic parkinsonism,V3,1
+Fyu21,[X]Other secondary parkinsonism,V3,1
+Fyu29,"[X]Secondary parkinsonism, unspecified",V3,1
+Fyu2B,[X]Secondary parkinsonism due to other external agents,V3,1
+XaeUN,"Multiple system atrophy, Parkinson variant",V3,1
+F1304,Progressive supranuclear palsy,V3,1
+X003n,Multiple system atrophy,V3,1
+XaeUM,"Multiple system atrophy, cerebellar variant",V3,1
+F1305,Shy-Drager syndrome,V3,1
+F....,Nervous system and sense organ diseases,V2,0
+Fyu29,"[X]Secondary parkinsonism, unspecified",V2,1
+F121.,Drug induced parkinsonism,V2,1
+F122.,Malignant neuroleptic syndrome,V2,0
+Fyu20,[X]Other drug-induced secondary parkinsonism,V2,1
+F123.,Postencephalitic parkinsonism,V2,1
+F124.,Vascular parkinsonism,V2,1
+A94y1,Syphilitic parkinsonism,V2,1
+Fyu21,[X]Other secondary parkinsonism,V2,1
+Fyu2B,[X]Secondary parkinsonism due to other external agents,V2,1
+F1741,"Multiple system atrophy, Parkinson variant",V2,1
+F1304,Progressive supranuclear ophthalmoplegia,V2,1
+F174.,Multiple system atrophy,V2,1
+F1740,"Multiple system atrophy, cerebellar variant",V2,1
+F1305,Shy-Drager syndrome,V2,1
+G219,"Secondary parkinsonism, unspecified",MD,1
+G21,Secondary parkinsonism,MD,1
+G211,Other drug-induced secondary parkinsonism,MD,1
+G210,Malignant neuroleptic syndrome,MD,0
+G212,Secondary parkinsonism due to other external agents,MD,1
+G213,Postencephalitic parkinsonism,MD,1
+G238,Other specified degenerative diseases of basal ganglia,MD,0
+G214,Vascular parkinsonism,MD,1
+A521,Symptomatic neurosyphilis,MD,0
+G22,Parkinsonism in diseases classified elsewhere,MD,0
+G218,Other secondary parkinsonism,MD,1
+G232,"Multiple system atrophy, parkinsonian type [MSA-P]",MD,1
+G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],MD,1
+G233,"Multiple system atrophy, cerebellar type [MSA-C]",MD,1
+3321,Secondary parkinsonism,ICD9,1
+326,Late effects of intracranial abscess or pyogenic infection,ICD9,0
+3320,Paralysis agitans,ICD9,0
+3330,Other degenerative diseases of the basal ganglia,ICD9,0
+3448,Other specified paralytic syndromes,ICD9,0
+3498,Other specified disorders of the nervous system,ICD9,0
+09482,Syphilitic parkinsonism,ICD9,1
+G219,"Secondary parkinsonism, unspecified",ICD10,1
+G21,Secondary parkinsonism,ICD10,1
+G211,Other drug-induced secondary parkinsonism,ICD10,1
+G210,Malignant neuroleptic syndrome,ICD10,0
+G212,Secondary parkinsonism due to other external agents,ICD10,1
+G213,Postencephalitic parkinsonism,ICD10,1
+G238,Other specified degenerative diseases of basal ganglia,ICD10,0
+G214,Vascular parkinsonism,ICD10,1
+A521,Symptomatic neurosyphilis,ICD10,0
+G22,Parkinsonism in diseases classified elsewhere,ICD10,0
+G218,Other secondary parkinsonism,ICD10,1
+G232,"Multiple system atrophy, parkinsonian type [MSA-P]",ICD10,1
+G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],ICD10,1
+G233,"Multiple system atrophy, cerebellar type [MSA-C]",ICD10,1
+G219,"Secondary parkinsonism, unspecified",cancer,1
+G21,Secondary parkinsonism,cancer,1
+G211,Other drug-induced secondary parkinsonism,cancer,1
+G210,Malignant neuroleptic syndrome,cancer,0
+G212,Secondary parkinsonism due to other external agents,cancer,1
+G213,Postencephalitic parkinsonism,cancer,1
+G238,Other specified degenerative diseases of basal ganglia,cancer,0
+G214,Vascular parkinsonism,cancer,1
+A521,Symptomatic neurosyphilis,cancer,0
+G22,Parkinsonism in diseases classified elsewhere,cancer,0
+G218,Other secondary parkinsonism,cancer,1
+G232,"Multiple system atrophy, parkinsonian type [MSA-P]",cancer,1
+G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],cancer,1
+G233,"Multiple system atrophy, cerebellar type [MSA-C]",cancer,1

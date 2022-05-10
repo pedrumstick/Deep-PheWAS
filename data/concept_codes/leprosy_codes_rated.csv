@@ -1,0 +1,86 @@
+Code,Description,Source,Decision
+A30..,Leprosy,V3,1
+A301.,Full tuberculoid leprosy,V3,1
+X70Hg,Neural type tuberculoid leprosy,V3,1
+X70Hh,Borderline tuberculoid leprosy,V3,1
+A303.,Borderline leprosy,V3,1
+X70Hi,Borderline lepromatous leprosy,V3,1
+A300.,Full lepromatous leprosy,V3,1
+X70Hj,Diffuse lepromatous leprosy,V3,1
+A302.,Indeterminate leprosy,V3,1
+X70Hk,Leprosy reversal reaction,V3,1
+X70Hl,Lepromatous skin complications,V3,1
+X70Hm,Type 1 lepra reaction,V3,1
+X70Hn,Upgrading type 1 lepra reaction,V3,1
+X70Ho,Downgrading type 1 lepra reaction,V3,1
+X70Hp,Type 2 lepra reaction,V3,1
+X70Hq,Erythema nodosum leprosum,V3,1
+X70Hr,Lepromatous cutaneous vasculitis,V3,1
+X70Hs,Histioid leprosy,V3,1
+X00B4,Leprosy neuropathy,V3,1
+A30y.,Other leprosy,V3,1
+A30z.,Leprosy NOS,V3,1
+Ayu30,[X]Other forms of leprosy,V3,1
+Ayu31,"[X]Leprosy, unspecified",V3,1
+AE22.,Sequelae of leprosy,V3,1
+A30..,Leprosy,V2,1
+A301.,Tuberculoid leprosy (type T),V2,1
+A3010,Borderline tuberculoid leprosy,V2,1
+A303.,Borderline leprosy (type B),V2,1
+A3000,Borderline lepromatous leprosy,V2,1
+A300.,Lepromatous leprosy (type L),V2,1
+A302.,Indeterminate leprosy (type I),V2,1
+M152.,Erythema nodosum,V2,0
+F367.,Peripheral neuropathy,V2,0
+A30y.,Other leprosy,V2,1
+A30z.,Leprosy NOS,V2,1
+Ayu30,[X]Other forms of leprosy,V2,1
+Ayu31,"[X]Leprosy, unspecified",V2,1
+AE22.,Sequelae of leprosy,V2,1
+A309,"Leprosy, unspecified",MD,1
+A30,Leprosy [Hansen disease],MD,1
+A301,Tuberculoid leprosy,MD,1
+A302,Borderline tuberculoid leprosy,MD,1
+A303,Borderline leprosy,MD,1
+A304,Borderline lepromatous leprosy,MD,1
+A305,Lepromatous leprosy,MD,1
+A300,Indeterminate leprosy,MD,1
+A308,Other forms of leprosy,MD,1
+G589,"Mononeuropathy, unspecified",MD,0
+B92,Sequelae of leprosy,MD,1
+309,Adjustment reaction,ICD9,0
+301,Personality disorders,ICD9,0
+303,Alcohol dependence syndrome,ICD9,0
+300,Neurotic disorders,ICD9,0
+308,Acute reaction to stress,ICD9,0
+3559,Mononeuritis of unspecified site,ICD9,0
+1398,Late effects of other and unspecified infectious and parasitic disease,ICD9,0
+030,Leprosy,ICD9,1
+0300,Lepromatous (type l) leprosy,ICD9,1
+0301,Tuberculoid (type t) leprosy,ICD9,1
+0302,Indeterminate (group i) leprosy,ICD9,1
+0303,Borderline (group b) leprosy,ICD9,1
+0308,Other leprosy,ICD9,1
+0309,Leprosy NOS,ICD9,1
+A309,"Leprosy, unspecified",ICD10,1
+A30,Leprosy [Hansen disease],ICD10,1
+A301,Tuberculoid leprosy,ICD10,1
+A302,Borderline tuberculoid leprosy,ICD10,1
+A303,Borderline leprosy,ICD10,1
+A304,Borderline lepromatous leprosy,ICD10,1
+A305,Lepromatous leprosy,ICD10,1
+A300,Indeterminate leprosy,ICD10,1
+A308,Other forms of leprosy,ICD10,1
+G589,"Mononeuropathy, unspecified",ICD10,0
+B92,Sequelae of leprosy,ICD10,1
+A309,"Leprosy, unspecified",cancer,1
+A30,Leprosy [Hansen disease],cancer,1
+A301,Tuberculoid leprosy,cancer,1
+A302,Borderline tuberculoid leprosy,cancer,1
+A303,Borderline leprosy,cancer,1
+A304,Borderline lepromatous leprosy,cancer,1
+A305,Lepromatous leprosy,cancer,1
+A300,Indeterminate leprosy,cancer,1
+A308,Other forms of leprosy,cancer,1
+G589,"Mononeuropathy, unspecified",cancer,0
+B92,Sequelae of leprosy,cancer,1

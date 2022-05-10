@@ -1,0 +1,13 @@
+Code,Description,Source,Decision
+M1518,Toxic epidermal necrolysis,V3,1
+M1518,Toxic epidermal necrolysis,V2,1
+L512,Toxic epidermal necrolysis [Lyell],MD,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",MD,0
+6951,Erythema multiforme,ICD9,0
+9779,Poisoning by unspecified drugs and medicaments,ICD9,0
+69514,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome,ICD9,1
+69515,Toxic epidermal necrolysis,ICD9,1
+L512,Toxic epidermal necrolysis [Lyell],ICD10,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",ICD10,0
+L512,Toxic epidermal necrolysis [Lyell],cancer,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",cancer,0

@@ -1,0 +1,71 @@
+Code,Description,Source,Decision
+H34..,Bronchiectasis,V3,1
+P861.,Congenital bronchiectasis,V3,1
+X100l,Congenital cystic bronchiectasis,V3,1
+X100m,Acquired bronchiectasis,V3,1
+X100n,Idiopathic bronchiectasis,V3,1
+X100o,Obstructive bronchiectasis,V3,1
+X100p,Toxin-induced bronchiectasis,V3,1
+X100q,Bronchiectasis due to toxic aspiration,V3,1
+X100r,Bronchiectasis due to toxic inhalation,V3,1
+H341.,Post-infective bronchiectasis,V3,1
+A115.,Tuberculous bronchiectasis,V3,1
+X100t,Post-lung transplantation bronchiectasis,V3,1
+H340.,Recurrent bronchiectasis,V3,1
+H34z.,Bronchiectasis NOS,V3,1
+Xabud,H/O: bronchiectasis,V3,1
+H34..,Bronchiectasis,V2,1
+P861.,Congenital bronchiectasis,V2,1
+H341.,Post-infective bronchiectasis,V2,1
+A115.,Tuberculous bronchiectasis,V2,1
+H340.,Recurrent bronchiectasis,V2,1
+H34z.,Bronchiectasis NOS,V2,1
+14BA.,H/O: bronchiectasis,V2,1
+J47,Bronchiectasis,ICD10,1
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",ICD10,0
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",ICD10,0
+Q334,Congenital bronchiectasis,ICD10,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",ICD10,0
+A160,"Tuberculosis of lung, bacteriologically and histologically negative",ICD10,0
+A161,"Tuberculosis of lung, bacteriological and histological examination not done",ICD10,0
+A167,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation,ICD10,0
+A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",ICD10,0
+A151,"Tuberculosis of lung, confirmed by culture only",ICD10,0
+A152,"Tuberculosis of lung, confirmed histologically",ICD10,0
+A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",ICD10,0
+T868,Failure and rejection of other transplanted organs and tissues,ICD10,0
+T863,Heart-lung transplant failure and rejection,ICD10,0
+Z870,Personal history of diseases of the respiratory system,ICD10,0
+J47,Bronchiectasis,MD,1
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",MD,0
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",MD,0
+Q334,Congenital bronchiectasis,MD,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",MD,0
+A160,"Tuberculosis of lung, bacteriologically and histologically negative",MD,0
+A161,"Tuberculosis of lung, bacteriological and histological examination not done",MD,0
+A167,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation,MD,0
+A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",MD,0
+A151,"Tuberculosis of lung, confirmed by culture only",MD,0
+A152,"Tuberculosis of lung, confirmed histologically",MD,0
+A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",MD,0
+T868,Failure and rejection of other transplanted organs and tissues,MD,0
+T863,Heart-lung transplant failure and rejection,MD,0
+Z870,Personal history of diseases of the respiratory system,MD,0
+1114,Bronchiectasis,SR,1
+494,Bronchiectasis,ICD9,1
+4941,Bronchiectasis with acute exacerbation,ICD9,1
+J47,Bronchiectasis,cancer,1
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",cancer,0
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",cancer,0
+Q334,Congenital bronchiectasis,cancer,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",cancer,0
+A160,"Tuberculosis of lung, bacteriologically and histologically negative",cancer,0
+A161,"Tuberculosis of lung, bacteriological and histological examination not done",cancer,0
+A167,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation,cancer,0
+A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",cancer,0
+A151,"Tuberculosis of lung, confirmed by culture only",cancer,0
+A152,"Tuberculosis of lung, confirmed histologically",cancer,0
+A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",cancer,0
+T868,Failure and rejection of other transplanted organs and tissues,cancer,0
+T863,Heart-lung transplant failure and rejection,cancer,0
+Z870,Personal history of diseases of the respiratory system,cancer,0

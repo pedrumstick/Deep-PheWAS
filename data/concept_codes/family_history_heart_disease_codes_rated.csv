@@ -1,0 +1,39 @@
+Code,Description,Source,Decision
+XaLQq,Family history of coronary heart disease,V3,1
+Xa6aj,Family history of ischaemic heart disease,V3,1
+XaILC,FH: premature coronary heart disease,V3,1
+XE0oG,FH: Ischaemic heart disease at less than 60 years,V3,1
+XE0oI,FH: Myocardial infarction,V3,1
+XM1Jx,FH: Myocardial infarction at less than 60,V3,1
+XM1Jy,FH: Myocardial infarction at greater than 60,V3,1
+XaI9x,FH myocardial infarction male first degree age known,V3,1
+XaI9y,FH myocardial infarction male first degree age unknown,V3,1
+XaI9z,FH myocardial infarction female first degree age known,V3,1
+XaIA0,FH myocardial infarction female first degree age unknown,V3,1
+XaIya,FH: Myocardial infarct in 1st degree female relative <65 yrs,V3,1
+XaIyb,FH: Myocardial infarct in 1st degree male relative <55 years,V3,1
+XaQvx,Family history of myocardial infarction in second degree relative less than 50 years,V3,1
+XaQvy,Family history of myocardial infarction in first degree relative less than 60 years,V3,1
+XE24Z,[V]Family history of ischaemic heart disease,V3,1
+XE24Z,[V]Family history of ischaemic heart disease (IHD),V3,1
+ZVu66,[X]Family history of ischaemic heart disease and other diseases of the circulatory system,V3,1
+12C2.,FH: Ischaemic heart dis. <60,V2,1
+12C3.,FH: Ischaemic heart dis. >60,V2,1
+12C5.,FH: Myocardial infarction,V2,1
+12CA.,FH myocardial infarction male first degree age known,V2,1
+12CB.,FH myocardial infarction male first degree age unknown,V2,1
+12CC.,FH myocardial infarction female first degree age known,V2,1
+12CD.,FH myocardial infarction female first degree age unknown,V2,1
+12CE.,FH angina male first degree age known,V2,1
+12CF.,FH angina male first degree age unknown,V2,1
+12CH.,FH angina female first degree age unknown,V2,1
+12CG.,FH angina female first degree age known,V2,1
+12CI.,FH: premature coronary heart disease,V2,1
+12CL.,FH: Angina in 1st degree female relative <65 years,V2,1
+12CM.,FH: Angina in 1st degree male relative <55 years,V2,1
+12CP.,FH: Myocardial infarct in 1st degree male relative <55 years,V2,1
+12CV.,Family history of cardiovascular disease in first degree male relative less than 55 years,V2,1
+12CW.,Family history of cardiovascular disease in first degree female relative less than 65 years,V2,1
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,ICD10,1
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,MD,1
+Z824,Family history of ischaemic heart disease and other diseases of the circulatory system,cancer,1

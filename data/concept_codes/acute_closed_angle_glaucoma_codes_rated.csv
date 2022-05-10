@@ -1,0 +1,10 @@
+Code,Description,Source,Decision
+F4522,Acute closed-angle glaucoma,V3,1
+F4522,Acute primary angle-closure glaucoma,V2,1
+1277,glaucoma,SR,0
+H402,Primary angle-closure glaucoma,MD,1
+3652,Primary angle-closure glaucoma,ICD9,1
+36520,Primary angle-closure glaucoma (unspecified),ICD9,1
+36522,Acute angle-closure glaucoma,ICD9,1
+H402,Primary angle-closure glaucoma,ICD10,1
+H402,Primary angle-closure glaucoma,cancer,1

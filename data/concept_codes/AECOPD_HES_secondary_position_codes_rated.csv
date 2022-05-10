@@ -1,0 +1,33 @@
+Code,Description,Source,Decision
+J09,J09 Influenza due to certain identified influenza virus,ICD10_2,1
+J100,"J10.0 Influenza with pneumonia, influenza virus identified",ICD10_2,1
+J101,"J10.1 Influenza with other respiratory manifestations, influenza virus identified",ICD10_2,1
+J108,"J10.8 Influenza with other manifestations, influenza virus identified",ICD10_2,1
+J110,"J11.0 Influenza with pneumonia, virus not identified",ICD10_2,1
+J111,"J11.1 Influenza with other respiratory manifestations, virus not identified",ICD10_2,1
+J118,"J11.8 Influenza with other manifestations, virus not identified",ICD10_2,1
+J121,J12.1 Respiratory syncytial virus pneumonia,ICD10_2,1
+J122,J12.2 Parainfluenza virus pneumonia,ICD10_2,1
+J123,J12.3 Human metapneumovirus pneumonia,ICD10_2,1
+J128,J12.8 Other viral pneumonia,ICD10_2,1
+J129,"J12.9 Viral pneumonia, unspecified",ICD10_2,1
+J13,J13 Pneumonia due to Streptococcus pneumoniae,ICD10_2,1
+J14,J14 Pneumonia due to Haemophilus influenzae,ICD10_2,1
+J151,J15.1 Pneumonia due to Pseudomonas,ICD10_2,1
+J154,J15.4 Pneumonia due to other streptococci,ICD10_2,1
+J157,J15.7 Pneumonia due to Mycoplasma pneumoniae,ICD10_2,1
+J158,J15.8 Other bacterial pneumonia,ICD10_2,1
+J159,"J15.9 Bacterial pneumonia, unspecified",ICD10_2,1
+J180,"J18.0 Bronchopneumonia, unspecified",ICD10_2,1
+J181,"J18.1 Lobar pneumonia, unspecified",ICD10_2,1
+J188,"J18.8 Other pneumonia, organism unspecified",ICD10_2,1
+J189,"J18.9 Pneumonia, unspecified",ICD10_2,1
+J200,J20.0 Acute bronchitis due to Mycoplasma pneumoniae,ICD10_2,1
+J201,J20.1 Acute bronchitis due to Haemophilus influenzae,ICD10_2,1
+J202,J20.2 Acute bronchitis due to streptococcus,ICD10_2,1
+J205,J20.5 Acute bronchitis due to respiratory syncytial virus,ICD10_2,1
+J208,J20.8 Acute bronchitis due to other specified organisms,ICD10_2,1
+J209,"J20.9 Acute bronchitis, unspecified",ICD10_2,1
+J22,J22 Unspecified acute lower respiratory infection,ICD10_2,1
+J440,J44.0 Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10_2,1
+J441,"J44.1 Chronic obstructive pulmonary disease with acute exacerbation, unspecified",ICD10_2,1

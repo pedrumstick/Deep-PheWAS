@@ -1,0 +1,112 @@
+Code,Description,Source,Decision
+D20..,Aplastic anaemia,V3,1
+Xa01R,T-cell mediated cytopenia,V3,0
+X20CQ,Pure red cell aplasia,V3,0
+X20CW,Adenosine deaminase superactivity,V3,0
+X20CX,Transient erythroblastopenia of childhood,V3,0
+X20CY,Acquired red cell aplasia,V3,0
+D202.,Chronic acquired pure red cell aplasia,V3,0
+D203.,Transient acquired pure red cell aplasia,V3,0
+Dyu20,[X]Other acquired pure red cell aplasias,V3,0
+Dyu25,"[X]Acquired pure red cell aplasia, unspecified",V3,0
+X20CR,Secondary red cell aplasia NEC,V3,0
+X20CS,"Pure red cell aplasia, acquired",V3,0
+X20CT,Congenital pure red cell aplasia,V3,0
+XE13s,Constitutional red cell aplasia and hypoplasia,V3,0
+D200y,Other specified constitutional aplastic anaemia,V3,0
+D200z,Constitutional aplastic anaemia NOS,V3,0
+X20CU,Congenital red cell hypoplasia,V3,0
+X20CV,Constitutional red cell hypoplasia,V3,0
+D2001,Fanconi's anaemia,V3,0
+D2010,Aplastic anaemia due to chronic disease,V3,1
+D2012,Aplastic anaemia due to infection,V3,1
+D2013,Aplastic anaemia due to radiation,V3,0
+D2014,Aplastic anaemia due to toxic cause,V3,0
+D2017,Transient hypoplastic anaemia,V3,0
+D204.,Idiopathic aplastic anaemia,V3,1
+D20z.,Aplastic anaemia NOS,V3,1
+Dyu21,[X]Other specified aplastic anaemias,V3,1
+XE13q,Constitutional aplastic anaemia,V3,0
+X20CP,Constitutional aplastic anaemia without mention of malformation,V3,0
+XE13r,Constitutional aplastic anaemia with malformation,V3,0
+XE13t,Acquired aplastic anaemia,V3,1
+XE13w,Acquired aplastic anaemia NOS,V3,1
+XE13u,Aplastic anaemia due to drugs,V3,0
+X70Jk,Parvoviral aplastic crisis,V3,1
+D2...,Aplastic and other anaemias,V3,1
+Dyu2.,[X]Aplastic and other anaemias,V3,1
+D20..,Aplastic anaemia,V2,1
+D201z,Acquired aplastic anaemia NOS,V2,1
+D200.,Constitutional aplastic anaemia,V2,0
+D2003,Constitutional red cell aplasia and hypoplasia,V2,0
+D2030,Transient erythroblastopenia of childhood,V2,0
+D202.,Chronic acquired pure red cell aplasia,V2,0
+D203.,Transient acquired pure red cell aplasia,V2,0
+Dyu20,[X]Other acquired pure red cell aplasias,V2,0
+Dyu25,"[X]Acquired pure red cell aplasia, unspecified",V2,0
+D200y,Other specified constitutional aplastic anaemia,V2,0
+D200z,Constitutional aplastic anaemia NOS,V2,0
+D2001,Fanconi's familial refractory anaemia,V2,0
+D2010,Aplastic anaemia due to chronic disease,V2,1
+D2012,Aplastic anaemia due to infection,V2,1
+D2013,Aplastic anaemia due to radiation,V2,0
+D2014,Aplastic anaemia due to toxic cause,V2,0
+D2017,Transient hypoplastic anaemia,V2,0
+D204.,Idiopathic aplastic anaemia,V2,1
+D20z.,Aplastic anaemia NOS,V2,1
+Dyu21,[X]Other specified aplastic anaemias,V2,1
+D2000,Congenital hypoplastic anaemia,V2,0
+D2002,Constitutional aplastic anaemia with malformation,V2,0
+D201.,Acquired aplastic anaemia,V2,1
+D2011,Aplastic anaemia due to drugs,V2,0
+A570.,Erythema infectiosum - fifth disease,V2,0
+D2...,Aplastic and other anaemias,V2,1
+Dyu2.,[X]Aplastic and other anaemias,V2,1
+1332,aplastic anaemia,SR,1
+D619,"Aplastic anaemia, unspecified",MD,1
+D61,Other aplastic anaemias,MD,1
+D60,Acquired pure red cell aplasia [erythroblastopenia],MD,0
+D618,Other specified aplastic anaemias,MD,1
+D609,"Acquired pure red cell aplasia, unspecified",MD,0
+D898,"Other specified disorders involving the immune mechanism, not elsewhere classified",MD,0
+D601,Transient acquired pure red cell aplasia,MD,0
+D600,Chronic acquired pure red cell aplasia,MD,0
+D608,Other acquired pure red cell aplasias,MD,0
+D610,Constitutional aplastic anaemia,MD,0
+D612,Aplastic anaemia due to other external agents,MD,0
+D613,Idiopathic aplastic anaemia,MD,1
+D611,Drug-induced aplastic anaemia,MD,0
+2849," Aplastic anaemia, unspecified",ICD9,1
+284,Aplastic anaemia,ICD9,1
+6482," Anaemia in mother compl. pregnancy, childbirth, puerperium",ICD9,0
+2791,Deficiency of cell-mediated immunity,ICD9,0
+2848,Other aplastic anaemia,ICD9,1
+2840,Constitutional aplastic anaemia,ICD9,0
+578,Gastrointestinal haemorrhage,ICD9,0
+28489,Aplastic anemias NEC,ICD9,1
+D619,"Aplastic anaemia, unspecified",ICD10,1
+D61,Other aplastic anaemias,ICD10,1
+D60,Acquired pure red cell aplasia [erythroblastopenia],ICD10,0
+D618,Other specified aplastic anaemias,ICD10,1
+D609,"Acquired pure red cell aplasia, unspecified",ICD10,0
+D898,"Other specified disorders involving the immune mechanism, not elsewhere classified",ICD10,0
+D601,Transient acquired pure red cell aplasia,ICD10,0
+D600,Chronic acquired pure red cell aplasia,ICD10,0
+D608,Other acquired pure red cell aplasias,ICD10,0
+D610,Constitutional aplastic anaemia,ICD10,0
+D612,Aplastic anaemia due to other external agents,ICD10,0
+D613,Idiopathic aplastic anaemia,ICD10,1
+D611,Drug-induced aplastic anaemia,ICD10,0
+D619,"Aplastic anaemia, unspecified",cancer,1
+D61,Other aplastic anaemias,cancer,1
+D60,Acquired pure red cell aplasia [erythroblastopenia],cancer,0
+D618,Other specified aplastic anaemias,cancer,1
+D609,"Acquired pure red cell aplasia, unspecified",cancer,0
+D898,"Other specified disorders involving the immune mechanism, not elsewhere classified",cancer,0
+D601,Transient acquired pure red cell aplasia,cancer,0
+D600,Chronic acquired pure red cell aplasia,cancer,0
+D608,Other acquired pure red cell aplasias,cancer,0
+D610,Constitutional aplastic anaemia,cancer,0
+D612,Aplastic anaemia due to other external agents,cancer,0
+D613,Idiopathic aplastic anaemia,cancer,1
+D611,Drug-induced aplastic anaemia,cancer,0

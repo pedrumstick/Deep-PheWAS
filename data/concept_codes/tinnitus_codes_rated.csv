@@ -1,0 +1,23 @@
+Code,Description,Source,Decision
+XE17L,Tinnitus,V3,1
+X00kF,Noise-induced tinnitus,V3,1
+F5832,Objective tinnitus,V3,1
+X00kG,Tinnitus of muscular origin,V3,1
+X00kH,Tinnitus arising from tensor tympani,V3,1
+X00kI,Tinnitus arising from tensor palatini,V3,1
+X00kJ,Tinnitus of vascular origin,V3,1
+X00kK,Tinnitus due to spontaneous oto-acoustic emission,V3,1
+F5831,Subjective tinnitus,V3,1
+F5830,Unspecified tinnitus,V3,1
+F583z,Tinnitus NOS,V3,1
+F583.,Tinnitus,V2,1
+F5830,Unspecified tinnitus,V2,1
+F5832,Objective tinnitus,V2,1
+F583z,Tinnitus NOS,V2,1
+3883,Tinnitus,ICD9,1
+38830,Tinnitus NOS,ICD9,1
+38831,Subjective tinnitus,ICD9,1
+38832,Objective tinnitus,ICD9,1
+H931,Tinnitus,ICD10,1
+H931,Tinnitus,MD,1
+H931,Tinnitus,cancer,1

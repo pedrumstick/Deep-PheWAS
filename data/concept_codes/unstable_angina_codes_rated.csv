@@ -1,0 +1,26 @@
+Code,Description,Source,Decision
+X2009,Unstable angina,V3,1
+X200A,New onset angina,V3,0
+XE0Ui,Worsening angina,V3,0
+G311z,Preinfarction syndrome NOS,V3,1
+G31y0,Acute coronary insufficiency,V3,1
+XaaaE,Thrombolysis In Myocardial Infarction risk score for unstable angina or non-ST-segment-elevation myocardial infarction,V3,0
+G3111,Unstable angina,V2,1
+G33z6,New onset angina,V2,0
+G3114,Worsening angina,V2,0
+G311z,Preinfarction syndrome NOS,V2,1
+G31y0,Acute coronary insufficiency,V2,1
+38G..,Additional miscellaneous scales,V2,0
+1074,angina,SR,0
+I200,Unstable angina,MD,1
+I208,Other forms of angina pectoris,MD,0
+I248,Other forms of acute ischaemic heart disease,MD,0
+411,Other acute and subacute forms of ischaemic heart disease,ICD9,0
+413,Angina pectoris,ICD9,0
+4111,Intermediate coronary syndrome,ICD9,1
+I200,Unstable angina,ICD10,1
+I208,Other forms of angina pectoris,ICD10,0
+I248,Other forms of acute ischaemic heart disease,ICD10,0
+I200,Unstable angina,cancer,1
+I208,Other forms of angina pectoris,cancer,0
+I248,Other forms of acute ischaemic heart disease,cancer,0

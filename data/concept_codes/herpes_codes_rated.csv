@@ -1,0 +1,168 @@
+Code,Description,Source,Decision
+AyuA2,[X]Varicella with other complications,V3,0
+AyuA3,[X]Varicella without complications,V3,0
+AyuA4,[X]Zoster with other complications,V3,1
+AyuA5,[X]Zoster without complications,V3,1
+X00mI,Acute herpes zoster pharyngitis,V3,1
+X009c,Acute trigeminal herpes zoster,V3,1
+XE0R9,Chickenpox,V3,0
+H24y7,Chickenpox pneumonia,V3,0
+A53x1,Disseminated zoster,V3,1
+F0350,Encephalitis following chickenpox,V3,0
+F5016,Geniculate herpes zoster,V3,1
+X0016,Herpes zoster encephalitis,V3,1
+XE2x9,Herpes zoster infection,V3,1
+X20RH,Herpes zoster infection of oral mucosa,V3,1
+A5322,Herpes zoster iridocyclitis,V3,1
+A5321,Herpes zoster keratitis,V3,1
+A53z.,Herpes zoster NOS,V3,1
+A532.,Herpes zoster with ophthalmic complication,V3,1
+XE0RA,Herpes zoster with other central nervous system complication,V3,1
+A531z,Herpes zoster with other central nervous system complication NOS,V3,1
+A532z,Herpes zoster with other ophthalmic complication,V3,1
+A53x.,Herpes zoster with other specified complication,V3,1
+A53xz,Herpes zoster with other specified complication NOS,V3,1
+X70JG,Lumbar herpes zoster infection,V3,1
+X70JJ,Mandibular herpes zoster infection,V3,1
+X70JI,Maxillary herpes zoster infection,V3,1
+F0112,Meningitis due to herpes zoster virus,V3,1
+X70JN,Multidermatomal herpes zoster infection,V3,1
+X70JA,Neurological varicella,V3,0
+A5323,Ophthalmic herpes zoster infection,V3,1
+Xa3e3,Other herpes zoster,V3,1
+A520.,Postvaricella encephalitis,V3,0
+X70JF,Thoracic herpes zoster infection,V3,1
+X002X,Varicella cerebellar ataxia,V3,0
+X001a,Varicella transverse myelitis,V3,0
+A52z.,Varicella with no complication NOS,V3,0
+A52x.,Varicella with other specified complications,V3,0
+A52y.,Varicella with unspecified complications NOS,V3,0
+XaBsP,Varicella-zoster virus infection,V3,1
+F3744,Polyneuropathy in herpes zoster,V3,1
+X002q,Amyotrophy due to herpes zoster,V3,1
+A53y.,Herpes zoster with unspecified complication,V3,1
+XaZCN,Detection of Varicella zoster virus using polymerase chain reaction technique,V3,0
+AyuA2,[X]Varicella with other complications,V2,0
+AyuA3,[X]Varicella without complications,V2,0
+AyuA4,[X]Zoster with other complications,V2,1
+AyuA5,[X]Zoster without complications,V2,1
+H024.,Acute viral pharyngitis,V2,0
+A53..,Herpes zoster,V2,1
+A52..,Chickenpox,V2,0
+H24y7,Pneumonia with varicella,V2,0
+A53x1,Disseminated zoster,V2,1
+F0350,Encephalitis following chickenpox,V2,0
+F5016,Infective otitis externa due to herpes zoster,V2,1
+F0309,Herpes zoster encephalitis,V2,1
+J083z,Oral cellulitis and abscess NOS,V2,0
+A5322,Herpes zoster iridocyclitis,V2,1
+A5321,Herpes zoster with keratoconjunctivitis,V2,1
+A53z.,Herpes zoster NOS,V2,1
+A532.,Herpes zoster with ophthalmic complication,V2,1
+A5310,Herpes zoster with other central nervous system complications,V2,1
+A531z,Herpes zoster with other central nervous system complication NOS,V2,1
+A532z,Herpes zoster with other ophthalmic complication,V2,1
+A53x.,Herpes zoster with other specified complication,V2,1
+A53xz,Herpes zoster with other specified complication NOS,V2,1
+F0112,Meningitis due to herpes zoster virus,V2,1
+A5323,Ophthalmic herpes zoster infection,V2,1
+A520.,Postvaricella encephalitis,V2,0
+F0370,Varicella transverse myelitis,V2,0
+A52z.,Varicella with no complication NOS,V2,0
+A52x.,Varicella with other specified complications,V2,0
+A52y.,Varicella with unspecified complications NOS,V2,0
+A5...,Viral diseases with exanthem,V2,0
+F3744,Polyneuropathy in herpes zoster,V2,1
+F....,Nervous system and sense organ diseases,V2,0
+A53y.,Herpes zoster with unspecified complication,V2,1
+43wC.,Detection of Varicella zoster virus using polymerase chain reaction technique,V2,0
+1674,varicella zoster virus,SR,1
+1573,shingles,SR,1
+B018,Varicella with other complications,MD,0
+B019,Varicella without complication,MD,0
+B028,Zoster with other complications,MD,1
+B029,Zoster without complication,MD,1
+B022,Zoster with other nervous system involvement,MD,1
+G508,Other disorders of trigeminal nerve,MD,0
+B01,Varicella [chickenpox],MD,0
+B012,Varicella pneumonia,MD,0
+J171,Pneumonia in viral diseases classified elsewhere,MD,0
+B027,Disseminated zoster,MD,1
+B011,Varicella encephalitis,MD,0
+G051,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",MD,0
+G530,Postzoster neuralgia,MD,1
+B020,Zoster encephalitis,MD,1
+B02,Zoster [herpes zoster],MD,1
+B023,Zoster ocular disease,MD,1
+H220,Iridocyclitis in infectious and parasitic diseases classified elsewhere,MD,0
+H192,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,MD,0
+B021,Zoster meningitis,MD,1
+G020,Meningitis in viral diseases classified elsewhere,MD,0
+B010,Varicella meningitis,MD,0
+G630,Polyneuropathy in infectious and parasitic diseases classified elsewhere,MD,0
+G138,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,MD,0
+053,Herpes zoster,ICD9,1
+0530,Herpes zoster with meningitis,ICD9,1
+0531,Herpes zoster with other nervous system complications,ICD9,1
+05310,Herpes zoster with unspecified nervous system complication,ICD9,1
+05311,Geniculate herpes zoster,ICD9,1
+05312,Postherpetic trigeminal neuralgia,ICD9,1
+05313,Postherpetic polyneuropathy,ICD9,1
+05314,Herpes zoster myelitis,ICD9,1
+05319,Herpes zoster with other nervous system complications,ICD9,1
+0532,Herpes zoster with ophthalmic complications,ICD9,1
+05320,Herpes zoster dermatitis of eyelid,ICD9,1
+05321,Herpes zoster keratoconjunctivitis,ICD9,1
+05322,Herpes zoster iridocyclitis,ICD9,1
+05329,Herpes zoster with other ophthalmic complications,ICD9,1
+0537,Herpes zoster with other specified complications,ICD9,1
+05371,Otitis externa due to herpes zoster,ICD9,1
+05379,Herpes zoster with other specified complications,ICD9,1
+0538,Herpes zoster with unspecified complication,ICD9,1
+0539,Herpes zoster without mention of complication,ICD9,1
+B018,Varicella with other complications,ICD10,0
+B019,Varicella without complication,ICD10,0
+B028,Zoster with other complications,ICD10,1
+B029,Zoster without complication,ICD10,1
+B022,Zoster with other nervous system involvement,ICD10,1
+G508,Other disorders of trigeminal nerve,ICD10,0
+B01,Varicella [chickenpox],ICD10,0
+B012,Varicella pneumonia,ICD10,0
+J171,Pneumonia in viral diseases classified elsewhere,ICD10,0
+B027,Disseminated zoster,ICD10,1
+B011,Varicella encephalitis,ICD10,0
+G051,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",ICD10,0
+G530,Postzoster neuralgia,ICD10,1
+B020,Zoster encephalitis,ICD10,1
+B02,Zoster [herpes zoster],ICD10,1
+B023,Zoster ocular disease,ICD10,1
+H220,Iridocyclitis in infectious and parasitic diseases classified elsewhere,ICD10,0
+H192,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,ICD10,0
+B021,Zoster meningitis,ICD10,1
+G020,Meningitis in viral diseases classified elsewhere,ICD10,0
+B010,Varicella meningitis,ICD10,0
+G630,Polyneuropathy in infectious and parasitic diseases classified elsewhere,ICD10,0
+G138,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,ICD10,0
+B018,Varicella with other complications,cancer,0
+B019,Varicella without complication,cancer,0
+B028,Zoster with other complications,cancer,1
+B029,Zoster without complication,cancer,1
+B022,Zoster with other nervous system involvement,cancer,1
+G508,Other disorders of trigeminal nerve,cancer,0
+B01,Varicella [chickenpox],cancer,0
+B012,Varicella pneumonia,cancer,0
+J171,Pneumonia in viral diseases classified elsewhere,cancer,0
+B027,Disseminated zoster,cancer,1
+B011,Varicella encephalitis,cancer,0
+G051,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",cancer,0
+G530,Postzoster neuralgia,cancer,1
+B020,Zoster encephalitis,cancer,1
+B02,Zoster [herpes zoster],cancer,1
+B023,Zoster ocular disease,cancer,1
+H220,Iridocyclitis in infectious and parasitic diseases classified elsewhere,cancer,0
+H192,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,cancer,0
+B021,Zoster meningitis,cancer,1
+G020,Meningitis in viral diseases classified elsewhere,cancer,0
+B010,Varicella meningitis,cancer,0
+G630,Polyneuropathy in infectious and parasitic diseases classified elsewhere,cancer,0
+G138,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,cancer,0

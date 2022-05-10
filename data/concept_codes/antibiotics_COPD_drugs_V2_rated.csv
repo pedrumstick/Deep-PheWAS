@@ -1,0 +1,316 @@
+read_code,term_description,status_flag,Decision
+e311.,Amoxicillin 250mg capsule,1,1
+e312.,Amoxicillin 500mg capsule,1,1
+e313.,Amoxidin 250mg capsule,1,1
+e314.,Amoxidin 500mg capsule,1,1
+e315.,Amoxil 250mg capsule,1,1
+e316.,Amoxil 500mg capsule,1,1
+e317.,Amoxil 500mg s/f dispersible tablet,1,1
+e318.,Amoxil 125mg/5mL syrup,1,1
+e319.,Amoxil SF 125mg/5mL s/f suspension,1,1
+e31A.,Amix 125 s/f suspension,1,1
+e31B.,Amix 250 s/f suspension,1,1
+e31C.,Amrit 125mg/5mL suspension,1,1
+e31D.,Amrit 250mg/5mL suspension,1,1
+e31E.,Amrit 250mg capsule,1,1
+e31F.,Amrit 500mg capsule,1,1
+e31G.,Amopen 250mg capsule,1,1
+e31H.,Amopen 500mg capsule,1,1
+e31I.,Amopen 125mg/5mL suspension,1,1
+e31J.,Amopen 250mg/5mL suspension,1,1
+e31K.,Flemoxin Solutab 375mg s/f dispersible tablet,1,1
+e31L.,Flemoxin Solutab 750mg s/f dispersible tablet,1,1
+e31M.,Amoxil Fiztab 125mg s/f chewable tablet,1,1
+e31N.,Amoxil Fiztab 250mg s/f chewable tablet,1,1
+e31O.,Amoxil Fiztab 500mg s/f chewable tablet,1,1
+e31Q.,Co-amoxiclav 125mg/31mg/5mL s/f suspension,1,1
+e31R.,Amoxymed 250mg capsule,1,1
+e31S.,Amoxymed 125mg/5mL syrup,1,1
+e31U.,Co-amoxiclav 500mg/125mg tablet,1,1
+e31V.,Almodan 125mg/5mL sugar free syrup,1,1
+e31W.,Almodan 250mg/5mL sugar free syrup,1,1
+e31X.,Co-amoxiclav 400mg/57mg/5mL s/f suspension,1,1
+e31a.,Amoxil SF 250mg/5mL s/f suspension,1,1
+e31b.,Amoxil 125mg/1.25mL paediatric suspension,1,1
+e31c.,Amoxil 750mg/sachet s/f powder,1,1
+e31d.,Amoxil 3g/sachet s/f powder,1,1
+e31n.,Almodan 250mg capsule,1,1
+e31o.,Almodan 500mg capsule,1,1
+e31p.,Almodan 125mg/5mL syrup,1,1
+e31q.,Almodan 250mg/5mL syrup,1,1
+e31t.,Co-amoxiclav 250mg/125mg tablet,1,1
+e31u.,Co-amoxiclav 250mg/125mg s/f dispersible tablet,1,1
+e31w.,Co-amoxiclav 125mg/mL suspension,1,1
+e31z.,Co-amoxiclav 250mg/62mg/5mL s/f suspension,1,1
+e3A1.,Respillin 250mg capsule,1,1
+e3A2.,Respillin 500mg capsule,1,1
+e3A3.,Respillin 125mg/5mL oral suspension,1,1
+e3A4.,Respillin 250mg/5mL oral suspension,1,1
+e3A5.,Respillin 125mg/5mL s/f suspension,1,1
+e3A6.,Respillin 250mg/5mL s/f suspension,1,1
+e3z1.,Amoram 250mg capsule,1,1
+e3z2.,Amoram 500mg capsule,1,1
+e3z3.,Amoram 125mg/5mL s/f suspension,1,1
+e3z4.,Amoram 250mg/5mL s/f suspension,1,1
+e3z5.,Amix 250 capsule,1,1
+e3z6.,Amix 500 capsule,1,1
+e3z7.,Galenamox 250mg capsule,1,1
+e3z8.,Galenamox 500mg capsule,1,1
+e3z9.,Galenamox 125mg/5mL suspension,1,1
+e3zA.,Galenamox TP 250mg capsule,1,1
+e3zB.,Galenamox TP 500mg capsule,1,1
+e3zC.,Zoxycil 250 capsule,1,1
+e3zD.,Zoxycil 500 capsule,1,1
+e3zE.,Amoxicillin 125mg/sachet s/f powder,1,1
+e3zF.,Amoxident 250mg capsule,1,1
+e3zG.,Amoxident 500mg capsule,1,1
+e3za.,Galenamox 250mg/5mL suspension,1,1
+e3zb.,Galenamox 125mg/5mL s/f suspension,1,1
+e3zc.,Galenamox 250mg/5mL s/f suspension,1,1
+e3zf.,Rimoxallin 125mg/5mL syrup,1,1
+e3zg.,Rimoxallin 250mg capsule,1,1
+e3zh.,Rimoxallin 500mg capsule,1,1
+e3zj.,Rimoxallin 250mg/5mL syrup,1,1
+e3zk.,Amoxicillin 125mg/5mL s/f oral suspension,1,1
+e3zl.,Amoxycillin 500mg s/f dispersible tablet,1,1
+e3zm.,Amoxicillin 125mg/5mL oral suspension,1,1
+e3zn.,Amoxicillin 250mg/5mL oral suspension,1,1
+e3zo.,Amoxicillin 125mg/1.25mL paediatric suspension,1,1
+e3zp.,Amoxycillin 750mg/sachet s/f powder,1,1
+e3zq.,Amoxicillin 3g/sachet s/f powder,1,1
+e3zu.,Amoxicillin 250mg/5mL s/f oral suspension,1,1
+e3zv.,Amoxycillin 125mg s/f chewable tablet,1,1
+e3zw.,Amoxycillin 250mg s/f chewable tablet,1,1
+e3zx.,Amoxycillin 500mg s/f chewable tablet,1,1
+e3zy.,Amoxycillin 375mg s/f dispersible tablet,1,1
+e3zz.,Amoxycillin 750mg s/f dispersible tablet,1,1
+e61..,Cefaclor product,1,1
+e611.,Distaclor 250mg capsule,1,1
+e612.,Distaclor 125mg/5mL suspension,1,1
+e613.,Distaclor 250mg/5mL suspension,1,1
+e614.,Cefaclor 250mg capsule,1,1
+e615.,Cefaclor 125mg/5mL suspension,1,1
+e616.,Cefaclor 250mg/5mL suspension,1,1
+e617.,Distaclor 500mg capsule,1,1
+e618.,Cefaclor 500mg capsule,1,1
+e619.,Distaclor MR 375mg m/r tablet,1,1
+e61A.,Keftid 250mg capsule,1,1
+e61B.,Keftid 500mg capsule,1,1
+e61C.,Cefaclor 125mg/5mL s/f suspension,1,1
+e61D.,Cefaclor 250mg/5mL s/f suspension,1,1
+e61E.,Keftid 125mg/5mL s/f suspension,1,1
+e61F.,Keftid 250mg/5mL s/f suspension,1,1
+e61G.,Bacticlor MR 375mg m/r tablet,1,1
+e61a.,Cefaclor 375mg m/r tablet,1,1
+e61b.,Distaclor MR 500mg m/r tablet,1,1
+e61c.,Cefaclor 500mg m/r tablet,1,1
+e69..,Cefalexin,1,1
+e691.,Cefalexin 250mg capsule,1,1
+e692.,Cefalexin 500mg capsule,1,1
+e693.,Cefalexin 250mg tablet,1,1
+e694.,Cefalexin 500mg tablet,1,1
+e695.,Cefalexin 125mg/5mL oral suspension,1,1
+e696.,Cefalexin 250mg/5mL oral suspension,1,1
+e697.,Cefalexin 500mg/5mL syrup,1,1
+e698.,Ceporex 250mg capsule,1,1
+e699.,Ceporex 500mg capsule,1,1
+e69A.,Tenkorex 250mg capsule,1,1
+e69B.,Tenkorex 500mg capsule,1,1
+e69C.,Tenkorex 125mg/5mL suspension,1,1
+e69D.,Tenkorex 250mg/5mL suspension,1,1
+e69E.,Tenkorex 500mg tablet,1,1
+e69F.,Kiflone 500mg tablet,1,1
+e69G.,Kiflone 250mg capsule,1,1
+e69H.,Kiflone 500mg capsule,1,1
+e69J.,Kiflone 125mg/5mL syrup,1,1
+e69K.,Kiflone 250mg/5mL syrup,1,1
+e69a.,Ceporex 250mg tablet,1,1
+e69b.,Ceporex 500mg tablet,1,1
+e69c.,Ceporex 125mg/1.25mL paediatric drops,1,1
+e69d.,Ceporex 125mg/5mL suspension,1,1
+e69e.,Ceporex 250mg/5mL suspension,1,1
+e69f.,Ceporex 125mg/5mL syrup,1,1
+e69g.,Ceporex 250mg/5mL syrup,1,1
+e69h.,Ceporex 500mg/5mL syrup,1,1
+e69i.,Keflex 250mg capsule,1,1
+e69j.,Keflex 500mg capsule,1,1
+e69k.,Keflex 250mg tablet,1,1
+e69l.,Keflex 500mg tablet,1,1
+e69m.,Keflex 125mg/5mL suspension,1,1
+e69n.,Keflex 250mg/5mL suspension,1,1
+e69o.,Keflex-C 125mg chewable tablet,1,1
+e69p.,Keflex-C 250mg chewable tablet,1,1
+e69q.,Ceporex 1g tablet,1,1
+e69v.,Cefalexin 125mg/5mL syrup,1,1
+e69w.,Cefalexin 250mg/5mL syrup,1,1
+e69x.,Cephalexin 1g tablet,1,1
+e69y.,Cephalexin 125mg/1.25mL paediatric drops,1,1
+e711.,Tetracycline 250mg capsule,1,1
+e712.,Tetracycline 250mg tablet,1,1
+e714.,Achromycin 250mg capsule,1,1
+e715.,Achromycin 250mg tablet,1,1
+e71a.,Achromycin V 250mg capsule,1,1
+e71b.,Achromycin V 125mg/5mL syrup,1,1
+e71d.,Economycin 250mg capsule,1,1
+e71e.,Economycin 250mg tablet,1,1
+e71f.,Sustamycin 250mg m/r capsule,1,1
+e71g.,Tetrabid-Organon 250mg m/r capsule,1,1
+e71h.,Tetrachel 250mg capsule,1,1
+e71i.,Tetrachel 250mg tablet,1,1
+e71j.,Tetrex 250mg capsule,1,1
+e71o.,Achromycin 125mg/5mL syrup,1,1
+e71p.,Tetracycline 250mg m/r capsule,1,1
+e72..,Chlortetracycline hydrochloride [systemic],1,1
+e72y.,Chlortetracycline 250mg capsule,1,1
+e73..,Clomocycline sodium,1,1
+e731.,Megaclor 170mg capsule,1,1
+e73z.,Clomocycline sodium 170mg capsule,1,1
+e74..,Demeclocycline hydrochloride,1,1
+e741.,Ledermycin 150mg capsule,1,1
+e742.,Ledermycin 300mg tablet,1,1
+e74y.,Demeclocycline hydrochloride 150mg capsule,1,1
+e74z.,Demeclocycline hydrochloride 300mg tablet,1,1
+e75..,Doxycycline,1,1
+e751.,Doxatet 100mg tablet,1,1
+e752.,Doxylar 100mg capsule,1,1
+e753.,Nordox 100mg capsule,1,1
+e754.,Vibramycin 50mg capsule,1,1
+e755.,Vibramycin 100mg capsule,1,1
+e756.,Vibramycin 50mg/5mL syrup,1,1
+e757.,Vibramycin-D 100mg dispersible tablet,1,1
+e758.,Doxycycline 100mg capsule,1,1
+e759.,Demix 100 capsule,1,1
+e75A.,Ramysis 100mg capsule,1,1
+e75B.,Demix 50 capsule,1,1
+e75C.,Cyclodox 100mg capsule,1,1
+e75D.,Vibramycin Acne Pack 50mg capsule,1,1
+e75E.,Doxylar 50mg capsule,1,1
+e75F.,Periostat 20mg capsule,1,1
+e75G.,Periostat 20mg tablet,1,1
+e75H.,EFRACEA 40mg m/r capsules,1,1
+e75s.,DOXYCYCLINE 40mg m/r capsules,1,1
+e75t.,Doxycycline 20mg tablet,1,1
+e75u.,Doxycycline 20mg capsule,1,1
+e75v.,Doxycycline 100mg tablet,1,1
+e75x.,Doxycycline 50mg capsule,1,1
+e75y.,Doxycycline 50mg/5mL syrup,1,1
+e75z.,Doxycycline 100mg dispersible tablet,1,1
+e76..,Lymecycline,1,1
+e761.,Tetralysal 204mg capsule,1,1
+e762.,Tetralysal 300 capsule,1,1
+e76y.,Lymecycline 204mg capsule,1,1
+e76z.,Lymecycline 408mg capsule,1,1
+e78..,Oxytetracycline,1,1
+e781.,Oxytetracycline 250mg capsule,1,1
+e782.,Oxytetracycline dihydrate 250mg tablet,1,1
+e783.,Oxytetracycline 125mg/5mL mixture,1,1
+e784.,Berkmycen 250mg tablet,1,1
+e785.,Chemocycline 250mg tablet,1,1
+e786.,Chemocycline 125mg/5mL syrup,1,1
+e787.,Galenomycin 250mg tablet,1,1
+e788.,Imperacin 250mg tablet,1,1
+e789.,Oxymycin 250mg tablet,1,1
+e78a.,Terramycin 250mg capsule,1,1
+e78b.,Terramycin 250mg tablet,1,1
+e78c.,Unimycin 250mg capsule,1,1
+e78d.,Oxytetramix 250 tablet,1,1
+e78y.,Oxytetracycline 125mg/5mL syrup,1,1
+e911.,Erythromycin 250mg e/c tablet,1,1
+e912.,Erythromycin 500mg tablet,1,1
+e913.,Erythromycin stearate 250mg tablet,1,1
+e914.,Erythromycin stearate 500mg tablet,1,1
+e915.,Arpimycin 125mg/5mL s/f suspension,1,1
+e916.,Arpimycin 250mg/5mL s/f suspension,1,1
+e917.,Arpimycin 500mg/5mL s/f suspension,1,1
+e918.,Erycen 250mg e/c tablet,1,1
+e919.,Erycen 500mg e/c tablet,1,1
+e91A.,Erythroped Forte 500mg/sachet granules,1,1
+e91B.,Erythroped PI 125mg/sachet granules,1,1
+e91C.,Erythroped P.I. 125mg/5mL sugar free suspension 140mL,1,1
+e91D.,Erythroped 250mg/5mL sugar free suspension 140mL,1,1
+e91E.,Erythromycin 125mg/5mL s/f suspension,1,1
+e91F.,Erythromycin 250mg/5mL s/f suspension,1,1
+e91G.,Rommix 125 suspension,1,1
+e91H.,Rommix 250 e/c tablet,1,1
+e91I.,Kerymax 250mg e/c granules in capsule,1,1
+e91J.,Rommix 500 e/c tablet,1,1
+e91L.,Erythromycin 250mg capsule,1,1
+e91M.,Erythromycin 125mg/sachet granules,1,1
+e91N.,Erythromycin 250mg/sachet granules,1,1
+e91P.,Erythromycin 500mg/sachet granules,1,1
+e91Q.,Erythromycin 1g/sachet granules,1,1
+e91R.,Erythromycin 500mg/5mL s/f suspension,1,1
+e91S.,Tiloryth 250mg e/c granules in capsule,1,1
+e91T.,Erymin 250mg/5mL s/f suspension,1,1
+e91U.,Arpimycin 125mg/5mL suspension,1,1
+e91V.,Arpimycin 250mg/5mL suspension,1,1
+e91W.,Arpimycin 500mg/5mL suspension,1,1
+e91X.,Erythromycin 250mg e/c granules in capsule,1,1
+e91Y.,Erythroped Forte SF 500mg/5mL s/f suspension,1,1
+e91Z.,Primacine 125mg/5mL suspension 100mL,1,1
+e91a.,Erymax 250mg e/c granules in capsule,1,1
+e91b.,Erythrocin 250mg tablet,1,1
+e91c.,Erythrocin 500mg tablet,1,1
+e91e.,Erythrolar 250mg tablet,1,1
+e91f.,Erythrolar 500mg tablet,1,1
+e91g.,Erythrolar 250mg/5mL suspension,1,1
+e91h.,Erythromid 250mg e/c tablet,1,1
+e91i.,Erythromid DS 500mg e/c tablet,1,1
+e91j.,Erythroped PI 125mg/5mL suspension,1,1
+e91k.,Erythroped 250mg/5mL suspension 140mL,1,1
+e91l.,Erythroped 250mg/sachet sugar free granules,1,1
+e91m.,Erythroped Forte 500mg/5mL suspension,1,1
+e91n.,Erythroped A 500mg tablet,1,1
+e91o.,Ilosone 250mg capsule,1,1
+e91p.,Ilosone 500mg tablet,1,1
+e91q.,Ilosone 125mg/5mL suspension,1,1
+e91r.,Ilosone Forte 250mg/5mL suspension,1,1
+e91s.,Ilotycin 250mg tablet,1,1
+e91t.,Retcin 250mg e/c tablet,1,1
+e91u.,Erythromycin 125mg/5mL suspension,1,1
+e91v.,Erythromycin 250mg/5mL suspension,1,1
+e91w.,Erythromycin 500mg/5mL suspension,1,1
+e91x.,Erythroped A 1g/sachet granules,1,1
+e91y.,Erymax Sprinkle 125mg capsule,1,1
+e91z.,Erythroped 250mg/sachet granules,1,1
+e921.,Clarithromycin 250mg tablet,1,1
+e923.,Clarithromycin 125mg/5mL paediatric suspension,1,1
+e927.,Clarithromycin 500mg tablet,1,1
+e929.,Clarithromycin 500mg m/r tablet,1,1
+e92B.,Clarithromycin 250mg/sachet granules,1,1
+e92D.,Clarithromycin 250mg/5mL paediatric suspension,1,1
+e92F.,Clarithromycin 125mg granules straw,1,1
+e92H.,Clarithromycin 187.5mg granules straw,1,1
+e92J.,Clarithromycin 250mg granules straw,1,1
+e92L.,XETININ XL 500mg m/r tablets,1,1
+e92M.,FEBZIN XL 500mg m/r tablets,1,1
+e92N.,MYCIFOR XL 500mg m/r tablets,1,1
+e951.,Primacine 125mg/5mL suspension 140mL,1,1
+e952.,Primacine 250mg/5mL suspension 100mL,1,1
+e953.,Primacine 250mg/5mL suspension 140mL,1,1
+e954.,Primacine 500mg/5mL suspension 100mL,1,1
+e955.,Primacine 500mg/5mL suspension 140mL,1,1
+eg67.,Ciprofloxacin 100mg tablet,1,1
+eg69.,Ciprofloxacin 5g/100mL oral suspension,1,1
+eg6v.,Ciprofloxacin 750mg tablet,1,1
+eg6w.,Ciprofloxacin 500mg tablet,1,1
+eg6x.,Ciprofloxacin 250mg tablet,1,1
+egC1.,Levofloxacin 250mg tablet,1,1
+egC2.,Levofloxacin 500mg tablet,1,1
+egC4.,Tavanic 250mg tablet,1,1
+egC5.,Tavanic 500mg tablet,1,1
+egD1.,Moxifloxacin 400mg tablet,1,1
+egD2.,Avelox 400mg tablet,1,1
+lb71.,Tetracycline 125mg/5mL mixture,1,1
+x00LB,Erythromycin 500mg e/c tablet,1,1
+x00Zv,Chlortetracycline hydrochloride powder,1,1
+x00eN,Erythroped 250mg/5mL suspension,1,1
+x00eO,Erythroped PI SF 125mg/5mL suspension,1,1
+x00eP,Erythroped SF 250mg/5mL suspension,1,1
+x01Ho,Oral erythromycin,1,1
+x01Hy,Oral amoxycillin,1,1
+x01IG,Demeclocycline,1,1
+x01IH,Oral tetracycline,1,1
+x04xD,Primacine 125mg/5mL suspension,1,1
+x04xE,Primacine 250mg/5mL suspension,1,1
+x04xF,Primacine 500mg/5mL suspension,1,1

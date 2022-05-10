@@ -1,0 +1,66 @@
+Code,Description,Source,Decision
+X3076,Liver failure,V3,1
+X3079,Fulminant hepatic failure,V3,1
+X307A,Subfulminant hepatic failure,V3,1
+J6000,Acute hepatic failure,V3,1
+XaJxp,Acute hepatic failure due to drugs,V3,1
+J6010,Subacute hepatic failure,V3,1
+X307C,Chronic hepatic failure,V3,1
+J624.,Hepatorenal syndrome,V3,1
+SP143,Hepatorenal syndrome as a complication of care,V3,1
+SP142,Hepatic failure as a complication of care,V3,1
+X3077,Liver failure NOS,V3,1
+X3078,Hepatic failure NOS,V3,1
+XaMuG,Compensation for liver failure,V3,1
+XaMuH,Other specified compensation for liver failure,V3,1
+XaMuI,Compensation for liver failure NOS,V3,1
+J62y.,Liver failure NOS,V2,1
+J6000,Acute hepatic failure,V2,1
+J6357,Acute hepatic failure due to drugs,V2,1
+J6010,Subacute hepatic failure,V2,1
+J624.,Hepatorenal syndrome,V2,1
+SP143,Hepatorenal syndrome as a complication of care,V2,1
+SP142,Hepatic failure as a complication of care,V2,1
+7L1f.,Compensation for liver failure,V2,1
+7L1fy,Other specified compensation for liver failure,V2,1
+7L1fz,Compensation for liver failure NOS,V2,1
+1158,liver failure/cirrhosis,SR,0
+K729,"Hepatic failure, unspecified",MD,1
+K72,"Hepatic failure, not elsewhere classified",MD,1
+K704,Alcoholic hepatic failure,MD,0
+K711,Toxic liver disease with hepatic necrosis,MD,1
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",MD,0
+K720,Acute and subacute hepatic failure,MD,1
+K721,Chronic hepatic failure,MD,1
+K767,Hepatorenal syndrome,MD,1
+O904,Postpartum acute renal failure,MD,0
+5728,Other sequelae of chronic liver disease,ICD9,0
+6398," Other spec. compl. foll. abortion, ectopic, molar pregnancies",ICD9,0
+6467,Liver disorders in pregnancy,ICD9,0
+9974,Gastrointestinal complications,ICD9,0
+570,Acute and subacute necrosis of liver,ICD9,1
+6347,Spontaneous abortion with other specified complications,ICD9,0
+6357,Legally induced abortion with other specified complications,ICD9,0
+6367,Illegally induced abortion with other specified complications,ICD9,0
+6377,Unspecified abortion with other specified complications,ICD9,0
+6387,Failed attempted abortion with other specified complications,ICD9,0
+5724,Hepatorenal syndrome,ICD9,1
+6748," Other specified complications of the puerperium, not elsewhere classified",ICD9,0
+K729,"Hepatic failure, unspecified",ICD10,1
+K72,"Hepatic failure, not elsewhere classified",ICD10,1
+K704,Alcoholic hepatic failure,ICD10,0
+K711,Toxic liver disease with hepatic necrosis,ICD10,1
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",ICD10,0
+K720,Acute and subacute hepatic failure,ICD10,1
+K721,Chronic hepatic failure,ICD10,1
+K767,Hepatorenal syndrome,ICD10,1
+O904,Postpartum acute renal failure,ICD10,0
+K729,"Hepatic failure, unspecified",cancer,1
+K72,"Hepatic failure, not elsewhere classified",cancer,1
+K704,Alcoholic hepatic failure,cancer,0
+K711,Toxic liver disease with hepatic necrosis,cancer,1
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",cancer,0
+K720,Acute and subacute hepatic failure,cancer,1
+K721,Chronic hepatic failure,cancer,1
+K767,Hepatorenal syndrome,cancer,1
+O904,Postpartum acute renal failure,cancer,0

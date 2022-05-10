@@ -1,0 +1,154 @@
+Code,Description,Source,Decision
+J680.,Haematemesis,V3,1
+XE0rB,Vomiting blood - fresh,V3,1
+1995,Vomiting blood - coffee ground,V3,1
+Xa363,Vomiting stale blood,V3,1
+XaBfG,Haematemesis - cause unknown,V3,1
+14C8.,H/O: haematemesis,V3,1
+Q41y2,Neonatal haematemesis,V3,0
+Q4140,Perinatal haematemesis,V3,0
+Q462.,Newborn swallowing maternal blood causing haematemesis or melaena,V3,0
+J68..,Gastrointestinal bleed,V3,1
+Xa00e,Sepsis-associated gastrointestinal haemorrhage,V3,1
+X30Be,Upper gastrointestinal haemorrhage,V3,1
+G850.,Bleeding oesophageal varices,V3,1
+X30Bg,Bleeding gastric ulcer,V3,1
+J1101,Acute gastric ulcer with haemorrhage,V3,1
+J1111,Chronic gastric ulcer with haemorrhage,V3,1
+X30Bh,Bleeding duodenal ulcer,V3,1
+J1201,Acute duodenal ulcer with haemorrhage,V3,1
+J1211,Chronic duodenal ulcer with haemorrhage,V3,1
+X30Bi,Lower gastrointestinal haemorrhage,V3,1
+XE0b0,Haemorrhage of rectum and anus,V3,1
+J573z,Haemorrhage of rectum and anus NOS,V3,1
+XaB3J,Recurrent gastrointestinal bleeding,V3,1
+XaB3K,Massive gastrointestinal bleed,V3,1
+XE0bJ,Gastrointestinal haemorrhage unspecified,V3,1
+J68z0,Gastric haemorrhage NOS,V3,1
+J68z1,Intestinal haemorrhage NOS,V3,1
+J68zz,Gastrointestinal tract haemorrhage NOS,V3,1
+X70jH,Radionuclide gastrointestinal bleeding study,V3,0
+X70jI,Tc99m-RBC study for bleeding,V3,0
+X77h7,Colloid study for bleeding,V3,0
+X70jK,Gastrointestinal blood loss measurement using Cr51,V3,0
+XE0bI,Melaena,V3,1
+14C9.,H/O: melaena,V3,1
+XM0Cn,C/O - melaena,V3,1
+Q41y3,Neonatal melaena,V3,0
+Q4141,Perinatal melaena,V3,0
+XM1VW,Melaena - O/E of faeces,V3,1
+XE0rJ,Blood in stool,V3,0
+Xa7VS,Stool flecked with blood,V3,0
+X76fI,Blood in faeces symptom,V3,0
+J5731,Anal bleeding,V3,1
+J680.,Haematemesis,V2,1
+1994,Vomiting blood - fresh,V2,1
+1995,Vomiting blood - coffee ground,V2,1
+14C8.,H/O: haematemesis,V2,1
+Q41y2,Neonatal haematemesis,V2,0
+Q4140,Perinatal haematemesis,V2,0
+Q462.,Newborn swallowing maternal blood causing haematemesis or melaena,V2,0
+J68..,Gastrointestinal haemorrhage,V2,1
+J68z2,Upper gastrointestinal haemorrhage,V2,1
+G850.,Oesophageal varices with bleeding,V2,1
+J1101,Acute gastric ulcer with haemorrhage,V2,1
+J1111,Chronic gastric ulcer with haemorrhage,V2,1
+J1201,Acute duodenal ulcer with haemorrhage,V2,1
+J1211,Chronic duodenal ulcer with haemorrhage,V2,1
+J573.,Haemorrhage of rectum and anus,V2,1
+J573z,Haemorrhage of rectum and anus NOS,V2,1
+J68z.,Gastrointestinal haemorrhage unspecified,V2,1
+J68z0,Gastric haemorrhage NOS,V2,1
+J68z1,Intestinal haemorrhage NOS,V2,1
+J68zz,Gastrointestinal tract haemorrhage NOS,V2,1
+316..,Special GIT procedures,V2,0
+J681.,Melaena,V2,1
+14C9.,H/O: melaena,V2,1
+19E4.,C/O - melaena,V2,1
+Q41y3,Neonatal melaena,V2,0
+Q4141,Perinatal melaena,V2,0
+4737,Melaena - O/E of faeces,V2,1
+19E6.,Blood in faeces symptom,V2,0
+J5731,Anal haemorrhage,V2,1
+1191,gastrointestinal bleeding,SR,1
+K290,Acute haemorrhagic gastritis,MD,1
+K921,Melaena,MD,1
+K250,"Gastric ulcer, Acute with haemorrhage",MD,1
+K252,"Gastric ulcer, Acute with both haemorrhage and perforation",MD,1
+K260,"Duodenal ulcer, acute with haemorrhage",MD,1
+K262,"Duodenal ulcer, acute with both haemorrhage and perforation",MD,1
+K270,"Peptic ulcer, site unspecified, acute with haemorrhage",MD,1
+K272,"Peptic ulcer, site unspecified, acute with both haemorrhage and perforation",MD,1
+K280,"Gastrojejunal ulcer, acute with haemorrhage",MD,1
+K282,"Gastrojejunal ulcer, acute with both haemorrhage and perforation",MD,1
+I850,Oesophageal varices with bleeding,MD,1
+K625,Haemorrhage of anus and rectum,MD,1
+K920,Haematemesis,MD,1
+K921,Melaena,MD,1
+K922,"Gastrointestinal haemorrhage, unspecified",MD,1
+5780,Haematemesis,ICD9,1
+7724,Fetal and neonatal gastrointestinal haemorrhage,ICD9,0
+7773,Perinatal haematemesis and melaena due to swallowed maternal blood,ICD9,0
+5789," Haemorrhage of gastrointestinal tract, unspecified",ICD9,1
+578,Gastrointestinal haemorrhage,ICD9,1
+4560,Oesophageal varices with bleeding,ICD9,1
+5693,Haemorrhage of rectum and anus,ICD9,1
+5781,Melaena,ICD9,1
+45620,"Esophageal varices in diseases classified elsewhere, with bleeding",ICD9,1
+53021,Ulcer of esophagus with bleeding,ICD9,1
+5307,Gastroesophageal laceration-hemorrhage syndrome,ICD9,1
+53082,Esophageal hemorrhage,ICD9,1
+5310,Acute gastric ulcer with hemorrhage,ICD9,1
+53100,"Acute gastric ulcer with hemorrhage, without mention of obstruction",ICD9,1
+53101,"Acute gastric ulcer with hemorrhage, with obstruction",ICD9,1
+5312,Acute gastric ulcer with hemorrhage and perforation,ICD9,1
+53120,"Acute gastric ulcer with hemorrhage and perforation, without mention of obstruction",ICD9,1
+53121,"Acute gastric ulcer with hemorrhage and perforation, with obstruction",ICD9,1
+5320,Acute duodenal ulcer with hemorrhage,ICD9,1
+53200,"Acute duodenal ulcer with hemorrhage, without mention of obstruction",ICD9,1
+53201,"Acute duodenal ulcer with hemorrhage, with obstruction",ICD9,1
+5322,Acute duodenal ulcer with hemorrhage and perforation,ICD9,1
+53220,"Acute duodenal ulcer with hemorrhage and perforation, without mention of obstruction",ICD9,1
+53221,"Acute duodenal ulcer with hemorrhage and perforation, with obstruction",ICD9,1
+5330,Acute peptic ulcer of unspecified site with hemorrhage,ICD9,1
+53300,"Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",ICD9,1
+53301,"Acute peptic ulcer of unspecified site with hemorrhage, with obstruction",ICD9,1
+5332,Acute peptic ulcer of unspecified site with hemorrhage and perforation,ICD9,1
+53320,"Acute peptic ulcer of unspecified site with hemorrhage and perforation, without mention of obstruction",ICD9,1
+53321,"Acute peptic ulcer of unspecified site with hemorrhage and perforation, with obstruction",ICD9,1
+5340,Acute gastrojejunal ulcer with hemorrhage,ICD9,1
+53400,"Acute gastrojejunal ulcer with hemorrhage, without mention of obstruction",ICD9,1
+53401,"Acute gastrojejunal ulcer, with hemorrhage, with obstruction",ICD9,1
+5342,Acute gastrojejunal ulcer with hemorrhage and perforation,ICD9,1
+53420,"Acute gastrojejunal ulcer with hemorrhage and perforation, without mention of obstruction",ICD9,1
+53421,"Acute gastrojejunal ulcer with hemorrhage and perforation, with obstruction",ICD9,1
+K290,Acute haemorrhagic gastritis,ICD10,1
+K921,Melaena,ICD10,1
+K250,"Gastric ulcer, Acute with haemorrhage",ICD10,1
+K252,"Gastric ulcer, Acute with both haemorrhage and perforation",ICD10,1
+K260,"Duodenal ulcer, acute with haemorrhage",ICD10,1
+K262,"Duodenal ulcer, acute with both haemorrhage and perforation",ICD10,1
+K270,"Peptic ulcer, site unspecified, acute with haemorrhage",ICD10,1
+K272,"Peptic ulcer, site unspecified, acute with both haemorrhage and perforation",ICD10,1
+K280,"Gastrojejunal ulcer, acute with haemorrhage",ICD10,1
+K282,"Gastrojejunal ulcer, acute with both haemorrhage and perforation",ICD10,1
+I850,Oesophageal varices with bleeding,ICD10,1
+K625,Haemorrhage of anus and rectum,ICD10,1
+K920,Haematemesis,ICD10,1
+K921,Melaena,ICD10,1
+K922,"Gastrointestinal haemorrhage, unspecified",ICD10,1
+K290,Acute haemorrhagic gastritis,cancer,1
+K921,Melaena,cancer,1
+K250,"Gastric ulcer, Acute with haemorrhage",cancer,1
+K252,"Gastric ulcer, Acute with both haemorrhage and perforation",cancer,1
+K260,"Duodenal ulcer, acute with haemorrhage",cancer,1
+K262,"Duodenal ulcer, acute with both haemorrhage and perforation",cancer,1
+K270,"Peptic ulcer, site unspecified, acute with haemorrhage",cancer,1
+K272,"Peptic ulcer, site unspecified, acute with both haemorrhage and perforation",cancer,1
+K280,"Gastrojejunal ulcer, acute with haemorrhage",cancer,1
+K282,"Gastrojejunal ulcer, acute with both haemorrhage and perforation",cancer,1
+I850,Oesophageal varices with bleeding,cancer,1
+K625,Haemorrhage of anus and rectum,cancer,1
+K920,Haematemesis,cancer,1
+K921,Melaena,cancer,1
+K922,"Gastrointestinal haemorrhage, unspecified",cancer,1

@@ -1,0 +1,242 @@
+Code,Description,Source,Decision
+43C3.,HIV positive,V3,1
+X00cZ,HIV-associated retinitis,V3,1
+X70O1,HIV - Human immunodeficiency virus infection wasting syndrome,V3,1
+Xa1k1,HIV-related sclerosing cholangitis,V3,1
+A7892,HIV disease resulting in candidiasis,V3,1
+Xa1k3,HIV-related gut disease - cause unknown,V3,1
+A7895,HIV disease resulting in Kaposi sarcoma,V3,1
+AyuC2,[X]HIV disease resulting in other mycoses,V3,1
+A7896,HIV disease resulting in Burkitt lymphoma,V3,1
+X709a,HIV - Human immunodeficiency virus myopathy,V3,1
+X001h,HIV - Human immunodeficiency virus myelitis,V3,1
+X303J,HIV - Human immunodeficiency virus diarrhoea,V3,1
+X70M6,HIV - Human immunodeficiency virus infection,V3,1
+A7881,Asymptomatic human immunodeficiency virus infection,V3,1
+A7880,Acute human immunodeficiency virus seroconversion illness,V3,1
+XE0RX,Acquired immune deficiency syndrome,V3,1
+X70O0,Acquired immune deficiency syndrome-related complex,V3,1
+A7883,Human immunodeficiency virus infection constitutional disease,V3,1
+X003P,Acquired immune deficiency syndrome dementia complex,V3,1
+X001B,Human immunodefiency virus encephalitis,V3,1
+X001C,Human immunodefiency virus leucoencephalopathy,V3,1
+X70O5,Human immunodeficiency viral myelitis,V3,1
+X30IP,Acquired immune deficiency syndrome-related nephropathy,V3,1
+A7882,Human immunodeficiency virus infection with persistent generalised lymphadenopathy,V3,1
+X20Q9,Human immunodeficiency virus-associated periodontitis,V3,1
+X20QA,Acute necrotising ulcerative periodontitis,V3,1
+X00B7,Neuropathy due to human immunodeficiency virus,V3,1
+A7884,Human immunodeficiency virus with neurological disease,V3,0
+A7885,Human immunodeficiency virus infection with secondary clinical infectious disease,V3,1
+A7886,Human immunodeficiency virus with secondary cancers,V3,1
+A788y,Human immunodeficiency virus with other clinical findings,V3,1
+A788z,Acquired human immunodeficiency virus infection syndrome NOS,V3,1
+A789.,Human immunodef virus resulting in other disease,V3,1
+A7890,HIV disease resulting in mycobacterial infection,V3,1
+A7891,HIV disease resulting in cytomegaloviral disease,V3,1
+A7893,HIV disease resulting in Pneumocystis carinii pneumonia,V3,1
+A7894,HIV disease resulting in multiple infections,V3,1
+A7897,HIV disease resulting in other types of non-Hodgkin's lymphoma,V3,1
+A7898,HIV disease resulting in multiple malignant neoplasms,V3,1
+A7899,HIV disease resulting in lymphoid interstitial pneumonitis,V3,1
+AyuC.,[X]Human immunodeficiency virus disease,V3,1
+AyuC0,[X]HIV disease resulting in other bacterial infections,V3,1
+AyuC1,[X]HIV disease resulting in other viral infections,V3,1
+AyuC4,[X]Hiv disease resulting in other infectious and parasitic diseases,V3,1
+AyuC5,[X]Hiv disease resulting in unspecified infectious and parasitic disease,V3,1
+AyuC6,[X]HIV disease resulting in other non-Hodgkin's lymphoma,V3,1
+AyuC7,"[X]Hiv disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",V3,1
+AyuC8,[X]HIV disease resulting in other malignant neoplasms,V3,1
+AyuC9,[X]HIV disease resulting in unspecified malignant neoplasm,V3,1
+AyuCA,[X]HIV disease resulting in multiple diseases classified elsewhere,V3,1
+AyuCB,"[X]Hiv disease resulting in haematological and immunological abnormalities, not elsewhere classified",V3,1
+AyuCC,[X]HIV disease resulting in other specified conditions,V3,1
+AyuCD,[X]Unspecified human immunodeficiency virus [HIV] disease,V3,1
+43C3.,HIV positive,V2,1
+A79z.,Viral infection NOS,V2,1
+A789A,HIV disease resulting in wasting syndrome,V2,1
+J6618,Secondary sclerosing cholangitis,V2,1
+A7892,HIV disease resulting in candidiasis,V2,1
+J....,Digestive system diseases,V2,0
+A7895,HIV disease resulting in Kaposi sarcoma,V2,1
+AyuC2,[X]HIV disease resulting in other mycoses,V2,1
+A7896,HIV disease resulting in Burkitt lymphoma,V2,1
+Nyu8.,[X]Disorders of muscles,V2,0
+A788.,Acquired immune deficiency syndrome,V2,1
+A7881,Asymptomatic human immunodeficiency virus infection,V2,1
+A7880,Acute human immunodeficiency virus infection,V2,1
+A7883,Human immunodeficiency virus with constitutional disease,V2,1
+Eu024,[X]Dementia in human immunodef virus [HIV] disease,V2,1
+K072.,Glomerulosclerosis,V2,0
+A7882,Human immunodeficiency virus infection with persistent generalised lymphadenopathy,V2,1
+F367.,Peripheral neuropathy,V2,0
+A7884,Human immunodeficiency virus with neurological disease,V2,0
+A7885,Human immunodeficiency virus infection with secondary clinical infectious disease,V2,1
+A7886,Human immunodeficiency virus with secondary cancers,V2,1
+A788y,Human immunodeficiency virus with other clinical findings,V2,1
+A788z,Acquired human immunodeficiency virus infection syndrome NOS,V2,1
+A789.,Human immunodef virus resulting in other disease,V2,1
+A7890,HIV disease resulting in mycobacterial infection,V2,1
+A7891,HIV disease resulting in cytomegaloviral disease,V2,1
+A7893,HIV disease resulting in Pneumocystis carinii pneumonia,V2,1
+A7894,HIV disease resulting in multiple infections,V2,1
+A7897,HIV disease resulting in other types of non-Hodgkin's lymphoma,V2,1
+A7898,HIV disease resulting in multiple malignant neoplasms,V2,1
+A7899,HIV disease resulting in lymphoid interstitial pneumonitis,V2,1
+AyuC.,[X]Human immunodeficiency virus disease,V2,1
+AyuC0,[X]HIV disease resulting in other bacterial infections,V2,1
+AyuC1,[X]HIV disease resulting in other viral infections,V2,1
+AyuC4,[X]Hiv disease resulting in other infectious and parasitic diseases,V2,1
+AyuC5,[X]Hiv disease resulting in unspecified infectious and parasitic disease,V2,1
+AyuC6,[X]HIV disease resulting in other non-Hodgkin's lymphoma,V2,1
+AyuC7,"[X]Hiv disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",V2,1
+AyuC8,[X]HIV disease resulting in other malignant neoplasms,V2,1
+AyuC9,[X]HIV disease resulting in unspecified malignant neoplasm,V2,1
+AyuCA,[X]Hiv disease resulting in multiple diseases classified elsewhere,V2,1
+AyuCB,"[X]Hiv disease resulting in haematological and immunological abnormalities, not elsewhere classified",V2,1
+AyuCC,[X]HIV disease resulting in other specified conditions,V2,1
+AyuCD,[X]Unspecified human immunodeficiency virus [HIV] disease,V2,1
+1439,hiv/aids,SR,1
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,MD,1
+B238,HIV disease resulting in other specified conditions,MD,1
+H309,"Chorioretinal inflammation, unspecified",MD,0
+B222,HIV disease resulting in wasting syndrome,MD,1
+K830,Cholangitis,MD,0
+B204,HIV disease resulting in candidiasis,MD,1
+B210,HIV disease resulting in Kaposi sarcoma,MD,1
+C469,"Kaposi sarcoma, unspecified",MD,1
+B205,HIV disease resulting in other mycoses,MD,1
+B211,HIV disease resulting in Burkitt lymphoma,MD,1
+C837,Burkitt lymphoma,MD,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",MD,0
+K639,"Disease of intestine, unspecified",MD,0
+B24,Unspecified human immunodeficiency virus [HIV] disease,MD,1
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,MD,1
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,MD,1
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,MD,1
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,MD,1
+R75,Laboratory evidence of human immunodeficiency virus [HIV],MD,1
+Z206,Contact with and exposure to human immunodeficiency virus [HIV],MD,0
+B230,Acute HIV infection syndrome,MD,0
+B220,HIV disease resulting in encephalopathy,MD,1
+F024,Dementia in human immunodeficiency virus [HIV] disease,MD,1
+N289,"Disorder of kidney and ureter, unspecified",MD,0
+B231,HIV disease resulting in (persistent) generalized lymphadenopathy,MD,1
+G589,"Mononeuropathy, unspecified",MD,0
+B209,HIV disease resulting in unspecified infectious or parasitic disease,MD,1
+B218,HIV disease resulting in other malignant neoplasms,MD,1
+B208,HIV disease resulting in other infectious and parasitic diseases,MD,1
+B200,HIV disease resulting in mycobacterial infection,MD,1
+B202,HIV disease resulting in cytomegaloviral disease,MD,1
+B206,HIV disease resulting in Pneumocystis jirovecii pneumonia,MD,1
+B207,HIV disease resulting in multiple infections,MD,1
+B212,HIV disease resulting in other types of non-Hodgkin lymphoma,MD,1
+B217,HIV disease resulting in multiple malignant neoplasms,MD,1
+B221,HIV disease resulting in lymphoid interstitial pneumonitis,MD,1
+B201,HIV disease resulting in other bacterial infections,MD,1
+B203,HIV disease resulting in other viral infections,MD,1
+B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",MD,1
+B219,HIV disease resulting in unspecified malignant neoplasm,MD,1
+B227,HIV disease resulting in multiple diseases classified elsewhere,MD,1
+B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",MD,1
+042,Human immunodeficiency virus [HIV] disease,ICD9,1
+0420,HIV infection with certain specified infections,ICD9,1
+0421,HIV infection causing other specified infections,ICD9,1
+0422,HIV infection with specified malignant neoplasms,ICD9,1
+0429,Acquired immunodeficiency syndrome with or without other conditions,ICD9,1
+043,HIV causing other specified conditions,ICD9,1
+0430,HIV causing lymphandenopathy,ICD9,1
+0431,HIV causing specified diseases of the central nervous system,ICD9,1
+0432,HIV causing other disorders involving the immune mechanism,ICD9,1
+0433,HIV causing other specified conditions,ICD9,1
+0439,Acquired immunodeficiency syndrome-related complex with or without other conditions,ICD9,1
+044,Other human immunodeficiency virus (HIV) infection,ICD9,1
+0440,HIV infection causing specified acute infections,ICD9,1
+0449,"HIV infection not otherwise specified (with or without other conditions not classifiable to 042, 043, 044.0)",ICD9,1
+07953,"Human immunodeficiency virus, type 2 [HIV-2] infection in conditions classified elsewhere and of unspecified site",ICD9,1
+79571,Nonspecific serologic evidence of human immunodeficiency virus [HIV],ICD9,1
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status,ICD9,1
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,ICD10,1
+B238,HIV disease resulting in other specified conditions,ICD10,1
+H309,"Chorioretinal inflammation, unspecified",ICD10,0
+B222,HIV disease resulting in wasting syndrome,ICD10,1
+K830,Cholangitis,ICD10,0
+B204,HIV disease resulting in candidiasis,ICD10,1
+B210,HIV disease resulting in Kaposi sarcoma,ICD10,1
+C469,"Kaposi sarcoma, unspecified",ICD10,1
+B205,HIV disease resulting in other mycoses,ICD10,1
+B211,HIV disease resulting in Burkitt lymphoma,ICD10,1
+C837,Burkitt lymphoma,ICD10,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",ICD10,0
+K639,"Disease of intestine, unspecified",ICD10,0
+B24,Unspecified human immunodeficiency virus [HIV] disease,ICD10,1
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,ICD10,1
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,ICD10,1
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,ICD10,1
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,ICD10,1
+R75,Laboratory evidence of human immunodeficiency virus [HIV],ICD10,1
+Z206,Contact with and exposure to human immunodeficiency virus [HIV],ICD10,0
+B230,Acute HIV infection syndrome,ICD10,0
+B220,HIV disease resulting in encephalopathy,ICD10,1
+F024,Dementia in human immunodeficiency virus [HIV] disease,ICD10,1
+N289,"Disorder of kidney and ureter, unspecified",ICD10,0
+B231,HIV disease resulting in (persistent) generalized lymphadenopathy,ICD10,1
+G589,"Mononeuropathy, unspecified",ICD10,0
+B209,HIV disease resulting in unspecified infectious or parasitic disease,ICD10,1
+B218,HIV disease resulting in other malignant neoplasms,ICD10,1
+B208,HIV disease resulting in other infectious and parasitic diseases,ICD10,1
+B200,HIV disease resulting in mycobacterial infection,ICD10,1
+B202,HIV disease resulting in cytomegaloviral disease,ICD10,1
+B206,HIV disease resulting in Pneumocystis jirovecii pneumonia,ICD10,1
+B207,HIV disease resulting in multiple infections,ICD10,1
+B212,HIV disease resulting in other types of non-Hodgkin lymphoma,ICD10,1
+B217,HIV disease resulting in multiple malignant neoplasms,ICD10,1
+B221,HIV disease resulting in lymphoid interstitial pneumonitis,ICD10,1
+B201,HIV disease resulting in other bacterial infections,ICD10,1
+B203,HIV disease resulting in other viral infections,ICD10,1
+B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",ICD10,1
+B219,HIV disease resulting in unspecified malignant neoplasm,ICD10,1
+B227,HIV disease resulting in multiple diseases classified elsewhere,ICD10,1
+B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",ICD10,1
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,cancer,1
+B238,HIV disease resulting in other specified conditions,cancer,1
+H309,"Chorioretinal inflammation, unspecified",cancer,0
+B222,HIV disease resulting in wasting syndrome,cancer,1
+K830,Cholangitis,cancer,0
+B204,HIV disease resulting in candidiasis,cancer,1
+B210,HIV disease resulting in Kaposi sarcoma,cancer,1
+C469,"Kaposi sarcoma, unspecified",cancer,1
+B205,HIV disease resulting in other mycoses,cancer,1
+B211,HIV disease resulting in Burkitt lymphoma,cancer,1
+C837,Burkitt lymphoma,cancer,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",cancer,0
+K639,"Disease of intestine, unspecified",cancer,0
+B24,Unspecified human immunodeficiency virus [HIV] disease,cancer,1
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,cancer,1
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,cancer,1
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,cancer,1
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,cancer,1
+R75,Laboratory evidence of human immunodeficiency virus [HIV],cancer,1
+Z206,Contact with and exposure to human immunodeficiency virus [HIV],cancer,0
+B230,Acute HIV infection syndrome,cancer,0
+B220,HIV disease resulting in encephalopathy,cancer,1
+F024,Dementia in human immunodeficiency virus [HIV] disease,cancer,1
+N289,"Disorder of kidney and ureter, unspecified",cancer,0
+B231,HIV disease resulting in (persistent) generalized lymphadenopathy,cancer,1
+G589,"Mononeuropathy, unspecified",cancer,0
+B209,HIV disease resulting in unspecified infectious or parasitic disease,cancer,1
+B218,HIV disease resulting in other malignant neoplasms,cancer,1
+B208,HIV disease resulting in other infectious and parasitic diseases,cancer,1
+B200,HIV disease resulting in mycobacterial infection,cancer,1
+B202,HIV disease resulting in cytomegaloviral disease,cancer,1
+B206,HIV disease resulting in Pneumocystis jirovecii pneumonia,cancer,1
+B207,HIV disease resulting in multiple infections,cancer,1
+B212,HIV disease resulting in other types of non-Hodgkin lymphoma,cancer,1
+B217,HIV disease resulting in multiple malignant neoplasms,cancer,1
+B221,HIV disease resulting in lymphoid interstitial pneumonitis,cancer,1
+B201,HIV disease resulting in other bacterial infections,cancer,1
+B203,HIV disease resulting in other viral infections,cancer,1
+B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",cancer,1
+B219,HIV disease resulting in unspecified malignant neoplasm,cancer,1
+B227,HIV disease resulting in multiple diseases classified elsewhere,cancer,1
+B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",cancer,1

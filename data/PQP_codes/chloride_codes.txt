@@ -1,0 +1,4 @@
+read_code	term_description	type
+44h2.	Blood chloride level	read_V2
+44i1.	Plasma chloride level	read_V2
+44I6.	Serum chloride	read_V2

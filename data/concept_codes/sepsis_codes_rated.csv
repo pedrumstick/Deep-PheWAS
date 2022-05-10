@@ -1,0 +1,103 @@
+Code,Description,Source,Decision
+A021,Salmonella sepsis,ICD10,1
+A227,Anthrax sepsis,ICD10,1
+A327,Listerial sepsis,ICD10,1
+A394,"Meningococcaemia, unspecified",ICD10,1
+A400,"Sepsis due to streptococcus, group A",ICD10,1
+A401,"Sepsis due to streptococcus, group B",ICD10,1
+A402,"Sepsis due to streptococcus, group D",ICD10,1
+A403,Sepsis due to Streptococcus pneumoniae,ICD10,1
+A408,Other streptococcal sepsis,ICD10,1
+A409,"Streptococcal sepsis, unspecified",ICD10,1
+A410,Sepsis due to Staphylococcus aureus,ICD10,1
+A411,Sepsis due to other specified staphylococcus,ICD10,1
+A412,Sepsis due to unspecified staphylococcus,ICD10,1
+A413,Sepsis due to Haemophilus influenzae,ICD10,1
+A414,Sepsis due to anaerobes,ICD10,1
+A415,Sepsis due to other Gram-negative organisms,ICD10,1
+A418,Other specified sepsis,ICD10,1
+A419,"Sepsis, unspecified",ICD10,1
+A427,Actinomycotic sepsis,ICD10,1
+A499,"Bacterial infection, unspecified",ICD10,1
+B377,Candidal sepsis,ICD10,1
+O85X,Puerperal sepsis,ICD10,1
+R572,Septic shock,ICD10,1
+R650,Systemic Inflammatory Response Syndrome of infectious origin without organ failure,ICD10,1
+R651,Systemic Inflammatory Response Syndrome of infectious origin with organ failure,ICD10,1
+A021,Salmonella sepsis,MD,1
+A227,Anthrax sepsis,MD,1
+A327,Listerial sepsis,MD,1
+A394,"Meningococcaemia, unspecified",MD,1
+A400,"Sepsis due to streptococcus, group A",MD,1
+A401,"Sepsis due to streptococcus, group B",MD,1
+A402,"Sepsis due to streptococcus, group D",MD,1
+A403,Sepsis due to Streptococcus pneumoniae,MD,1
+A408,Other streptococcal sepsis,MD,1
+A409,"Streptococcal sepsis, unspecified",MD,1
+A410,Sepsis due to Staphylococcus aureus,MD,1
+A411,Sepsis due to other specified staphylococcus,MD,1
+A412,Sepsis due to unspecified staphylococcus,MD,1
+A413,Sepsis due to Haemophilus influenzae,MD,1
+A414,Sepsis due to anaerobes,MD,1
+A415,Sepsis due to other Gram-negative organisms,MD,1
+A418,Other specified sepsis,MD,1
+A419,"Sepsis, unspecified",MD,1
+A427,Actinomycotic sepsis,MD,1
+A499,"Bacterial infection, unspecified",MD,1
+B377,Candidal sepsis,MD,1
+O85X,Puerperal sepsis,MD,1
+R572,Septic shock,MD,1
+R650,Systemic Inflammatory Response Syndrome of infectious origin without organ failure,MD,1
+R651,Systemic Inflammatory Response Syndrome of infectious origin with organ failure,MD,1
+A021,Salmonella sepsis,cancer,1
+A227,Anthrax sepsis,cancer,1
+A327,Listerial sepsis,cancer,1
+A394,"Meningococcaemia, unspecified",cancer,1
+A400,"Sepsis due to streptococcus, group A",cancer,1
+A401,"Sepsis due to streptococcus, group B",cancer,1
+A402,"Sepsis due to streptococcus, group D",cancer,1
+A403,Sepsis due to Streptococcus pneumoniae,cancer,1
+A408,Other streptococcal sepsis,cancer,1
+A409,"Streptococcal sepsis, unspecified",cancer,1
+A410,Sepsis due to Staphylococcus aureus,cancer,1
+A411,Sepsis due to other specified staphylococcus,cancer,1
+A412,Sepsis due to unspecified staphylococcus,cancer,1
+A413,Sepsis due to Haemophilus influenzae,cancer,1
+A414,Sepsis due to anaerobes,cancer,1
+A415,Sepsis due to other Gram-negative organisms,cancer,1
+A418,Other specified sepsis,cancer,1
+A419,"Sepsis, unspecified",cancer,1
+A427,Actinomycotic sepsis,cancer,1
+A499,"Bacterial infection, unspecified",cancer,1
+B377,Candidal sepsis,cancer,1
+O85X,Puerperal sepsis,cancer,1
+R572,Septic shock,cancer,1
+R650,Systemic Inflammatory Response Syndrome of infectious origin without organ failure,cancer,1
+R651,Systemic Inflammatory Response Syndrome of infectious origin with organ failure,cancer,1
+99591,Sepsis,ICD9,1
+99592,Severe sepsis,ICD9,1
+31,Salmonella septicemia,ICD9,1
+202,Septicemic plague,ICD9,1
+223,Anthrax septicemia,ICD9,1
+362,Meningococcemia,ICD9,1
+38,Septicemia,ICD9,1
+38,Streptococcal septicemia,ICD9,1
+381,Staphylococcal septicemia,ICD9,1
+381,"Staphylococcal septicemia, unspecified",ICD9,1
+3811,Methicillin susceptible Staphylococcus aureus septicemia,ICD9,1
+3812,Methicillin resistant Staphylococcus aureus septicemia,ICD9,1
+3819,Other staphylococcal septicemia,ICD9,1
+382,Pneumococcal septicemia,ICD9,1
+383,Anaerobic septicemia,ICD9,1
+384,Septicemia due to other gram-negative organisms,ICD9,1
+384,"Septicemia due to gram-negative organism, unspecified",ICD9,1
+3841,Septicemia due to hemophilus influenzae [H. influenzae],ICD9,1
+3842,Septicemia due to escherichia coli [E. coli],ICD9,1
+3843,Septicemia due to pseudomonas,ICD9,1
+3844,Septicemia due to serratia,ICD9,1
+3849,Other septicemia due to gram-negative organisms,ICD9,1
+388,Other specified septicemias,ICD9,1
+389,Septicemia NOS,ICD9,1
+545,Herpetic septicemia,ICD9,1
+449,Septic arterial embolism,ICD9,1
+7907,Bacteremia,ICD9,1

@@ -1,0 +1,119 @@
+Code,Description,Source,Decision
+Xa0kZ,Cerebral infarction,V3,1
+X00D5,Anterior cerebral circulation infarction,V3,1
+X00D6,Total anterior cerebral circulation infarction,V3,1
+X00D7,Partial anterior cerebral circulation infarction,V3,1
+X00D8,Posterior cerebral circulation infarction,V3,1
+Xa00K,Brainstem infarction,V3,1
+X00D9,Brainstem infarction NOS,V3,1
+Xa00J,Cerebellar infarction,V3,1
+Xa00I,Occipital cerebral infarction,V3,1
+X00DA,Lacunar infarction,V3,1
+X00DB,Pure motor lacunar infarction,V3,1
+X00DC,Pure sensory lacunar infarction,V3,1
+X00DD,Pure sensorimotor lacunar infarction,V3,1
+XaB4Z,Multiple lacunar infarcts,V3,1
+X00DG,Multi-infarct state,V3,1
+XaJgQ,Infarction of basal ganglia,V3,1
+G6400,Cerebral infarction due to thrombosis of cerebral arteries,V3,1
+G6410,Cerebral infarction due to embolism of cerebral arteries,V3,1
+G6760,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",V3,1
+Gyu63,[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,V3,1
+Gyu64,[X]Other cerebral infarction,V3,1
+Gyu6G,[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,V3,1
+X00D4,Infarction - precerebral,V3,1
+G63y0,Cerebral infarct due to thrombosis of precerebral arteries,V3,1
+G63y1,Cerebral infarction due to embolism of precerebral arteries,V3,1
+XE0VJ,Cerebral infarction NOS,V3,1
+XaBEC,Left sided cerebral infarction,V3,1
+XaBED,Right sided cerebral infarction,V3,1
+X00D3,CVA - cerebrovascular accident due to cerebral artery occlusion,V3,1
+G64..,Infarction - cerebral,V2,1
+G64z0,Brainstem infarction,V2,1
+1583,ischaemic stroke,SR,1
+G64z4,Infarction of basal ganglia,V2,1
+G6400,Cerebral infarction due to thrombosis of cerebral arteries,V2,1
+G6410,Cerebral infarction due to embolism of cerebral arteries,V2,1
+G6760,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",V2,1
+Gyu63,[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,V2,1
+Gyu64,[X]Other cerebral infarction,V2,1
+Gyu6G,[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,V2,1
+G63..,Infarction - precerebral,V2,1
+G63y0,Cerebral infarct due to thrombosis of precerebral arteries,V2,1
+G63y1,Cerebral infarction due to embolism of precerebral arteries,V2,1
+G64z2,Left sided cerebral infarction,V2,1
+G64z3,Right sided cerebral infarction,V2,1
+I639,"Cerebral infarction, unspecified",MD,1
+I63,Cerebral infarction,MD,1
+I638,Other cerebral infarction,MD,1
+I668,Occlusion and stenosis of other cerebral artery,MD,0
+I633,Cerebral infarction due to thrombosis of cerebral arteries,MD,1
+I634,Cerebral infarction due to embolism of cerebral arteries,MD,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",MD,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,MD,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,MD,1
+I631,Cerebral infarction due to embolism of precerebral arteries,MD,1
+I663,Occlusion and stenosis of cerebellar arteries,MD,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,MD,1
+I669,Occlusion and stenosis of unspecified cerebral artery,MD,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",MD,0
+G466,Pure sensory lacunar syndrome,MD,1
+I693,Sequelae of cerebral infarction,MD,0
+G465,Pure motor lacunar syndrome,MD,1
+G467,Other lacunar syndromes,MD,1
+I639,"Cerebral infarction, unspecified",ICD10,1
+I63,Cerebral infarction,ICD10,1
+I638,Other cerebral infarction,ICD10,1
+I668,Occlusion and stenosis of other cerebral artery,ICD10,0
+I633,Cerebral infarction due to thrombosis of cerebral arteries,ICD10,1
+I634,Cerebral infarction due to embolism of cerebral arteries,ICD10,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",ICD10,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,ICD10,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,ICD10,1
+I631,Cerebral infarction due to embolism of precerebral arteries,ICD10,1
+I663,Occlusion and stenosis of cerebellar arteries,ICD10,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,ICD10,1
+I669,Occlusion and stenosis of unspecified cerebral artery,ICD10,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",ICD10,0
+G466,Pure sensory lacunar syndrome,ICD10,1
+I693,Sequelae of cerebral infarction,ICD10,0
+G465,Pure motor lacunar syndrome,ICD10,1
+G467,Other lacunar syndromes,ICD10,1
+I639,"Cerebral infarction, unspecified",cancer,1
+I63,Cerebral infarction,cancer,1
+I638,Other cerebral infarction,cancer,1
+I668,Occlusion and stenosis of other cerebral artery,cancer,0
+I633,Cerebral infarction due to thrombosis of cerebral arteries,cancer,1
+I634,Cerebral infarction due to embolism of cerebral arteries,cancer,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",cancer,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,cancer,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,cancer,1
+I631,Cerebral infarction due to embolism of precerebral arteries,cancer,1
+I663,Occlusion and stenosis of cerebellar arteries,cancer,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,cancer,1
+I669,Occlusion and stenosis of unspecified cerebral artery,cancer,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",cancer,0
+G466,Pure sensory lacunar syndrome,cancer,1
+I693,Sequelae of cerebral infarction,cancer,0
+G465,Pure motor lacunar syndrome,cancer,1
+G467,Other lacunar syndromes,cancer,1
+43301,"Occlusion and stenosis of basilar artery, with cerebral infarction",ICD9,1
+43311,"Occlusion and stenosis of carotid artery, with cerebral infarction",ICD9,1
+43321,"Occlusion and stenosis of vertebral artery, with cerebral infarction",ICD9,1
+43331,"Occlusion and stenosis of multiple and bilateral precerebral arteries, with cerebral infarction",ICD9,1
+43381,"Occlusion and stenosis of other specified precerebral artery, with cerebral infarction",ICD9,1
+43391,"Unspecified precerebral artery, with cerebral infarction",ICD9,1
+43401,"Cerebral thrombosis, with cerebral infarction",ICD9,1
+43411,"Cerebral embolism, with cerebral infarction",ICD9,1
+43491,"Cerebral artery occlusion, unspecified, with cerebral infarction",ICD9,1
+G666.,Pure sensory lacunar syndrome,V2,1
+G665.,Pure motor lacunar syndrome,V2,1
+G640.,Cerebral thrombosis,V2,1
+G640.,Cerebral thrombosis,V3,1
+XaQbM,Pure sensory lacunar syndrome,V3,1
+XaQbK,Pure motor lacunar syndrome,V3,1
+X00DE,Lacunar ataxic hemiparesis,V3,1
+Xa00R,Top of basilar syndrome,V3,1
+Xa00P,Weber syndrome,V3,1
+Xa00N,Foville syndrome,V3,1
+X00DF,Dysarthria-clumsy hand syndrome,V3,1

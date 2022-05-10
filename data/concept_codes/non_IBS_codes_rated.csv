@@ -1,0 +1,201 @@
+Code,Description,Source,Decision
+K50,Crohn’s,ICD10,1
+K500,Crohn's disease of small intestine,ICD10,1
+K501,Crohn's disease of large intestine,ICD10,1
+K508,Other Crohn's disease,ICD10,1
+K509,"Crohn's disease, unspecified",ICD10,1
+K51,UC,ICD10,1
+K510,Ulcerative (chronic) enterocolitis,ICD10,1
+K511,Ulcerative (chronic) ileocolitis,ICD10,1
+K512,Ulcerative (chronic) proctitis,ICD10,1
+K513,Ulcerative (chronic) rectosigmoiditis,ICD10,1
+K514,Pseudopolyposis of colon,ICD10,1
+K515,Mucosal proctocolitis,ICD10,1
+K518,Other ulcerative colitis,ICD10,1
+K519,"Ulcerative colitis, unspecified",ICD10,1
+K52,Other and unspecified noninfective gastroenteritis and colitis,ICD10,1
+K520,Gastroenteritis and colitis due to radiation,ICD10,1
+K521,Toxic gastroenteritis and colitis,ICD10,1
+K523,Indeterminate colitis,ICD10,1
+K528,Other specified noninfective gastroenteritis and colitis,ICD10,1
+K529,"Noninfective gastroenteritis and colitis, unspecified",ICD10,1
+K550,Acute vascular disorders of intestine,ICD10,1
+K551,Chronic vascular disorders of intestine,ICD10,1
+K627,radiation proctitis,ICD10,1
+K86,Other diseases of pancreas,ICD10,1
+K860,Alcohol-induced chronic pancreatitis,ICD10,1
+K861,Other chronic pancreatitis,ICD10,1
+K862,Cyst of pancreas,ICD10,1
+K863,Pseudocyst of pancreas,ICD10,1
+K868,Other specified diseases of pancreas,ICD10,1
+K869,"Disease of pancreas, unspecified",ICD10,1
+K90,Intestinal malabsorption,ICD10,1
+K900,Coeliac disease,ICD10,1
+K901,Tropical sprue,ICD10,1
+K903,Pancreatic steatorrhoea,ICD10,1
+K904,"Malabsorption due to intolerance, not elsewhere classified",ICD10,1
+K908,Other intestinal malabsorption,ICD10,1
+K909,"Intestinal malabsorption, unspecified",ICD10,1
+C15,Malignant neoplasm of esophagus,ICD10,1
+C16,Malignant neoplasm of stomach,ICD10,1
+C17,Malignant neoplasm of small intestine,ICD10,1
+C18,Malignant neoplasm of colon,ICD10,1
+C19,Malignant neoplasm of rectosigmoid junction,ICD10,1
+C20,Malignant neoplasm of rectum,ICD10,1
+C21,Malignant neoplasm of anus and anal canal,ICD10,1
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,ICD10,1
+C23,Malignant neoplasm of gallbladder,ICD10,1
+C24,Malignant neoplasm of other and unspecified parts of biliary tract,ICD10,1
+C25,Malignant neoplasm of pancreas,ICD10,1
+C26,Malignant neoplasm of other and ill-defined digestive organs,ICD10,1
+K50,Crohn’s,MD,1
+K500,Crohn's disease of small intestine,MD,1
+K501,Crohn's disease of large intestine,MD,1
+K508,Other Crohn's disease,MD,1
+K509,"Crohn's disease, unspecified",MD,1
+K51,UC,MD,1
+K510,Ulcerative (chronic) enterocolitis,MD,1
+K511,Ulcerative (chronic) ileocolitis,MD,1
+K512,Ulcerative (chronic) proctitis,MD,1
+K513,Ulcerative (chronic) rectosigmoiditis,MD,1
+K514,Pseudopolyposis of colon,MD,1
+K515,Mucosal proctocolitis,MD,1
+K518,Other ulcerative colitis,MD,1
+K519,"Ulcerative colitis, unspecified",MD,1
+K52,Other and unspecified noninfective gastroenteritis and colitis,MD,1
+K520,Gastroenteritis and colitis due to radiation,MD,1
+K521,Toxic gastroenteritis and colitis,MD,1
+K523,Indeterminate colitis,MD,1
+K528,Other specified noninfective gastroenteritis and colitis,MD,1
+K529,"Noninfective gastroenteritis and colitis, unspecified",MD,1
+K550,Acute vascular disorders of intestine,MD,1
+K551,Chronic vascular disorders of intestine,MD,1
+K627,radiation proctitis,MD,1
+K86,Other diseases of pancreas,MD,1
+K860,Alcohol-induced chronic pancreatitis,MD,1
+K861,Other chronic pancreatitis,MD,1
+K862,Cyst of pancreas,MD,1
+K863,Pseudocyst of pancreas,MD,1
+K868,Other specified diseases of pancreas,MD,1
+K869,"Disease of pancreas, unspecified",MD,1
+K90,Intestinal malabsorption,MD,1
+K900,Coeliac disease,MD,1
+K901,Tropical sprue,MD,1
+K903,Pancreatic steatorrhoea,MD,1
+K904,"Malabsorption due to intolerance, not elsewhere classified",MD,1
+K908,Other intestinal malabsorption,MD,1
+K909,"Intestinal malabsorption, unspecified",MD,1
+C15,Malignant neoplasm of esophagus,MD,1
+C16,Malignant neoplasm of stomach,MD,1
+C17,Malignant neoplasm of small intestine,MD,1
+C18,Malignant neoplasm of colon,MD,1
+C19,Malignant neoplasm of rectosigmoid junction,MD,1
+C20,Malignant neoplasm of rectum,MD,1
+C21,Malignant neoplasm of anus and anal canal,MD,1
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,MD,1
+C23,Malignant neoplasm of gallbladder,MD,1
+C24,Malignant neoplasm of other and unspecified parts of biliary tract,MD,1
+C25,Malignant neoplasm of pancreas,MD,1
+C26,Malignant neoplasm of other and ill-defined digestive organs,MD,1
+K50,Crohn’s,cancer,1
+K500,Crohn's disease of small intestine,cancer,1
+K501,Crohn's disease of large intestine,cancer,1
+K508,Other Crohn's disease,cancer,1
+K509,"Crohn's disease, unspecified",cancer,1
+K51,UC,cancer,1
+K510,Ulcerative (chronic) enterocolitis,cancer,1
+K511,Ulcerative (chronic) ileocolitis,cancer,1
+K512,Ulcerative (chronic) proctitis,cancer,1
+K513,Ulcerative (chronic) rectosigmoiditis,cancer,1
+K514,Pseudopolyposis of colon,cancer,1
+K515,Mucosal proctocolitis,cancer,1
+K518,Other ulcerative colitis,cancer,1
+K519,"Ulcerative colitis, unspecified",cancer,1
+K52,Other and unspecified noninfective gastroenteritis and colitis,cancer,1
+K520,Gastroenteritis and colitis due to radiation,cancer,1
+K521,Toxic gastroenteritis and colitis,cancer,1
+K523,Indeterminate colitis,cancer,1
+K528,Other specified noninfective gastroenteritis and colitis,cancer,1
+K529,"Noninfective gastroenteritis and colitis, unspecified",cancer,1
+K550,Acute vascular disorders of intestine,cancer,1
+K551,Chronic vascular disorders of intestine,cancer,1
+K627,radiation proctitis,cancer,1
+K86,Other diseases of pancreas,cancer,1
+K860,Alcohol-induced chronic pancreatitis,cancer,1
+K861,Other chronic pancreatitis,cancer,1
+K862,Cyst of pancreas,cancer,1
+K863,Pseudocyst of pancreas,cancer,1
+K868,Other specified diseases of pancreas,cancer,1
+K869,"Disease of pancreas, unspecified",cancer,1
+K90,Intestinal malabsorption,cancer,1
+K900,Coeliac disease,cancer,1
+K901,Tropical sprue,cancer,1
+K903,Pancreatic steatorrhoea,cancer,1
+K904,"Malabsorption due to intolerance, not elsewhere classified",cancer,1
+K908,Other intestinal malabsorption,cancer,1
+K909,"Intestinal malabsorption, unspecified",cancer,1
+C15,Malignant neoplasm of esophagus,cancer,1
+C16,Malignant neoplasm of stomach,cancer,1
+C17,Malignant neoplasm of small intestine,cancer,1
+C18,Malignant neoplasm of colon,cancer,1
+C19,Malignant neoplasm of rectosigmoid junction,cancer,1
+C20,Malignant neoplasm of rectum,cancer,1
+C21,Malignant neoplasm of anus and anal canal,cancer,1
+C22,Malignant neoplasm of liver and intrahepatic bile ducts,cancer,1
+C23,Malignant neoplasm of gallbladder,cancer,1
+C24,Malignant neoplasm of other and unspecified parts of biliary tract,cancer,1
+C25,Malignant neoplasm of pancreas,cancer,1
+C26,Malignant neoplasm of other and ill-defined digestive organs,cancer,1
+1462,crohns disease,SR,1
+1463,ulcerative colitis,SR,1
+1459,colitis/not crohns or ulcerative colitis,SR,1
+1461,inflammatory bowel disease,SR,1
+1164,pancreatic disease,SR,1
+1165,pancreatitis,SR,1
+1456,malabsorption/coeliac disease,SR,1
+1191,gastrointestinal bleeding,SR,1
+1509,gastroenteritis/dysentry,SR,1
+1600,bowel / intestinal perforation,SR,1
+1601,bowel / intestinal infarction,SR,1
+1602,bowel / intestinal obstruction,SR,1
+1135,stomach disorder,SR,1
+G01,Excision of oesophagus and stomach,OPCS,1
+G02,Total excision of oesophagus,OPCS,1
+G03,Partial excision of oesophagus,OPCS,1
+G05,Bypass of oesophagus,OPCS,1
+G06,Attention to connection of oesophagus,OPCS,1
+G08,Artificial opening into oesophagus,OPCS,1
+G27,Total excision of stomach,OPCS,1
+G28,Partial excision of stomach,OPCS,1
+G31,Connection of stomach to duodenum,OPCS,1
+G32,Connection of stomach to transposed jejunum,OPCS,1
+G33,Other connection of stomach to jejunum,OPCS,1
+G34,Artificial opening into stomach,OPCS,1
+G49,Excision of duodenum,OPCS,1
+G51,Bypass of duodenum,OPCS,1
+G58,Excision of jejunum,OPCS,1
+G60,Artificial opening into jejunum,OPCS,1
+G61,Bypass of jejunum,OPCS,1
+G69,Excision of ileum,OPCS,1
+G71,Bypass of ileum,OPCS,1
+G72,Other connection of ileum,OPCS,1
+G73,Attention to connection of ileum,OPCS,1
+G74,Creation of artificial opening into ileum,OPCS,1
+G75,Attention to artificial opening into ileum,OPCS,1
+H04,Total excision of colon and rectum,OPCS,1
+H05,Total excision of colon,OPCS,1
+H06,Extended excision of right hemicolon,OPCS,1
+H07,Other excision of right hemicolon,OPCS,1
+H08,Excision of transverse colon,OPCS,1
+H09,Excision of left hemicolon,OPCS,1
+H10,Excision of sigmoid colon,OPCS,1
+H11,Other excision of colon,OPCS,1
+H13,Bypass of colon,OPCS,1
+H14,Exteriorisation of caecum,OPCS,1
+H29,Subtotal excision of colon,OPCS,1
+H33,Excision of rectum,OPCS,1
+H47,Excision of anus,OPCS,1
+H57,Other operations on the anal sphincter to control continence,OPCS,1
+H68,Diagnostic endoscopic examination of enteric pouch using colonoscope,OPCS,1
+H69,Diagnostic endoscopic examination of enteric pouch using fibreoptic sigmoidoscope,OPCS,1
+H70,Diagnostic endoscopic examination of enteric pouch using rigid sigmoidoscope,OPCS,1

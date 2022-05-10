@@ -1,0 +1,27 @@
+Code,Description,Source,Decision
+N2420,Neuralgia unspecified,V3,1
+X75sa,Neuralgia,V3,1
+X75sy,Neuropathic pain,V3,1
+X75t2,Central pain,V3,1
+Xa0Mk,Thalamic pain,V3,1
+X75t3,Pseudothalamic pain,V3,1
+N2420,Neuralgia unspecified,V2,1
+F367.,Peripheral neuropathy,V2,0
+N2423,Neuropathic pain,V2,1
+1M...,Pain,V2,0
+M792,"Neuralgia and neuritis, unspecified",MD,0
+G968,Other specified disorders of central nervous system,MD,0
+G938,Other specified disorders of brain,MD,0
+7292," Neuralgia, neuritis and radiculitis, unspecified",ICD9,0
+354,Mononeuritis of upper limb and mononeuritis multiplex,ICD9,0
+355,Mononeuritis of lower limb,ICD9,0
+7234," Brachial neuritis or radiculitis, not otherwise specified",ICD9,0
+7243,Sciatica,ICD9,0
+7244," Thoracic or lumbosacral neuritis or radiculitis, not otherwise specified",ICD9,0
+3488,Other specified conditions of brain,ICD9,0
+M792,"Neuralgia and neuritis, unspecified",ICD10,0
+G968,Other specified disorders of central nervous system,ICD10,0
+G938,Other specified disorders of brain,ICD10,0
+M792,"Neuralgia and neuritis, unspecified",cancer,0
+G968,Other specified disorders of central nervous system,cancer,0
+G938,Other specified disorders of brain,cancer,0

@@ -1,0 +1,15 @@
+Code,Description,Source,Decision
+XaIQT,Chronic obstructive pulmonary disease monitoring,V3,1
+XaIeq,Asthma annual review,V3,1
+XaIet,Chronic obstructive pulmonary disease annual review,V3,1
+XaK8U,Number of chronic obstructive pulmonary disease exacerbations in past year,V3,1
+XaKYH,Deferred antibiotic therapy,V3,1
+XaR16,Advance supply of steroid medication,V3,1
+XaW9D,Issue of chronic obstructive pulmonary disease rescue pack,V3,1
+66YB.,Chronic obstructive pulmonary disease monitoring,V2,1
+66YJ.,Asthma annual review,V2,1
+66YM.,Chronic obstructive pulmonary disease annual review,V2,1
+66Yf.,Number of chronic obstructive pulmonary disease exacerbations in past year,V2,1
+8BP0.,Deferred antibiotic therapy,V2,1
+8B32.,Advance supply of steroid medication,V2,1
+8BMW.,Issue of chronic obstructive pulmonary disease rescue pack,V2,1

@@ -1,0 +1,88 @@
+Code,Description,Source,Decision
+42H4.,Agranulocytosis,V3,1
+D400z,Agranulocytosis NOS,V3,1
+XE14D,Radiation agranulocytosis,V3,0
+XE14A,Agranulocytopenic disorder,V3,1
+XE14B,Idiopathic agranulocytosis,V3,1
+XE14G,Acquired agranulocytosis NEC,V3,1
+X20Da,Congenital agranulocytosis NEC,V3,0
+XE14C,Drug-associated agranulocytosis,V3,1
+D400y,Other specified agranulocytosis,V3,1
+XE14E,Agranulocytosis due to infection,V3,1
+X20Df,Infantile genetic agranulocytosis,V3,0
+42J2.,Neutropenia,V3,1
+X3042,Neutropenic colitis,V3,0
+Xa9E8,Neutropenic disorder,V3,1
+X20Db,X-linked hypogammaglobulinaemia,V3,0
+X20Dd,Chronic benign granulocytopenia,V3,0
+X20Dj,Chronic benign neutropenia,V3,0
+X20De,Chronic idiopathic neutropenia,V3,0
+X20Ha,Schwachman's syndrome,V3,0
+XaA0r,"Metaphyseal chondrodysplasia, McKusick type with associated immunodeficiency",V3,0
+X20Dk,Myelokathexis,V3,0
+X20Dl,Metabolic neutropenia,V3,1
+D4009,Cyclical neutropenia,V3,1
+Q4570,Neonatal isoimmune neutropenia,V3,0
+X20Dn,Autoimmune neutropenia,V3,1
+D4001,Primary splenic neutropenia,V3,1
+D4007,Acquired neutropenia in newborn,V3,0
+XE14F,Congenital neutropenia,V3,0
+XaMEu,Neutropenia drugs Band 1,V3,0
+Q4571,Maternal transfer neutropenia,V3,0
+Xa08t,Neutropenia of the small for gestational age baby,V3,0
+Q457z,Transient neonatal neutropenia NOS,V3,0
+Xa09u,Chloramphenicol-induced neutropenia,V3,0
+42H4.,Agranulocytosis,V2,1
+D400z,Agranulocytosis NOS,V2,1
+D4003,Radiation agranulocytosis,V2,0
+D40..,Diseases of white blood cells,V2,0
+D4000,Idiopathic agranulocytosis,V2,1
+D4008,Acquired agranulocytosis NEC,V2,1
+D4005,Congenital agranulocytosis NEC,V2,0
+D4002,Agranulocytosis - drug induced,V2,1
+D400y,Other specified agranulocytosis,V2,1
+D4004,Agranulocytosis due to infection,V2,1
+D400.,Agranulocytosis,V2,1
+42J2.,Neutropenia,V2,0
+J437.,Colitis,V2,0
+PJ535,Shwachman-Diamond syndrome,V2,0
+PG4D.,Metaphyseal chondrodysplasia,V2,0
+D4009,Cyclical neutropenia,V2,1
+Q4570,Neonatal isoimmune neutropenia,V2,0
+D4001,Primary splenic neutropenia,V2,1
+D4007,Acquired neutropenia in newborn,V2,0
+7Q092,Neutropenia drugs Band 1,V2,0
+Q4571,Maternal transfer neutropenia,V2,0
+Q457.,Transient neonatal neutropenia,V2,0
+Q457z,Transient neonatal neutropenia NOS,V2,0
+Q....,Perinatal conditions,V2,0
+42K2.,Eosinopenia,V2,0
+1448,neutropenia/lymphopenia,SR,1
+D70,Agranulocytosis,MD,1
+P615,Transient neonatal neutropenia,MD,0
+K528,Other specified noninfective gastroenteritis and colitis,MD,0
+D800,Hereditary hypogammaglobulinaemia,MD,0
+Q952,Balanced autosomal rearrangement in abnormal individual,MD,0
+Q785,Metaphyseal dysplasia,MD,0
+D822,Immunodeficiency with short-limbed stature,MD,0
+288,Diseases of white blood cells,ICD9,1
+288,Diseases of white blood cells,ICD9,1
+28801,Agranulocytosis (drug induced neutropenia),ICD9,0
+28802," Agranulocytosis (acquired neutropenia, in newborn)",ICD9,1
+28803," Agranulocytosis (acquired neutropenia, other)",ICD9,1
+28804,Agranulocytosis (cyclical neutropenia),ICD9,1
+28809,Agranulocytosis (other and unspecified),ICD9,1
+D70,Agranulocytosis,ICD10,1
+P615,Transient neonatal neutropenia,ICD10,0
+K528,Other specified noninfective gastroenteritis and colitis,ICD10,0
+D800,Hereditary hypogammaglobulinaemia,ICD10,0
+Q952,Balanced autosomal rearrangement in abnormal individual,ICD10,0
+Q785,Metaphyseal dysplasia,ICD10,0
+D822,Immunodeficiency with short-limbed stature,ICD10,0
+D70,Agranulocytosis,cancer,1
+P615,Transient neonatal neutropenia,cancer,0
+K528,Other specified noninfective gastroenteritis and colitis,cancer,0
+D800,Hereditary hypogammaglobulinaemia,cancer,0
+Q952,Balanced autosomal rearrangement in abnormal individual,cancer,0
+Q785,Metaphyseal dysplasia,cancer,0
+D822,Immunodeficiency with short-limbed stature,cancer,0

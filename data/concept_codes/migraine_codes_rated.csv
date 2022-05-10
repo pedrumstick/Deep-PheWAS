@@ -1,0 +1,131 @@
+Code,Description,Source,Decision
+F26..,Migraine,V3,1
+XaXkr,Migraine induced by oestrogen contraceptive,V3,1
+F261.,Migraine without aura,V3,1
+F261z,Common migraine NOS,V3,1
+F260.,Migraine with aura,V3,1
+X007J,Migraine with typical aura,V3,1
+X007K,Migraine with prolonged aura,V3,1
+F26y0,Hemiplegic migraine,V3,1
+X007L,Familial hemiplegic migraine,V3,1
+X007M,Non-familial hemiplegic migraine,V3,1
+F2623,Basilar migraine,V3,1
+X007N,Migraine aura without headache,V3,1
+F2624,Ophthalmic migraine,V3,1
+F26y1,Ophthalmoplegic migraine,V3,1
+X007O,Retinal migraine,V3,1
+X007Q,Alternating hemiplegia of childhood,V3,0
+X007R,Status migrainosus,V3,1
+X007S,Migraine with ischaemic complication,V3,1
+Xa07H,Migraine - menstrual,V3,1
+F2610,Atypical migraine,V3,1
+F262.,Migraine variants,V3,1
+F262z,Migraine variant NOS,V3,1
+F26y.,Other forms of migraine,V3,1
+F26y3,Complicated migraine,V3,1
+F26z.,Migraine NOS,V3,1
+Fyu53,[X]Other migraine,V3,1
+1474.,H/O: migraine,V3,1
+XaXkv,H/O migraine with aura,V3,1
+F26..,Migraine,V2,1
+F2628,Migraine induced by oestrogen contraceptive,V2,1
+F261.,Common migraine,V2,1
+F261z,Common migraine NOS,V2,1
+F260.,Classical migraine,V2,1
+F26y0,Hemiplegic migraine,V2,1
+F2623,Basilar migraine,V2,1
+F2624,Ophthalmic migraine,V2,1
+F26y1,Ophthalmoplegic migraine,V2,1
+F26y2,Status migrainosus,V2,1
+K584.,Migraine - menstrual,V2,1
+F2610,Atypical migraine,V2,1
+F262.,Migraine variants,V2,1
+F262z,Migraine variant NOS,V2,1
+F26y.,Other forms of migraine,V2,1
+F26y3,Complicated migraine,V2,1
+F26z.,Migraine NOS,V2,1
+Fyu53,[X]Other migraine,V2,1
+1474.,H/O: migraine,V2,1
+14740,H/O migraine with aura,V2,1
+G439,"Migraine, unspecified",MD,1
+G43,Migraine,MD,1
+G440,Cluster headache syndrome,MD,0
+N943,Premenstrual tension syndrome,MD,0
+Y424,Oral contraceptives,MD,0
+G430,Migraine without aura [common migraine],MD,1
+G431,Migraine with aura [classical migraine],MD,1
+G438,Other migraine,MD,1
+G838,Other specified paralytic syndromes,MD,0
+G432,Status migrainosus,MD,1
+G433,Complicated migraine,MD,1
+R51,Headache,MD,0
+346,Migraine,ICD9,1
+3460,Migraine with aura,ICD9,1
+34600,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34601,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34602,"Migraine with aura, without mention of intractable migraine with status migrainosus",ICD9,1
+34603,"Migraine with aura, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3461,Migraine without aura,ICD9,1
+34610,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34611,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34612,"Migraine without aura, without mention of intractable migraine with status migrainosus",ICD9,1
+34613,"Migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3462,"Variants of migraine, not elsewhere classified",ICD9,1
+34620,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34621,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34622,"Variants of migraine, not elsewhere classified, without mention of intractable migraine with status migrainosus",ICD9,1
+34623,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3463,Hemiplegic migraine,ICD9,1
+34630,"Hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34631,"Hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34632,"Hemiplegic migraine, without mention of intractable migraine with status migrainosus",ICD9,1
+34633,"Hemiplegic migraine, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3464,Menstrual migraine,ICD9,1
+34640,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34641,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34642,"Menstrual migraine, without mention of intractable migraine with status migrainosus",ICD9,1
+34643,"Menstrual migraine, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3465,Persistent migraine aura without cerebral infarction,ICD9,1
+34650,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34651,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34652,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus",ICD9,1
+34653,"Persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3467,Chronic migraine without aura,ICD9,1
+34670,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34671,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34672,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus",ICD9,1
+34673,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3468,Other forms of migraine,ICD9,1
+34680,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34681,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34682,"Other forms of migraine, without mention of intractable migraine with status migrainosus",ICD9,1
+34683,"Other forms of migraine, with intractable migraine, so stated, with status migrainosus",ICD9,1
+3469,"Migraine, unspecified",ICD9,1
+34690,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",ICD9,1
+34691,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus",ICD9,1
+34692,"Migraine, unspecified, without mention of intractable migraine with status migrainosus",ICD9,1
+34693,"Migraine, unspecified, with intractable migraine, so stated, with status migrainosus",ICD9,1
+G439,"Migraine, unspecified",ICD10,1
+G43,Migraine,ICD10,1
+G440,Cluster headache syndrome,ICD10,0
+N943,Premenstrual tension syndrome,ICD10,0
+Y424,Oral contraceptives,ICD10,0
+G430,Migraine without aura [common migraine],ICD10,1
+G431,Migraine with aura [classical migraine],ICD10,1
+G438,Other migraine,ICD10,1
+G838,Other specified paralytic syndromes,ICD10,0
+G432,Status migrainosus,ICD10,1
+G433,Complicated migraine,ICD10,1
+R51,Headache,ICD10,0
+G439,"Migraine, unspecified",cancer,1
+G43,Migraine,cancer,1
+G440,Cluster headache syndrome,cancer,0
+N943,Premenstrual tension syndrome,cancer,0
+Y424,Oral contraceptives,cancer,0
+G430,Migraine without aura [common migraine],cancer,1
+G431,Migraine with aura [classical migraine],cancer,1
+G438,Other migraine,cancer,1
+G838,Other specified paralytic syndromes,cancer,0
+G432,Status migrainosus,cancer,1
+G433,Complicated migraine,cancer,1
+R51,Headache,cancer,0

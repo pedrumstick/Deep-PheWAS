@@ -1,0 +1,110 @@
+Code,Description,Source,Decision
+N091.,Haemarthrosis,V3,1
+Xa1jZ,Spontaneous haemarthrosis,V3,1
+X701D,Traumatic joint haemarthrosis,V3,1
+Xa1me,Traumatic haemarthrosis of the elbow joint,V3,1
+Xa1mf,Traumatic haemarthrosis of the knee joint,V3,1
+N0914,Haemarthrosis of the hand,V3,1
+N091J,Haemarthrosis of DIP joint of finger,V3,1
+N091G,Haemarthrosis of MCP joint,V3,1
+N091H,Haemarthrosis of PIP joint of finger,V3,1
+N091A,Haemarthrosis of shoulder joint,V3,1
+N091B,Haemarthrosis of sternoclavicular joint,V3,1
+N091C,Haemarthrosis of acromioclavicular joint,V3,1
+N091E,Haemarthrosis of distal radioulnar joint,V3,1
+N091F,Haemarthrosis of wrist,V3,1
+N091D,Haemarthrosis of elbow,V3,1
+N0919,Haemarthrosis of multiple joints,V3,1
+N091L,Haemarthrosis of sacroiliac joint,V3,1
+N091K,Haemarthrosis of hip,V3,1
+N091P,Haemarthrosis of the ankle,V3,1
+N091M,Haemarthrosis of knee,V3,1
+N091R,Haemarthrosis of talonavicular joint,V3,1
+N091N,Haemarthrosis of tibiofibular joint,V3,1
+N091T,Haemarthrosis-1st metatarsophalangeal joint,V3,1
+N091V,Haemarthrosis of interphalangeal joint of toe,V3,1
+N0910,Haemarthrosis of unspecified site,V3,1
+N0911,Haemarthrosis of the shoulder region,V3,1
+N0918,Haemarthrosis of other specified site,V3,1
+N091z,Haemarthrosis NOS,V3,1
+XE1ES,Haemarthrosis of the upper arm,V3,1
+XE1ET,Haemarthrosis of the forearm,V3,1
+XE1EU,Haemarthrosis of the pelvic region and thigh,V3,1
+XE1EW,Haemarthrosis of the ankle and foot,V3,1
+N091Q,Haemarthrosis of subtalar joint,V3,1
+N091S,Haemarthrosis of other tarsal joint,V3,1
+N091U,Haemarthrosis of lesser metatarsophalangeal joint,V3,1
+N091.,Haemarthrosis,V2,1
+N090.,Effusion of joint,V2,0
+N090M,Effusion of knee,V2,0
+N0914,Haemarthrosis of the hand,V2,1
+N091J,Haemarthrosis of DIP joint of finger,V2,1
+N091G,Haemarthrosis of MCP joint,V2,1
+N091H,Haemarthrosis of PIP joint of finger,V2,1
+N091A,Haemarthrosis of shoulder,V2,1
+N091B,Haemarthrosis of sternoclavicular joint,V2,1
+N091C,Haemarthrosis of acromioclavicular joint,V2,1
+N091E,Haemarthrosis of distal radio-ulnar joint,V2,1
+N091F,Haemarthrosis of wrist,V2,1
+N091D,Haemarthrosis of elbow,V2,1
+N0919,Haemarthrosis of multiple joints,V2,1
+N091L,Haemarthrosis of sacro-iliac joint,V2,1
+N091K,Haemarthrosis of hip,V2,1
+N091P,Haemarthrosis of ankle,V2,1
+N091M,Haemarthrosis of knee,V2,1
+N091R,Haemarthrosis of talonavicular joint,V2,1
+N091N,Haemarthrosis of tibio-fibular joint,V2,1
+N091T,Haemarthrosis-1st metatarsophalangeal joint,V2,1
+N091V,Haemarthrosis of interphalangeal joint of toe,V2,1
+N0910,Haemarthrosis of unspecified site,V2,1
+N0911,Haemarthrosis of the shoulder region,V2,1
+N0918,Haemarthrosis of other specified site,V2,1
+N091z,Haemarthrosis NOS,V2,1
+N0912,Haemarthrosis of the upper arm,V2,1
+N0913,Haemarthrosis of the forearm,V2,1
+N0915,Haemarthrosis of the pelvic region and thigh,V2,1
+N0917,Haemarthrosis of the ankle and foot,V2,1
+N091Q,Haemarthrosis of subtalar joint,V2,1
+N091S,Haemarthrosis of other tarsal joint,V2,1
+N091U,Haemarthrosis of lesser metatarsophalangeal joint,V2,1
+M250,Haemarthrosis,MD,1
+T143,"Dislocation, sprain and strain of unspecified body region",MD,0
+T03,"Dislocations, sprains and strains involving multiple body regions",MD,0
+S534,Sprain and strain of elbow,MD,0
+S836,Sprain and strain of other and unspecified parts of knee,MD,0
+S83,"Dislocation, sprain and strain of joints and ligaments of knee",MD,0
+7191,Haemarthrosis of joint,ICD9,1
+8489,Sprains and strains of unspecified site,ICD9,0
+848,Other and ill-defined sprains and strains,ICD9,0
+840,Sprains and strains of shoulder and upper arm,ICD9,0
+841,Sprains and strains of elbow and forearm,ICD9,0
+842,Sprains and strains of wrist and hand,ICD9,0
+843,Sprains and strains of hip and thigh,ICD9,0
+844,Sprains and strains of knee and leg,ICD9,0
+845,Sprains and strains of ankle and foot,ICD9,0
+846,Sprains and strains of sacroiliac region,ICD9,0
+847,Sprains and strains of other and unspecified parts of back,ICD9,0
+8419,Sprains and strains of elbow and forearm - unspecified,ICD9,0
+8449,Sprains and strains of knee and leg - unspecified,ICD9,0
+71910,Hemarthrosis site unspecified,ICD9,1
+71911,Hemarthrosis involving shoulder region,ICD9,1
+71912,Hemarthrosis involving upper arm,ICD9,1
+71913,Hemarthrosis involving forearm,ICD9,1
+71914,Hemarthrosis involving hand,ICD9,1
+71915,Hemarthrosis involving pelvic region and thigh,ICD9,1
+71916,Hemarthrosis involving lower leg,ICD9,1
+71917,Hemarthrosis involving ankle and foot,ICD9,1
+71918,Hemarthrosis involving other specified sites,ICD9,1
+71919,Hemarthrosis involving multiple sites,ICD9,1
+M250,Haemarthrosis,ICD10,1
+T143,"Dislocation, sprain and strain of unspecified body region",ICD10,0
+T03,"Dislocations, sprains and strains involving multiple body regions",ICD10,0
+S534,Sprain and strain of elbow,ICD10,0
+S836,Sprain and strain of other and unspecified parts of knee,ICD10,0
+S83,"Dislocation, sprain and strain of joints and ligaments of knee",ICD10,0
+M250,Haemarthrosis,cancer,1
+T143,"Dislocation, sprain and strain of unspecified body region",cancer,0
+T03,"Dislocations, sprains and strains involving multiple body regions",cancer,0
+S534,Sprain and strain of elbow,cancer,0
+S836,Sprain and strain of other and unspecified parts of knee,cancer,0
+S83,"Dislocation, sprain and strain of joints and ligaments of knee",cancer,0

@@ -1,0 +1,34 @@
+Code,Description,Source,Decision
+F12..,Parkinson's disease,V3,1
+X003a,Juvenile Parkinson's disease,V3,1
+Fyu22,[X]Parkinsonism in diseases classified elsewhere,V3,0
+F1303,Parkinsonism with orthostatic hypotension,V3,0
+X003l,Parkinson's disease - dementia complex on Guam,V3,1
+XaOfZ,Cerebral degeneration in Parkinson's disease,V3,1
+Eu023,[X]Dementia in Parkinson's disease,V3,1
+F12z.,Parkinson's disease NOS,V3,1
+F12..,Parkinson's disease,V2,1
+Fyu22,[X]Parkinsonism in diseases classified elsewhere,V2,0
+F1303,Parkinsonism with orthostatic hypotension,V2,0
+F....,Nervous system and sense organ diseases,V2,0
+F11x9,Cerebral degeneration in Parkinson's disease,V2,1
+Eu023,[X]Dementia in Parkinson's disease,V2,1
+F12z.,Parkinson's disease NOS,V2,1
+1262,Parkinson's disease,SR,1
+G20,Parkinson disease,MD,1
+G21,Secondary parkinsonism,MD,0
+G22,Parkinsonism in diseases classified elsewhere,MD,0
+F023,Dementia in Parkinson disease,MD,1
+3320,Paralysis agitans,ICD9,1
+3321,Secondary parkinsonism,ICD9,0
+3330,Other degenerative diseases of the basal ganglia,ICD9,0
+332,Parkinson's disease,ICD9,1
+33200,Paralysis agitans,ICD9,1
+G20,Parkinson disease,ICD10,1
+G21,Secondary parkinsonism,ICD10,0
+G22,Parkinsonism in diseases classified elsewhere,ICD10,0
+F023,Dementia in Parkinson disease,ICD10,1
+G20,Parkinson disease,cancer,1
+G21,Secondary parkinsonism,cancer,0
+G22,Parkinsonism in diseases classified elsewhere,cancer,0
+F023,Dementia in Parkinson disease,cancer,1

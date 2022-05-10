@@ -1,0 +1,619 @@
+Code,Description,Source,Decision
+X40J4,Type I diabetes mellitus,V3,1
+Xa4g7,Unstable type I diabetes mellitus,V3,1
+X40JY,Insulin-dependent diabetes mellitus secretory diarrhoea syndrome,V3,1
+C1080,Type I diabetes mellitus with renal complications,V3,1
+XaF04,Type I diabetes mellitus with nephropathy,V3,1
+XaIzM,Type 1 diabetes mellitus with persistent proteinuria,V3,1
+XaIzN,Type 1 diabetes mellitus with persistent microalbuminuria,V3,1
+C1081,Type I diabetes mellitus with ophthalmic complications,V3,1
+C1087,Type I diabetes mellitus with retinopathy,V3,1
+XaFm8,Type I diabetes mellitus with diabetic cataract,V3,1
+XaJSr,Type 1 diabetes mellitus with exudative maculopathy,V3,1
+C1082,Type I diabetes mellitus with neurological complications,V3,1
+XaKyW,Type 1 diabetes mellitus with gastroparesis,V3,1
+C1083,Type I diabetes mellitus with multiple complications,V3,1
+C1085,Type I diabetes mellitus with ulcer,V3,1
+C1086,Type I diabetes mellitus with gangrene,V3,1
+C1088,Type I diabetes mellitus - poor control,V3,1
+C1089,Type I diabetes mellitus maturity onset,V3,1
+L1805,"Pre-existing diabetes mellitus, insulin-dependent",V3,1
+XaELP,Type I diabetes mellitus without complication,V3,1
+XaFWG,Type I diabetes mellitus with hypoglycaemic coma,V3,1
+XaFmK,Type I diabetes mellitus with peripheral angiopathy,V3,1
+XaFmL,Type I diabetes mellitus with arthropathy,V3,1
+X40J5,Type II diabetes mellitus,V3,1
+C1090,Type II diabetes mellitus with renal complications,V3,1
+XaF05,Type II diabetes mellitus with nephropathy,V3,1
+XaIzQ,Type II diabetes mellitus with persistent proteinuria,V3,1
+XaIzR,Type II diabetes mellitus with persistent microalbuminuria,V3,1
+C1091,Type II diabetes mellitus with ophthalmic complications,V3,1
+C1096,Type II diabetes mellitus with retinopathy,V3,1
+XaFmA,Type II diabetes mellitus with diabetic cataract,V3,1
+XaJQp,Type II diabetes mellitus with exudative maculopathy,V3,1
+C1092,Type II diabetes mellitus with neurological complications,V3,1
+XaKyX,Type II diabetes mellitus with gastroparesis,V3,1
+C1093,Type II diabetes mellitus with multiple complications,V3,1
+C1094,Type II diabetes mellitus with ulcer,V3,1
+C1095,Type II diabetes mellitus with gangrene,V3,1
+C1097,Type II diabetes mellitus - poor control,V3,1
+L1806,"Pre-existing diabetes mellitus, non-insulin-dependent",V3,1
+XaELQ,Type II diabetes mellitus without complication,V3,1
+XaFWI,Type II diabetes mellitus with hypoglycaemic coma,V3,1
+XaFn7,Type II diabetes mellitus with peripheral angiopathy,V3,1
+XaFn8,Type II diabetes mellitus with arthropathy,V3,1
+X40J6,Insulin treated Type 2 diabetes mellitus,V3,1
+X40J7,Malnutrition-related diabetes mellitus,V3,1
+X40J8,Malnutrition-related diabetes mellitus - fibrocalculous,V3,1
+X40J9,Malnutrition-related diabetes mellitus - protein-deficient,V3,1
+C10A0,Malnutrition-related diabetes mellitus with coma,V3,1
+C10A1,Malnutrition-related diabetes mellitus with ketoacidosis,V3,1
+C10A2,Malnutrition-related diabetes mellitus with renal complications,V3,1
+C10A3,Malnutrition-related diabetes mellitus with ophthalmic complications,V3,1
+C10A5,Malnutrition-related diabetes mellitus with peripheral circulatory complications,V3,1
+C10A4,Malnutrition-related diabetes mellitus with neurological complications,V3,1
+C10A6,Malnutrition-related diabetes mellitus with multiple complications,V3,1
+C10A7,Malnutrition-related diabetes mellitus without complications,V3,1
+Cyu21,[X]Malnutrition-related diabetes mellitus with other specified complications,V3,1
+Cyu22,[X]Malnutrition-related diabetes mellitus with unspecified complications,V3,1
+L1807,Pre-existing malnutrition-related diabetes mellitus,V3,1
+X40JA,Secondary diabetes mellitus,V3,1
+C11y0,Steroid-induced diabetes,V3,1
+X40JE,Metabolic syndrome X,V3,0
+XSETH,Maturity onset diabetes mellitus in young,V3,1
+XacoB,Maturity onset diabetes of the young type 5,V3,1
+X40Ja,Abnormal metabolic state in diabetes mellitus,V3,1
+C101.,Diabetic ketoacidosis,V3,1
+C1010,Type 1 diabetes mellitus with ketoacidosis,V3,1
+C1011,Type 2 diabetes mellitus with ketoacidosis,V3,1
+C101y,Other specified diabetes mellitus with ketoacidosis,V3,1
+C101z,Diabetes mellitus NOS with ketoacidosis,V3,1
+C103.,Diabetes mellitus with ketoacidotic coma,V3,1
+C1030,Type 1 diabetes mellitus with ketoacidotic coma,V3,1
+C1031,Type II diabetes mellitus with ketoacidotic coma,V3,1
+C103z,Diabetes mellitus NOS with ketoacidotic coma,V3,1
+Xa3ee,Diabetes with ketoacidosis - no coma,V3,1
+XaCJ2,Diabetic hyperosmolar non-ketotic state,V3,1
+XaIrf,Hyperosmolar non-ketotic state in type II diabetes mellitus,V3,1
+X40Jb,Diabetic severe hyperglycaemia,V3,1
+X40Jc,Poor glycaemic control,V3,1
+66AJ0,Chronic hyperglycaemia,V3,0
+X40Je,Acute hyperglycaemia,V3,0
+C102.,Diabetes mellitus with hyperosmolar coma,V3,1
+C1020,"Diabetes mellitus, juvenile type, with hyperosmolar coma",V3,1
+C1021,"Diabetes mellitus, adult onset, with hyperosmolar coma",V3,1
+C102z,Diabetes mellitus NOS with hyperosmolar coma,V3,1
+C103y,Other specified diabetes mellitus with coma,V3,1
+C105.,Diabetes mellitus with ophthalmic manifestation,V3,1
+C1050,"Diabetes mellitus, juvenile type, with ophthalmic manifestation",V3,1
+C1051,"Diabetes mellitus, adult onset, with ophthalmic manifestation",V3,1
+C105y,Other specified diabetes mellitus with ophthalmic complications,V3,1
+C105z,Diabetes mellitus NOS with ophthalmic manifestation,V3,1
+C108y,Other specified diabetes mellitus with multiple complications,V3,1
+C108z,Unspecified diabetes mellitus with multiple complications,V3,1
+C10y.,Diabetes mellitus with other specified manifestation,V3,1
+C10y0,"Diabetes mellitus, juvenile type, with other specified manifestation",V3,1
+C10y1,"Diabetes mellitus, adult onset, with other specified manifestation",V3,1
+C10yz,Diabetes mellitus NOS with other specified manifestation,V3,1
+C10yy,Other specified diabetes mellitus with other specified complications,V3,1
+C10z.,Diabetes mellitus with unspecified complication,V3,1
+C10z0,"Diabetes mellitus, juvenile type, with unspecified complication",V3,1
+C10z1,"Diabetes mellitus, adult onset, with unspecified complication",V3,1
+C10zy,Other specified diabetes mellitus with unspecified complications,V3,1
+C10zz,Diabetes mellitus NOS with unspecified complication,V3,1
+Cyu20,[X]Other specified diabetes mellitus,V3,1
+Cyu23,[X]Unspecified diabetes mellitus with renal complications,V3,1
+XE10E,"Diabetes mellitus, juvenile type, with no mention of complication",V3,1
+XE10F,"Diabetes mellitus, adult onset, with no mention of complication",V3,1
+XE10G,Diabetes mellitus with renal manifestation,V3,1
+C1040,"Diabetes mellitus, juvenile type, with renal manifestation",V3,1
+C1041,"Diabetes mellitus, adult onset, with renal manifestation",V3,1
+C104y,Other specified diabetes mellitus with renal complications,V3,1
+C104z,Diabetes mellitus with nephropathy NOS,V3,1
+C1060,"Diabetes mellitus, juvenile type, with neurological manifestation",V3,1
+XE10H,Diabetes mellitus with neurological manifestation,V3,1
+C1061,"Diabetes mellitus, adult onset, with neurological manifestation",V3,1
+C106y,Other specified diabetes mellitus with neurological complications,V3,1
+C106z,Diabetes mellitus NOS with neurological manifestation,V3,1
+XE10I,Diabetes mellitus with peripheral circulatory disorder,V3,1
+C1070,"Diabetes mellitus, juvenile type, with peripheral circulatory disorder",V3,1
+C1071,"Diabetes mellitus, adult onset, with peripheral circulatory disorder",V3,1
+C1072,"Diabetes mellitus, adult with gangrene",V3,1
+C1073,IDDM with peripheral circulatory disorder,V3,1
+C107y,Other specified diabetes mellitus with peripheral circulatory complications,V3,1
+C1074,NIDDM with peripheral circulatory disorder,V3,1
+C107z,Diabetes mellitus NOS with peripheral circulatory disorder,V3,1
+XE12M,Diabetes with other complications,V3,1
+XM1Qx,Diabetes mellitus with gangrene,V3,1
+XM1Xk,Unstable diabetes,V3,1
+X50GO,Soft tissue complication of diabetes mellitus,V3,1
+X50GP,Diabetic dermopathy,V3,1
+X50GQ,Diabetic bulla,V3,1
+X50GR,Diabetic thick skin syndrome,V3,1
+N0300,Diabetic hand syndrome,V3,1
+X50GT,Diabetic rubeosis,V3,1
+C10E.,Type I diabetes mellitus,V2,1
+C1084,Unstable type I diabetes mellitus,V2,1
+C10E4,Unstable type I diabetes mellitus,V2,1
+C1080,Type I diabetes mellitus with renal complications,V2,1
+C108D,Type I diabetes mellitus with nephropathy,V2,1
+C10EK,Type 1 diabetes mellitus with persistent proteinuria,V2,1
+C10EL,Type 1 diabetes mellitus with persistent microalbuminuria,V2,1
+C1081,Type I diabetes mellitus with ophthalmic complications,V2,1
+C1087,Type I diabetes mellitus with retinopathy,V2,1
+C108F,Type I diabetes mellitus with diabetic cataract,V2,1
+C10EP,Type 1 diabetes mellitus with exudative maculopathy,V2,1
+C1082,Type I diabetes mellitus with neurological complications,V2,1
+C10EQ,Type 1 diabetes mellitus with gastroparesis,V2,1
+C1083,Type I diabetes mellitus with multiple complications,V2,1
+C1085,Type I diabetes mellitus with ulcer,V2,1
+C1086,Type I diabetes mellitus with gangrene,V2,1
+C1088,Type I diabetes mellitus - poor control,V2,1
+C1089,Type I diabetes mellitus maturity onset,V2,1
+L1805,"Pre-existing diabetes mellitus, insulin-dependent",V2,1
+C108A,Type I diabetes mellitus without complication,V2,1
+C10EA,Type I diabetes mellitus without complication,V2,1
+C108E,Type I diabetes mellitus with hypoglycaemic coma,V2,1
+C10EE,Type I diabetes mellitus with hypoglycaemic coma,V2,1
+C108G,Type I diabetes mellitus with peripheral angiopathy,V2,1
+C10EG,Type I diabetes mellitus with peripheral angiopathy,V2,1
+C108H,Type I diabetes mellitus with arthropathy,V2,1
+C10EH,Type I diabetes mellitus with arthropathy,V2,1
+C10F.,Type II diabetes mellitus,V2,1
+C1090,Type II diabetes mellitus with renal complications,V2,1
+C109C,Type II diabetes mellitus with nephropathy,V2,1
+C10FL,Type II diabetes mellitus with persistent proteinuria,V2,1
+C10FM,Type II diabetes mellitus with persistent microalbuminuria,V2,1
+C1091,Type II diabetes mellitus with ophthalmic complications,V2,1
+C1096,Type II diabetes mellitus with retinopathy,V2,1
+C109E,Type II diabetes mellitus with diabetic cataract,V2,1
+C10FQ,Type II diabetes mellitus with exudative maculopathy,V2,1
+C1092,Type II diabetes mellitus with neurological complications,V2,1
+C10FR,Type II diabetes mellitus with gastroparesis,V2,1
+C1093,Type II diabetes mellitus with multiple complications,V2,1
+C1094,Type II diabetes mellitus with ulcer,V2,1
+C1095,Type II diabetes mellitus with gangrene,V2,1
+C1097,Type II diabetes mellitus - poor control,V2,1
+L1806,"Pre-existing diabetes mellitus, non-insulin-dependent",V2,1
+C1099,Type II diabetes mellitus without complication,V2,1
+C10F9,Type II diabetes mellitus without complication,V2,1
+C109D,Type II diabetes mellitus with hypoglycaemic coma,V2,1
+C10FD,Type II diabetes mellitus with hypoglycaemic coma,V2,1
+C109F,Type II diabetes mellitus with peripheral angiopathy,V2,1
+C10FF,Type II diabetes mellitus with peripheral angiopathy,V2,1
+C109G,Type II diabetes mellitus with arthropathy,V2,1
+C10FG,Type II diabetes mellitus with arthropathy,V2,1
+C109J,Insulin treated Type 2 diabetes mellitus,V2,1
+C10FJ,Insulin treated Type 2 diabetes mellitus,V2,1
+C10A.,Malnutrition-related diabetes mellitus,V2,1
+C10A0,Malnutrition-related diabetes mellitus with coma,V2,1
+C10A1,Malnutrition-related diabetes mellitus with ketoacidosis,V2,1
+C10A2,Malnutrition-related diabetes mellitus with renal complications,V2,1
+C10A3,Malnutrition-related diabetes mellitus with ophthalmic complications,V2,1
+C10A5,Malnutrition-related diabetes mellitus with peripheral circulatory complications,V2,1
+C10A4,Malnutrition-related diabetes mellitus with neurological complications,V2,1
+C10A6,Malnutrition-related diabetes mellitus with multiple complications,V2,1
+C10A7,Malnutrition-related diabetes mellitus without complications,V2,1
+Cyu21,[X]Malnutrition-related diabetes mellitus with other specified complications,V2,1
+Cyu22,[X]Malnutrition-related diabetes mellitus with unspecified complications,V2,1
+L1807,Pre-existing malnutrition-related diabetes mellitus,V2,1
+C10N.,Secondary diabetes mellitus,V2,1
+C11y0,Steroid induced diabetes,V2,1
+C10F8,Metabolic syndrome X,V2,0
+C10..,Diabetes mellitus,V2,1
+C10Q.,Maturity onset diabetes of the young type 5,V2,1
+C101.,Diabetes mellitus with ketoacidosis,V2,1
+C1010,"Diabetes mellitus, juvenile type, with ketoacidosis",V2,1
+C1011,"Diabetes mellitus, adult onset, with ketoacidosis",V2,1
+C101y,Other specified diabetes mellitus with ketoacidosis,V2,1
+C101z,Diabetes mellitus NOS with ketoacidosis,V2,1
+C103.,Diabetes mellitus with ketoacidotic coma,V2,1
+C1030,"Diabetes mellitus, juvenile type, with ketoacidotic coma",V2,1
+C1031,"Diabetes mellitus, adult onset, with ketoacidotic coma",V2,1
+C103z,Diabetes mellitus NOS with ketoacidotic coma,V2,1
+C10FK,Hyperosmolar non-ketotic state in type II diabetes mellitus,V2,1
+66AJ0,Chronic hyperglycaemia,V2,0
+C102.,Diabetes mellitus with hyperosmolar coma,V2,1
+C1020,"Diabetes mellitus, juvenile type, with hyperosmolar coma",V2,1
+C1021,"Diabetes mellitus, adult onset, with hyperosmolar coma",V2,1
+C102z,Diabetes mellitus NOS with hyperosmolar coma,V2,1
+C103y,Other specified diabetes mellitus with coma,V2,1
+C105.,Diabetes mellitus with ophthalmic manifestation,V2,1
+C1050,"Diabetes mellitus, juvenile type, with ophthalmic manifestation",V2,1
+C1051,"Diabetes mellitus, adult onset, with ophthalmic manifestation",V2,1
+C105y,Other specified diabetes mellitus with ophthalmic complications,V2,1
+C105z,Diabetes mellitus NOS with ophthalmic manifestation,V2,1
+C108y,Other specified diabetes mellitus with multiple complications,V2,1
+C108z,Unspecified diabetes mellitus with multiple complications,V2,1
+C10y.,Diabetes mellitus with other specified manifestation,V2,1
+C10y0,"Diabetes mellitus, juvenile type, with other specified manifestation",V2,1
+C10y1,"Diabetes mellitus, adult onset, with other specified manifestation",V2,1
+C10yz,Diabetes mellitus NOS with other specified manifestation,V2,1
+C10yy,Other specified diabetes mellitus with other specified complications,V2,1
+C10z.,Diabetes mellitus with unspecified complication,V2,1
+C10z0,"Diabetes mellitus, juvenile type, with unspecified complication",V2,1
+C10z1,"Diabetes mellitus, adult onset, with unspecified complication",V2,1
+C10zy,Other specified diabetes mellitus with unspecified complications,V2,1
+C10zz,Diabetes mellitus NOS with unspecified complication,V2,1
+Cyu20,[X]Other specified diabetes mellitus,V2,1
+Cyu23,[X]Unspecified diabetes mellitus with renal complications,V2,1
+C1000,"Diabetes mellitus, juvenile type, with no mention of complication",V2,1
+C1001,"Diabetes mellitus, adult onset, with no mention of complication",V2,1
+C104.,Diabetes mellitus with renal manifestation,V2,1
+C1040,"Diabetes mellitus, juvenile type, with renal manifestation",V2,1
+C1041,"Diabetes mellitus, adult onset, with renal manifestation",V2,1
+C104y,Other specified diabetes mellitus with renal complications,V2,1
+C104z,Diabetes mellitus with nephropathy NOS,V2,1
+C1060,"Diabetes mellitus, juvenile type, with neurological manifestation",V2,1
+C106.,Diabetes mellitus with neurological manifestation,V2,1
+C1061,"Diabetes mellitus, adult onset, with neurological manifestation",V2,1
+C106y,Other specified diabetes mellitus with neurological complications,V2,1
+C106z,Diabetes mellitus NOS with neurological manifestation,V2,1
+C107.,Diabetes mellitus with peripheral circulatory disorder,V2,1
+C1070,"Diabetes mellitus, juvenile type, with peripheral circulatory disorder",V2,1
+C1071,"Diabetes mellitus, adult onset, with peripheral circulatory disorder",V2,1
+C1072,"Diabetes mellitus, adult with gangrene",V2,1
+C1073,IDDM with peripheral circulatory disorder,V2,1
+C107y,Other specified diabetes mellitus with peripheral circulatory complications,V2,1
+C1074,NIDDM with peripheral circulatory disorder,V2,1
+C107z,Diabetes mellitus NOS with peripheral circulatory disorder,V2,1
+66AJ.,Unstable diabetes,V2,1
+66AJ1,Brittle diabetes,V2,1
+M....,Skin and subcutaneous tissue diseases,V2,0
+N0300,Diabetic cheiroarthropathy,V2,1
+1220,diabetes,SR,1
+1222,type 1 diabetes,SR,1
+1223,type 2 diabetes,SR,1
+E109,Type 1 diabetes mellitus,MD,1
+E10,Type 1 diabetes mellitus,MD,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,MD,1
+E106,Type 1 diabetes mellitus,MD,1
+E102,Type 1 diabetes mellitus,MD,1
+N083,Glomerular disorders in diabetes mellitus,MD,1
+E103,Type 1 diabetes mellitus,MD,1
+H360,Diabetic retinopathy,MD,1
+H280,Diabetic cataract,MD,1
+E104,Type 1 diabetes mellitus,MD,1
+K318,Other specified diseases of stomach and duodenum,MD,0
+E107,Type 1 diabetes mellitus,MD,1
+E105,Type 1 diabetes mellitus,MD,1
+L984,"Chronic ulcer of skin, not elsewhere classified",MD,0
+R02,"Gangrene, not elsewhere classified",MD,0
+E100,Type 1 diabetes mellitus,MD,1
+R402,"Coma, unspecified",MD,0
+I792,Peripheral angiopathy in diseases classified elsewhere,MD,0
+M142,Diabetic arthropathy,MD,1
+E119,Type 2 diabetes mellitus,MD,1
+E11,Type 2 diabetes mellitus,MD,1
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,MD,1
+E112,Type 2 diabetes mellitus,MD,1
+E113,Type 2 diabetes mellitus,MD,1
+E114,Type 2 diabetes mellitus,MD,1
+E116,Type 2 diabetes mellitus,MD,1
+E117,Type 2 diabetes mellitus,MD,1
+E115,Type 2 diabetes mellitus,MD,1
+E110,Type 2 diabetes mellitus,MD,1
+E129,Malnutrition-related diabetes mellitus,MD,1
+E12,Malnutrition-related diabetes mellitus,MD,1
+O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,MD,1
+K868,Other specified diseases of pancreas,MD,0
+E120,Malnutrition-related diabetes mellitus,MD,1
+E121,Malnutrition-related diabetes mellitus,MD,1
+E872,Acidosis,MD,0
+E122,Malnutrition-related diabetes mellitus,MD,1
+E123,Malnutrition-related diabetes mellitus,MD,1
+E125,Malnutrition-related diabetes mellitus,MD,1
+E124,Malnutrition-related diabetes mellitus,MD,1
+E127,Malnutrition-related diabetes mellitus,MD,1
+E126,Malnutrition-related diabetes mellitus,MD,1
+M146,Neuropathic arthropathy,MD,0
+M908,Osteopathy in other diseases classified elsewhere,MD,0
+E128,Malnutrition-related diabetes mellitus,MD,1
+E139,Other specified diabetes mellitus,MD,1
+E13,Other specified diabetes mellitus,MD,1
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",MD,1
+T380,Poisoning: Glucocorticoids and synthetic analogues,MD,0
+E888,Other specified metabolic disorders,MD,0
+E136,Other specified diabetes mellitus,MD,1
+E146,Unspecified diabetes mellitus,MD,1
+O244,Diabetes mellitus arising in pregnancy,MD,0
+O249,"Diabetes mellitus in pregnancy, unspecified",MD,0
+E141,Unspecified diabetes mellitus,MD,1
+E101,Type 1 diabetes mellitus,MD,1
+E111,Type 2 diabetes mellitus,MD,1
+E131,Other specified diabetes mellitus,MD,1
+E140,Unspecified diabetes mellitus,MD,1
+E130,Other specified diabetes mellitus,MD,1
+E870,Hyperosmolality and hypernatraemia,MD,0
+E149,Unspecified diabetes mellitus,MD,1
+R739,"Hyperglycaemia, unspecified",MD,0
+R730,Abnormal glucose tolerance test,MD,0
+E143,Unspecified diabetes mellitus,MD,1
+E133,Other specified diabetes mellitus,MD,1
+H588,Other specified disorders of eye and adnexa in diseases classified elsewhere,MD,0
+E137,Other specified diabetes mellitus,MD,1
+E147,Unspecified diabetes mellitus,MD,1
+O24,Diabetes mellitus in pregnancy,MD,0
+E148,Unspecified diabetes mellitus,MD,1
+E108,Type 1 diabetes mellitus,MD,1
+E118,Type 2 diabetes mellitus,MD,1
+E138,Other specified diabetes mellitus,MD,1
+E142,Unspecified diabetes mellitus,MD,1
+E132,Other specified diabetes mellitus,MD,1
+E144,Unspecified diabetes mellitus,MD,1
+E134,Other specified diabetes mellitus,MD,1
+E145,Unspecified diabetes mellitus,MD,1
+E135,Other specified diabetes mellitus,MD,1
+L998,Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere,MD,0
+L14,Bullous disorders in diseases classified elsewhere,MD,0
+E14,Unspecified diabetes mellitus,MD,1
+E15,Nondiabetic hypoglycaemic coma,MD,1
+G590,Diabetic mononeuropathy,MD,1
+G632,Diabetic polyneuropathy,MD,1
+249,Secondary diabetes mellitus,ICD9,1
+249,"Secondary diabetes mellitus, without mention of complication",ICD9,1
+249,"Secondary diabetes mellitus, not stated as uncontrolled, or unspecified",ICD9,1
+24901,"Secondary diabetes mellitus, uncontrolled",ICD9,1
+2491,Secondary diabetes mellitus with ketoacidosis,ICD9,1
+2491,"Secondary diabetes mellitus with ketoacidosis, not stated as uncontrolled, or unspecified",ICD9,1
+24911,"Secondary diabetes mellitus with ketoacidosis, uncontrolled",ICD9,1
+2492,Secondary diabetes mellitus with hyperosmolarity,ICD9,1
+2492,"Secondary diabetes mellitus with hyperosmolarity, not stated as uncontrolled, or unspecified",ICD9,1
+24921,"Secondary diabetes mellitus with hyperosmolarity, uncontrolled",ICD9,1
+2493,Secondary diabetes mellitus with other coma,ICD9,1
+2493,"Secondary diabetes mellitus with other coma, not stated as uncontrolled, or unspecified",ICD9,1
+24931,"Secondary diabetes mellitus with other coma, uncontrolled",ICD9,1
+2494,Secondary diabetes mellitus with renal manifestations,ICD9,1
+2494,"Secondary diabetes mellitus with renal manifestations, not stated as uncontrolled, or unspecified",ICD9,1
+24941,"Secondary diabetes mellitus with renal manifestations, uncontrolled",ICD9,1
+2495,Secondary diabetes mellitus with ophthalmic manifestations,ICD9,1
+2495,"Secondary diabetes mellitus with ophthalmic manifestations, not stated as uncontrolled, or unspecified",ICD9,1
+24951,"Secondary diabetes mellitus with ophthalmic manifestations, uncontrolled",ICD9,1
+2496,Secondary diabetes mellitus with neurological manifestations,ICD9,1
+2496,"Secondary diabetes mellitus with neurological manifestations, not stated as uncontrolled, or unspecified",ICD9,1
+24961,"Secondary diabetes mellitus with neurological manifestations, uncontrolled",ICD9,1
+2497,Secondary diabetes mellitus with peripheral circulatory disorders,ICD9,1
+2497,"Secondary diabetes mellitus with peripheral circulatory disorders, not stated as uncontrolled, or unspecified",ICD9,1
+24971,"Secondary diabetes mellitus with peripheral circulatory disorders, uncontrolled",ICD9,1
+2498,Secondary diabetes mellitus with other specified manifestations,ICD9,1
+2498,"Secondary diabetes mellitus with other specified manifestations, not stated as uncontrolled, or unspecified",ICD9,1
+24981,"Secondary diabetes mellitus with other specified manifestations, uncontrolled",ICD9,1
+2499,Secondary diabetes mellitus with unspecified complication,ICD9,1
+2499,"Secondary diabetes mellitus with unspecified complication, not stated as uncontrolled, or unspecified",ICD9,1
+24991,"Secondary diabetes mellitus with unspecified complication, uncontrolled",ICD9,1
+250,Diabetes mellitus,ICD9,1
+250,Diabetes mellitus without mention of complication,ICD9,1
+250,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication",ICD9,1
+25001,"type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, without mention of complication",ICD9,1
+25002,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, without mention of complication",ICD9,1
+25003,"type I diabetes mellitus [juvenile type], uncontrolled, without mention of complication",ICD9,1
+2501,Diabetes with ketoacidosis,ICD9,1
+2501,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ketoacidosis",ICD9,1
+25011,"type I diabetes mellitus [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ketoacidosis",ICD9,1
+25012,"type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ketoacidosis",ICD9,1
+25013,"type I diabetes mellitus [juvenile type], uncontrolled, with ketoacidosis",ICD9,1
+2502,Diabetes mellitus with hyperosmolarity,ICD9,1
+2502,"Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, not stated as uncontrolled",ICD9,1
+25021,"Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type] with hyperosmolarity, not stated as uncontrolled",ICD9,1
+25022,"Diabetes mellitustype II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type with hyperosmolarity, uncontrolled",ICD9,1
+25023,"Diabetes mellitus, type I [juvenile type] with hyperosmolarity, uncontrolled",ICD9,1
+2503,Diabetes with other coma,ICD9,1
+2503,"Diabetes mellitus, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled",ICD9,1
+25031,"Diabetes mellitus, type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled",ICD9,1
+25032,"Diabetes mellitus with other coma, type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled",ICD9,1
+25033,"Diabetes mellitus with other coma, type I [juvenile type], uncontrolled",ICD9,1
+2504,Diabetes with renal manifestations,ICD9,1
+2504,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with renal manifestations",ICD9,1
+25041,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with renal manifestations",ICD9,1
+25042,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with renal manifestations",ICD9,1
+25043,"Diabetes mellitus type I [juvenile type], uncontrolled, with renal manifestations",ICD9,1
+2505,Diabetes with ophthalmic manifestations,ICD9,1
+2505,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with ophthalmic manifestations",ICD9,1
+25051,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with ophthalmic manifestations",ICD9,1
+25052,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with ophthalmic manifestations",ICD9,1
+25053,"Diabetes mellitus type I [juvenile type], uncontrolled, with ophthalmic manifestations",ICD9,1
+2506,Diabetes with neurological manifestations,ICD9,1
+2506,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with neurological manifestations",ICD9,1
+25061,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with neurological manifestations",ICD9,1
+25062,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with neurological manifestations",ICD9,1
+25063,"Diabetes mellitus type I [juvenile type], uncontrolled, with neurological manifestations",ICD9,1
+2507,Diabetes with peripheral circulatory disorders,ICD9,1
+2507,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with peripheral circulatory disorders",ICD9,1
+25071,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with peripheral circulatory disorders",ICD9,1
+25072,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with peripheral circulatory disorders",ICD9,1
+25073,"Diabetes mellitus type I [juvenile type], uncontrolled, with peripheral circulatory disorders",ICD9,1
+2508,Diabetes with other specified manifestations,ICD9,1
+2508,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with other specified manifestations",ICD9,1
+25081,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with other specified manifestations",ICD9,1
+25082,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with other specified manifestations",ICD9,1
+25083,"Diabetes mellitus type I [juvenile type], uncontrolled, with other specified manifestations",ICD9,1
+2509,Diabetes with unspecified complication,ICD9,1
+2509,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with unspecified complication",ICD9,1
+25091,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], not stated as uncontrolled, with unspecified complication",ICD9,1
+25092,"Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, uncontrolled, with unspecified complication",ICD9,1
+25093,"Diabetes mellitus type I [insulin dependent type] [IDDM] [juvenile type], uncontrolled, with unspecified complication",ICD9,1
+3572,Polyneuropathy in diabetes,ICD9,1
+362,Diabetic retinopathy,ICD9,1
+36201,Background diabetic retinopathy,ICD9,1
+36202,Proliferative diabetic retinopathy,ICD9,1
+36203,Nonproliferative diabetic retinopathy NOS,ICD9,1
+36204,Mild nonproliferative diabetic retinopathy,ICD9,1
+36205,Moderate nonproliferative diabetic retinopathy,ICD9,1
+36206,Severe nonproliferative diabetic retinopathy,ICD9,1
+36207,Diabetic macular edema,ICD9,1
+V4585,Insulin pump status,ICD9,1
+V5391,Fitting and adjustment of insulin pump Insulin pump titration,ICD9,1
+V5867,Encounter for long-term (current) use of insulin,ICD9,1
+V6546,Encounter for insulin pump training,ICD9,1
+E109,Type 1 diabetes mellitus,ICD10,1
+E10,Type 1 diabetes mellitus,ICD10,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,ICD10,1
+E106,Type 1 diabetes mellitus,ICD10,1
+E102,Type 1 diabetes mellitus,ICD10,1
+N083,Glomerular disorders in diabetes mellitus,ICD10,1
+E103,Type 1 diabetes mellitus,ICD10,1
+H360,Diabetic retinopathy,ICD10,1
+H280,Diabetic cataract,ICD10,1
+E104,Type 1 diabetes mellitus,ICD10,1
+K318,Other specified diseases of stomach and duodenum,ICD10,0
+E107,Type 1 diabetes mellitus,ICD10,1
+E105,Type 1 diabetes mellitus,ICD10,1
+L984,"Chronic ulcer of skin, not elsewhere classified",ICD10,0
+R02,"Gangrene, not elsewhere classified",ICD10,0
+E100,Type 1 diabetes mellitus,ICD10,1
+R402,"Coma, unspecified",ICD10,0
+I792,Peripheral angiopathy in diseases classified elsewhere,ICD10,0
+M142,Diabetic arthropathy,ICD10,1
+E119,Type 2 diabetes mellitus,ICD10,1
+E11,Type 2 diabetes mellitus,ICD10,1
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,ICD10,1
+E112,Type 2 diabetes mellitus,ICD10,1
+E113,Type 2 diabetes mellitus,ICD10,1
+E114,Type 2 diabetes mellitus,ICD10,1
+E116,Type 2 diabetes mellitus,ICD10,1
+E117,Type 2 diabetes mellitus,ICD10,1
+E115,Type 2 diabetes mellitus,ICD10,1
+E110,Type 2 diabetes mellitus,ICD10,1
+E129,Malnutrition-related diabetes mellitus,ICD10,1
+E12,Malnutrition-related diabetes mellitus,ICD10,1
+O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,ICD10,1
+K868,Other specified diseases of pancreas,ICD10,0
+E120,Malnutrition-related diabetes mellitus,ICD10,1
+E121,Malnutrition-related diabetes mellitus,ICD10,1
+E872,Acidosis,ICD10,0
+E122,Malnutrition-related diabetes mellitus,ICD10,1
+E123,Malnutrition-related diabetes mellitus,ICD10,1
+E125,Malnutrition-related diabetes mellitus,ICD10,1
+E124,Malnutrition-related diabetes mellitus,ICD10,1
+E127,Malnutrition-related diabetes mellitus,ICD10,1
+E126,Malnutrition-related diabetes mellitus,ICD10,1
+M146,Neuropathic arthropathy,ICD10,0
+M908,Osteopathy in other diseases classified elsewhere,ICD10,0
+E128,Malnutrition-related diabetes mellitus,ICD10,1
+E139,Other specified diabetes mellitus,ICD10,1
+E13,Other specified diabetes mellitus,ICD10,1
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",ICD10,1
+T380,Poisoning: Glucocorticoids and synthetic analogues,ICD10,0
+E888,Other specified metabolic disorders,ICD10,0
+E136,Other specified diabetes mellitus,ICD10,1
+E146,Unspecified diabetes mellitus,ICD10,1
+O244,Diabetes mellitus arising in pregnancy,ICD10,0
+O249,"Diabetes mellitus in pregnancy, unspecified",ICD10,0
+E141,Unspecified diabetes mellitus,ICD10,1
+E101,Type 1 diabetes mellitus,ICD10,1
+E111,Type 2 diabetes mellitus,ICD10,1
+E131,Other specified diabetes mellitus,ICD10,1
+E140,Unspecified diabetes mellitus,ICD10,1
+E130,Other specified diabetes mellitus,ICD10,1
+E870,Hyperosmolality and hypernatraemia,ICD10,0
+E149,Unspecified diabetes mellitus,ICD10,1
+R739,"Hyperglycaemia, unspecified",ICD10,0
+R730,Abnormal glucose tolerance test,ICD10,0
+E143,Unspecified diabetes mellitus,ICD10,1
+E133,Other specified diabetes mellitus,ICD10,1
+H588,Other specified disorders of eye and adnexa in diseases classified elsewhere,ICD10,0
+E137,Other specified diabetes mellitus,ICD10,1
+E147,Unspecified diabetes mellitus,ICD10,1
+O24,Diabetes mellitus in pregnancy,ICD10,0
+E148,Unspecified diabetes mellitus,ICD10,1
+E108,Type 1 diabetes mellitus,ICD10,1
+E118,Type 2 diabetes mellitus,ICD10,1
+E138,Other specified diabetes mellitus,ICD10,1
+E142,Unspecified diabetes mellitus,ICD10,1
+E132,Other specified diabetes mellitus,ICD10,1
+E144,Unspecified diabetes mellitus,ICD10,1
+E134,Other specified diabetes mellitus,ICD10,1
+E145,Unspecified diabetes mellitus,ICD10,1
+E135,Other specified diabetes mellitus,ICD10,1
+L998,Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere,ICD10,0
+L14,Bullous disorders in diseases classified elsewhere,ICD10,0
+E14,Unspecified diabetes mellitus,ICD10,1
+E15,Nondiabetic hypoglycaemic coma,ICD10,1
+G590,Diabetic mononeuropathy,ICD10,1
+G632,Diabetic polyneuropathy,ICD10,1
+E109,Type 1 diabetes mellitus,cancer,1
+E10,Type 1 diabetes mellitus,cancer,1
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,cancer,1
+E106,Type 1 diabetes mellitus,cancer,1
+E102,Type 1 diabetes mellitus,cancer,1
+N083,Glomerular disorders in diabetes mellitus,cancer,1
+E103,Type 1 diabetes mellitus,cancer,1
+H360,Diabetic retinopathy,cancer,1
+H280,Diabetic cataract,cancer,1
+E104,Type 1 diabetes mellitus,cancer,1
+K318,Other specified diseases of stomach and duodenum,cancer,0
+E107,Type 1 diabetes mellitus,cancer,1
+E105,Type 1 diabetes mellitus,cancer,1
+L984,"Chronic ulcer of skin, not elsewhere classified",cancer,0
+R02,"Gangrene, not elsewhere classified",cancer,0
+E100,Type 1 diabetes mellitus,cancer,1
+R402,"Coma, unspecified",cancer,0
+I792,Peripheral angiopathy in diseases classified elsewhere,cancer,0
+M142,Diabetic arthropathy,cancer,1
+E119,Type 2 diabetes mellitus,cancer,1
+E11,Type 2 diabetes mellitus,cancer,1
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,cancer,1
+E112,Type 2 diabetes mellitus,cancer,1
+E113,Type 2 diabetes mellitus,cancer,1
+E114,Type 2 diabetes mellitus,cancer,1
+E116,Type 2 diabetes mellitus,cancer,1
+E117,Type 2 diabetes mellitus,cancer,1
+E115,Type 2 diabetes mellitus,cancer,1
+E110,Type 2 diabetes mellitus,cancer,1
+E129,Malnutrition-related diabetes mellitus,cancer,1
+E12,Malnutrition-related diabetes mellitus,cancer,1
+O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,cancer,1
+K868,Other specified diseases of pancreas,cancer,0
+E120,Malnutrition-related diabetes mellitus,cancer,1
+E121,Malnutrition-related diabetes mellitus,cancer,1
+E872,Acidosis,cancer,0
+E122,Malnutrition-related diabetes mellitus,cancer,1
+E123,Malnutrition-related diabetes mellitus,cancer,1
+E125,Malnutrition-related diabetes mellitus,cancer,1
+E124,Malnutrition-related diabetes mellitus,cancer,1
+E127,Malnutrition-related diabetes mellitus,cancer,1
+E126,Malnutrition-related diabetes mellitus,cancer,1
+M146,Neuropathic arthropathy,cancer,0
+M908,Osteopathy in other diseases classified elsewhere,cancer,0
+E128,Malnutrition-related diabetes mellitus,cancer,1
+E139,Other specified diabetes mellitus,cancer,1
+E13,Other specified diabetes mellitus,cancer,1
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",cancer,1
+T380,Poisoning: Glucocorticoids and synthetic analogues,cancer,0
+E888,Other specified metabolic disorders,cancer,0
+E136,Other specified diabetes mellitus,cancer,1
+E146,Unspecified diabetes mellitus,cancer,1
+O244,Diabetes mellitus arising in pregnancy,cancer,0
+O249,"Diabetes mellitus in pregnancy, unspecified",cancer,0
+E141,Unspecified diabetes mellitus,cancer,1
+E101,Type 1 diabetes mellitus,cancer,1
+E111,Type 2 diabetes mellitus,cancer,1
+E131,Other specified diabetes mellitus,cancer,1
+E140,Unspecified diabetes mellitus,cancer,1
+E130,Other specified diabetes mellitus,cancer,1
+E870,Hyperosmolality and hypernatraemia,cancer,0
+E149,Unspecified diabetes mellitus,cancer,1
+R739,"Hyperglycaemia, unspecified",cancer,0
+R730,Abnormal glucose tolerance test,cancer,0
+E143,Unspecified diabetes mellitus,cancer,1
+E133,Other specified diabetes mellitus,cancer,1
+H588,Other specified disorders of eye and adnexa in diseases classified elsewhere,cancer,0
+E137,Other specified diabetes mellitus,cancer,1
+E147,Unspecified diabetes mellitus,cancer,1
+O24,Diabetes mellitus in pregnancy,cancer,0
+E148,Unspecified diabetes mellitus,cancer,1
+E108,Type 1 diabetes mellitus,cancer,1
+E118,Type 2 diabetes mellitus,cancer,1
+E138,Other specified diabetes mellitus,cancer,1
+E142,Unspecified diabetes mellitus,cancer,1
+E132,Other specified diabetes mellitus,cancer,1
+E144,Unspecified diabetes mellitus,cancer,1
+E134,Other specified diabetes mellitus,cancer,1
+E145,Unspecified diabetes mellitus,cancer,1
+E135,Other specified diabetes mellitus,cancer,1
+L998,Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere,cancer,0
+L14,Bullous disorders in diseases classified elsewhere,cancer,0
+E14,Unspecified diabetes mellitus,cancer,1
+E15,Nondiabetic hypoglycaemic coma,cancer,1
+G590,Diabetic mononeuropathy,cancer,1
+G632,Diabetic polyneuropathy,cancer,1

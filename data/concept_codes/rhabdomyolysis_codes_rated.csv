@@ -1,0 +1,34 @@
+Code,Description,Source,Decision
+X70AI,Rhabdomyolysis,V3,1
+X70AJ,Non-traumatic rhabdomyolysis,V3,1
+X70AK,Paroxysmal rhabdomyolysis,V3,1
+X70AL,Familial paroxysmal rhabdomyolysis,V3,1
+X30Iu,Acute renal failure due to rhabdomyolysis,V3,0
+X30Iv,Traumatic anuria - crush syndrome,V3,0
+XE1oB,Acute renal failure due to crush syndrome,V3,0
+XaZe5,Acute renal failure due to traumatic rhabdomyolysis,V3,0
+XaZSx,Acute renal failure due to non-traumatic rhabdomyolysis,V3,1
+N2333,Rhabdomyolysis,V2,1
+SK08.,Acute renal failure due to rhabdomyolysis,V2,1
+SK05.,Traumatic anuria - crush syndrome,V2,0
+K04B.,Acute renal failure due to traumatic rhabdomyolysis,V2,0
+K045.,Acute renal failure due to non-traumatic rhabdomyolysis,V2,1
+M628,Other specified disorders of muscle,MD,0
+T796,Traumatic ischaemia of muscle,MD,0
+T795,Traumatic anuria,MD,0
+N179,"Acute renal failure, unspecified",MD,0
+N17,Acute renal failure,MD,0
+7288," Other specified disorders of muscle, ligament and fascia",ICD9,0
+5849," Acute renal failure, unspecified",ICD9,0
+9585,Traumatic anuria,ICD9,0
+72888,Rhabomyolysis,ICD9,1
+M628,Other specified disorders of muscle,ICD10,0
+T796,Traumatic ischaemia of muscle,ICD10,0
+T795,Traumatic anuria,ICD10,0
+N179,"Acute renal failure, unspecified",ICD10,0
+N17,Acute renal failure,ICD10,0
+M628,Other specified disorders of muscle,cancer,0
+T796,Traumatic ischaemia of muscle,cancer,0
+T795,Traumatic anuria,cancer,0
+N179,"Acute renal failure, unspecified",cancer,0
+N17,Acute renal failure,cancer,0

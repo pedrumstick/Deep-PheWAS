@@ -1,0 +1,213 @@
+Code,Description,Source,Decision
+SN50.,Anaphylactic shock,V3,1
+X70vi,Venom-induced anaphylaxis,V3,1
+X70vj,Bee sting-induced anaphylaxis,V3,1
+X70vk,Wasp sting-induced anaphylaxis,V3,1
+X70vl,Blood product-induced anaphylaxis,V3,1
+X70vm,Food-induced anaphylaxis,V3,1
+X70vn,Peanut-induced anaphylaxis,V3,1
+X70vo,Seafood-induced anaphylaxis,V3,1
+X70vp,Egg white-induced anaphylaxis,V3,1
+X70vq,Cow's milk protein-induced anaphylaxis,V3,1
+X70vr,Drug-induced anaphylaxis,V3,1
+X70vs,Penicillin-induced anaphylaxis,V3,1
+X70vt,Insulin-induced anaphylaxis,V3,1
+X70vu,Human protein-induced anaphylaxis,V3,1
+X70vv,Seminal fluid-induced anaphylaxis,V3,1
+X70vw,Aeroallergen-induced anaphylaxis,V3,1
+SP34.,Anaphylactic shock due to serum,V3,1
+XE1BR,Anaphylactic urticaria,V3,1
+XaL31,H/O: anaphylactic shock,V3,1
+K0323,Anaphylactoid glomerulonephritis,V3,0
+X70w8,Cholinergic anaphylactoid reaction,V3,0
+X30Lt,Anaphylactoid reaction to dialysis,V3,0
+XaZmp,Anaphylactoid reaction due to haemodialysis,V3,0
+X70w1,Food-induced anaphylactoid reaction,V3,0
+X70w2,Drug-induced anaphylactoid reaction,V3,0
+X70w3,NSAID-induced anaphylactoid reaction,V3,0
+X70w4,Aspirin-induced anaphylactoid reaction,V3,0
+SN501,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,V3,1
+X208h,Anaphylactoid shock,V3,0
+X70vy,Blood and blood product-induced anaphylactoid reaction,V3,0
+X70vz,Whole blood-induced anaphylactoid reaction,V3,0
+X70w0,Immunoglobulin-induced anaphylactoid reaction,V3,0
+X70w5,Ionic compound-induced anaphylactoid reaction,V3,0
+X70w6,Dialysis membrane-induced anaphylactoid reaction,V3,0
+X70w7,Exercise anaphylaxis,V3,1
+D3100,Anaphylactoid purpura,V3,0
+X7060,Post-infective Henoch-Schonlein purpura,V3,0
+SN50.,Anaphylactic shock,V2,1
+SN593,Anaphylactic shock due to bee sting,V2,1
+SN594,Anaphylactic shock due to wasp sting,V2,1
+SP34.,Anaphylactic shock due to serum,V2,1
+M280.,Allergic urticaria,V2,0
+14M5.,H/O: anaphylactic shock,V2,1
+K0323,Anaphylactoid glomerulonephritis,V2,0
+SP...,Surgical and medical care complications NEC,V2,0
+SP0H.,Disorder associated with dialysis,V2,0
+SP0G.,Anaphylactoid reaction due to haemodialysis,V2,0
+SN500,Anaphylactic shock due to adverse food reaction,V2,1
+SN501,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,V2,1
+M287.,Physical urticaria,V2,0
+D3100,Anaphylactoid purpura,V2,0
+1385,allergy or anaphylactic reaction to food,SR,0
+1386,allergy or anaphylactic reaction to drug,SR,0
+T782,"Anaphylactic shock, unspecified",MD,1
+T780,Anaphylactic shock due to adverse food reaction,MD,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",MD,0
+T632,Toxic effect: Venom of scorpion,MD,0
+T634,Toxic effect: Venom of other arthropods,MD,0
+T636,Toxic effect: Toxic effect of contact with other marine animals,MD,0
+T639,Toxic effect: Toxic effect of contact with unspecified venomous animal,MD,0
+T805,Anaphylactic shock due to serum,MD,1
+T886,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,MD,1
+T803,ABO incompatibility reaction,MD,0
+T804,Rh incompatibility reaction,MD,0
+K904,"Malabsorption due to intolerance, not elsewhere classified",MD,0
+T50,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",MD,0
+T36,Poisoning by systemic antibiotics,MD,0
+T37,Poisoning by other systemic anti-infectives and antiparasitics,MD,0
+T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",MD,0
+T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",MD,0
+T40,Poisoning by narcotics and psychodysleptics [hallucinogens],MD,0
+T41,Poisoning by anaesthetics and therapeutic gases,MD,0
+T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",MD,0
+T43,"Poisoning by psychotropic drugs, not elsewhere classified",MD,0
+T44,Poisoning by drugs primarily affecting the autonomic nervous system,MD,0
+T45,"Poisoning by primarily systemic and haematological agents, not elsewhere classified",MD,0
+T46,Poisoning by agents primarily affecting the cardiovascular system,MD,0
+T47,Poisoning by agents primarily affecting the gastrointestinal system,MD,0
+T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,MD,0
+T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological",MD,0
+T360,Poisoning: Penicillins,MD,0
+T383,Poisoning: Insulin and oral hypoglycaemic [antidiabetic] drugs,MD,0
+J450,Predominantly allergic asthma,MD,0
+J301,Allergic rhinitis due to pollen,MD,0
+J302,Other seasonal allergic rhinitis,MD,0
+J303,Other allergic rhinitis,MD,0
+L500,Allergic urticaria,MD,0
+N058,Unspecified nephritic syndrome,MD,0
+T808,"Other complications following infusion, transfusion and therapeutic injection",MD,0
+T390,Poisoning: Salicylates,MD,0
+T391,Poisoning: 4-Aminophenol derivatives,MD,0
+T392,Poisoning: Pyrazolone derivatives,MD,0
+T393,Poisoning: Other nonsteroidal anti-inflammatory drugs [NSAID],MD,0
+T788,"Other adverse effects, not elsewhere classified",MD,0
+T658,Toxic effect: Toxic effect of other specified substances,MD,0
+D690,Allergic purpura,MD,0
+9950,Anaphylactic shock,ICD9,1
+9994,Anaphylactic shock due to serum,ICD9,1
+9895,Toxic effect of venom,ICD9,0
+9998,Other transfusion reaction,ICD9,0
+9888,Toxic effect of other specified noxious substances eaten as food,ICD9,0
+9880,Toxic effect of fish and shellfish,ICD9,0
+9600,Poisoning by penicillins,ICD9,0
+9623,Poisoning by insulins and antidiabetic agents,ICD9,0
+9778,Poisoning by other specified drugs and medicaments,ICD9,0
+7080,Allergic urticaria,ICD9,0
+5839,Unspecified nephropathy with unspecified path. lesion in kidney,ICD9,0
+9710,Poisoning by parasympathomimetics (cholinergics),ICD9,0
+988,Toxic effect of noxious substances eaten as food,ICD9,0
+9658," Poisoning by other specified analgesics, antipyretics and antirheumatics",ICD9,0
+9979,Complications affecting other specified body systems n.e.c.,ICD9,0
+9647,Poisoning by natural blood and blood products,ICD9,0
+9646,Poisoning by gamma globulin,ICD9,0
+2870,Allergic purpura,ICD9,0
+995,Other anaphylactic reaction,ICD9,1
+9956,Anaphylactic shock due to adverse food reaction,ICD9,1
+9956,Anaphylactic reaction due to unspecified food,ICD9,1
+99561,Anaphylactic reaction due to peanuts,ICD9,1
+99562,Anaphylactic reaction due to crustaceans,ICD9,1
+99563,Anaphylactic reaction due to fruits and vegetables,ICD9,1
+99564,Anaphylactic reaction due to tree nuts and seeds,ICD9,1
+99565,Anaphylactic reaction due to fish,ICD9,1
+99566,Anaphylactic reaction due to food additives,ICD9,1
+99567,Anaphylactic reaction due to milk products,ICD9,1
+99568,Anaphylactic reaction due to eggs,ICD9,1
+99569,Anaphylactic reaction due to other specified food,ICD9,1
+T782,"Anaphylactic shock, unspecified",ICD10,1
+T780,Anaphylactic shock due to adverse food reaction,ICD10,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",ICD10,0
+T632,Toxic effect: Venom of scorpion,ICD10,0
+T634,Toxic effect: Venom of other arthropods,ICD10,0
+T636,Toxic effect: Toxic effect of contact with other marine animals,ICD10,0
+T639,Toxic effect: Toxic effect of contact with unspecified venomous animal,ICD10,0
+T805,Anaphylactic shock due to serum,ICD10,1
+T886,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,ICD10,1
+T803,ABO incompatibility reaction,ICD10,0
+T804,Rh incompatibility reaction,ICD10,0
+K904,"Malabsorption due to intolerance, not elsewhere classified",ICD10,0
+T50,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",ICD10,0
+T36,Poisoning by systemic antibiotics,ICD10,0
+T37,Poisoning by other systemic anti-infectives and antiparasitics,ICD10,0
+T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",ICD10,0
+T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",ICD10,0
+T40,Poisoning by narcotics and psychodysleptics [hallucinogens],ICD10,0
+T41,Poisoning by anaesthetics and therapeutic gases,ICD10,0
+T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",ICD10,0
+T43,"Poisoning by psychotropic drugs, not elsewhere classified",ICD10,0
+T44,Poisoning by drugs primarily affecting the autonomic nervous system,ICD10,0
+T45,"Poisoning by primarily systemic and haematological agents, not elsewhere classified",ICD10,0
+T46,Poisoning by agents primarily affecting the cardiovascular system,ICD10,0
+T47,Poisoning by agents primarily affecting the gastrointestinal system,ICD10,0
+T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,ICD10,0
+T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological",ICD10,0
+T360,Poisoning: Penicillins,ICD10,0
+T383,Poisoning: Insulin and oral hypoglycaemic [antidiabetic] drugs,ICD10,0
+J450,Predominantly allergic asthma,ICD10,0
+J301,Allergic rhinitis due to pollen,ICD10,0
+J302,Other seasonal allergic rhinitis,ICD10,0
+J303,Other allergic rhinitis,ICD10,0
+L500,Allergic urticaria,ICD10,0
+N058,Unspecified nephritic syndrome,ICD10,0
+T808,"Other complications following infusion, transfusion and therapeutic injection",ICD10,0
+T390,Poisoning: Salicylates,ICD10,0
+T391,Poisoning: 4-Aminophenol derivatives,ICD10,0
+T392,Poisoning: Pyrazolone derivatives,ICD10,0
+T393,Poisoning: Other nonsteroidal anti-inflammatory drugs [NSAID],ICD10,0
+T788,"Other adverse effects, not elsewhere classified",ICD10,0
+T658,Toxic effect: Toxic effect of other specified substances,ICD10,0
+D690,Allergic purpura,ICD10,0
+T782,"Anaphylactic shock, unspecified",cancer,1
+T780,Anaphylactic shock due to adverse food reaction,cancer,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",cancer,0
+T632,Toxic effect: Venom of scorpion,cancer,0
+T634,Toxic effect: Venom of other arthropods,cancer,0
+T636,Toxic effect: Toxic effect of contact with other marine animals,cancer,0
+T639,Toxic effect: Toxic effect of contact with unspecified venomous animal,cancer,0
+T805,Anaphylactic shock due to serum,cancer,1
+T886,Anaphylactic shock due to adverse effect of correct drug or medicament properly administered,cancer,1
+T803,ABO incompatibility reaction,cancer,0
+T804,Rh incompatibility reaction,cancer,0
+K904,"Malabsorption due to intolerance, not elsewhere classified",cancer,0
+T50,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",cancer,0
+T36,Poisoning by systemic antibiotics,cancer,0
+T37,Poisoning by other systemic anti-infectives and antiparasitics,cancer,0
+T38,"Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",cancer,0
+T39,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",cancer,0
+T40,Poisoning by narcotics and psychodysleptics [hallucinogens],cancer,0
+T41,Poisoning by anaesthetics and therapeutic gases,cancer,0
+T42,"Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",cancer,0
+T43,"Poisoning by psychotropic drugs, not elsewhere classified",cancer,0
+T44,Poisoning by drugs primarily affecting the autonomic nervous system,cancer,0
+T45,"Poisoning by primarily systemic and haematological agents, not elsewhere classified",cancer,0
+T46,Poisoning by agents primarily affecting the cardiovascular system,cancer,0
+T47,Poisoning by agents primarily affecting the gastrointestinal system,cancer,0
+T48,Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system,cancer,0
+T49,"Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological",cancer,0
+T360,Poisoning: Penicillins,cancer,0
+T383,Poisoning: Insulin and oral hypoglycaemic [antidiabetic] drugs,cancer,0
+J450,Predominantly allergic asthma,cancer,0
+J301,Allergic rhinitis due to pollen,cancer,0
+J302,Other seasonal allergic rhinitis,cancer,0
+J303,Other allergic rhinitis,cancer,0
+L500,Allergic urticaria,cancer,0
+N058,Unspecified nephritic syndrome,cancer,0
+T808,"Other complications following infusion, transfusion and therapeutic injection",cancer,0
+T390,Poisoning: Salicylates,cancer,0
+T391,Poisoning: 4-Aminophenol derivatives,cancer,0
+T392,Poisoning: Pyrazolone derivatives,cancer,0
+T393,Poisoning: Other nonsteroidal anti-inflammatory drugs [NSAID],cancer,0
+T788,"Other adverse effects, not elsewhere classified",cancer,0
+T658,Toxic effect: Toxic effect of other specified substances,cancer,0
+D690,Allergic purpura,cancer,0

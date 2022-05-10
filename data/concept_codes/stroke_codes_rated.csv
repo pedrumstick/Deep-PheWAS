@@ -1,0 +1,252 @@
+Code,Description,Source,Decision
+X00D1,Stroke,V3,1
+Xa0kZ,Cerebral infarction,V3,1
+X00D5,Anterior cerebral circulation infarction,V3,1
+X00D6,Total anterior cerebral circulation infarction,V3,1
+X00D7,Partial anterior cerebral circulation infarction,V3,1
+X00D8,Posterior cerebral circulation infarction,V3,1
+Xa00K,Brainstem infarction,V3,1
+Xa00R,Top of basilar syndrome,V3,1
+Xa00Q,Claude syndrome,V3,1
+Xa00P,Weber syndrome,V3,1
+Xa00O,Millard-Gubler syndrome,V3,1
+Xa00N,Foville syndrome,V3,1
+Xa00M,Wallenberg syndrome,V3,1
+Xa00L,Benedict syndrome,V3,1
+X00D9,Brainstem infarction NOS,V3,1
+Xa00J,Cerebellar infarction,V3,1
+Xa00I,Occipital cerebral infarction,V3,1
+X00DA,Lacunar infarction,V3,1
+XaQbM,Pure sensory lacunar syndrome,V3,1
+XaQbK,Pure motor lacunar syndrome,V3,1
+X00DB,Pure motor lacunar infarction,V3,1
+X00DC,Pure sensory lacunar infarction,V3,1
+X00DD,Pure sensorimotor lacunar infarction,V3,1
+X00DE,Lacunar ataxic hemiparesis,V3,1
+X00DF,Dysarthria-clumsy hand syndrome,V3,1
+XaB4Z,Multiple lacunar infarcts,V3,1
+X00DG,Multi-infarct state,V3,1
+XaJgQ,Infarction of basal ganglia,V3,1
+G6400,Cerebral infarction due to thrombosis of cerebral arteries,V3,1
+G6410,Cerebral infarction due to embolism of cerebral arteries,V3,1
+G6760,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",V3,1
+Gyu63,[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,V3,1
+Gyu64,[X]Other cerebral infarction,V3,1
+Gyu6G,[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,V3,1
+X00D4,Infarction - precerebral,V3,1
+G63y0,Cerebral infarct due to thrombosis of precerebral arteries,V3,1
+G63y1,Cerebral infarction due to embolism of precerebral arteries,V3,1
+XE0VJ,Cerebral infarction NOS,V3,1
+XaBEC,Left sided cerebral infarction,V3,1
+XaBED,Right sided cerebral infarction,V3,1
+X00DI,Haemorrhagic cerebral infarction,V3,1
+X00DJ,Anterior cerebral circulation haemorrhagic infarction,V3,1
+X00DK,Posterior cerebral circulation haemorrhagic infarction,V3,1
+XE0VF,Cerebral parenchymal haemorrhage,V3,1
+X00DL,Massive supratentorial cerebral haemorrhage,V3,1
+X00DM,Lobar cerebral haemorrhage,V3,1
+X00DN,Subcortical cerebral haemorrhage,V3,1
+X00DO,Thalamic haemorrhage,V3,1
+G612.,Basal ganglia haemorrhage,V3,1
+G611.,Internal capsule haemorrhage,V3,1
+X00DP,Lacunar haemorrhage,V3,1
+X00DQ,Brainstem haemorrhage,V3,1
+G615.,Bulbar haemorrhage,V3,1
+G613.,Cerebellar haemorrhage,V3,1
+Xa0Bj,Intracerebellar and posterior fossa haemorrhage,V3,1
+G610.,Cortical haemorrhage,V3,1
+XaBM4,"Left sided intracerebral haemorrhage, unspecified",V3,1
+XaBM5,"Right sided intracerebral haemorrhage, unspecified",V3,1
+G616.,External capsule haemorrhage,V3,1
+G618.,"Intracerebral haemorrhage, multiple localised",V3,1
+G61z.,Intracerebral haemorrhage NOS,V3,1
+X00DR,Stroke of uncertain pathology,V3,1
+X00DS,Anterior circulation stroke of uncertain pathology,V3,1
+X00DT,Posterior circulation stroke of uncertain pathology,V3,1
+G640.,Cerebral thrombosis,V3,1
+G663.,Brainstem stroke syndrome,V3,1
+G664.,Cerebellar stroke syndrome,V3,1
+Xa1hE,Extension of cerebrovascular accident,V3,1
+G667.,Left sided cerebral hemisphere cerebrovascular accident,V3,1
+G668.,Right sided cerebral hemisphere cerebrovascular accident,V3,1
+X00D3,CVA - cerebrovascular accident due to cerebral artery occlusion,V3,1
+XE2aB,Stroke and cerebrovascular accident unspecified,V3,1
+XaEGq,Stroke NOS,V3,1
+G66..,Stroke and cerebrovascular accident unspecified,V2,1
+G64..,Infarction - cerebral,V2,1
+G64z0,Brainstem infarction,V2,1
+G64z1,Wallenberg syndrome,V2,1
+G64z.,Brainstem infarction NOS,V2,1
+G666.,Pure sensory lacunar syndrome,V2,1
+G665.,Pure motor lacunar syndrome,V2,1
+G64z4,Infarction of basal ganglia,V2,1
+G6400,Cerebral infarction due to thrombosis of cerebral arteries,V2,1
+G6410,Cerebral infarction due to embolism of cerebral arteries,V2,1
+G6760,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",V2,1
+Gyu63,[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,V2,1
+Gyu64,[X]Other cerebral infarction,V2,1
+Gyu6G,[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,V2,1
+G63..,Infarction - precerebral,V2,1
+G63y0,Cerebral infarct due to thrombosis of precerebral arteries,V2,1
+G63y1,Cerebral infarction due to embolism of precerebral arteries,V2,1
+G64z2,Left sided cerebral infarction,V2,1
+G64z3,Right sided cerebral infarction,V2,1
+G61..,Intracerebral haemorrhage,V2,1
+G619.,Lobar cerebral haemorrhage,V2,1
+G612.,Basal nucleus haemorrhage,V2,1
+G611.,Internal capsule haemorrhage,V2,1
+G615.,Bulbar haemorrhage,V2,1
+G613.,Cerebellar haemorrhage,V2,1
+G610.,Cortical haemorrhage,V2,1
+G61X0,"Left sided intracerebral haemorrhage, unspecified",V2,1
+G61X1,"Right sided intracerebral haemorrhage, unspecified",V2,1
+G616.,External capsule haemorrhage,V2,1
+G618.,"Intracerebral haemorrhage, multiple localized",V2,1
+G61z.,Intracerebral haemorrhage NOS,V2,1
+G640.,Cerebral thrombosis,V2,1
+G663.,Brain stem stroke syndrome,V2,1
+G664.,Cerebellar stroke syndrome,V2,1
+G667.,Left sided CVA,V2,1
+G668.,Right sided CVA,V2,1
+1583,ischaemic stroke,SR,1
+1081,stroke,SR,1
+1491,brain haemorrhage,SR,1
+I64,"Stroke, not specified as haemorrhage or infarction",MD,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",MD,0
+I639,"Cerebral infarction, unspecified",MD,1
+I63,Cerebral infarction,MD,1
+I638,Other cerebral infarction,MD,1
+I679,"Cerebrovascular disease, unspecified",MD,0
+G463,Brain stem stroke syndrome,MD,1
+I668,Occlusion and stenosis of other cerebral artery,MD,0
+I678,Other specified cerebrovascular diseases,MD,0
+I663,Occlusion and stenosis of cerebellar arteries,MD,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,MD,1
+G466,Pure sensory lacunar syndrome,MD,1
+G465,Pure motor lacunar syndrome,MD,1
+I633,Cerebral infarction due to thrombosis of cerebral arteries,MD,1
+I634,Cerebral infarction due to embolism of cerebral arteries,MD,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",MD,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,MD,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,MD,1
+I631,Cerebral infarction due to embolism of precerebral arteries,MD,1
+I619,"Intracerebral haemorrhage, unspecified",MD,1
+I61,Intracerebral haemorrhage,MD,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",MD,0
+P101,Cerebral haemorrhage due to birth injury,MD,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,MD,0
+I620,Subdural haemorrhage (acute)(nontraumatic),MD,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",MD,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",MD,1
+I615,"Intracerebral haemorrhage, intraventricular",MD,1
+I618,Other intracerebral haemorrhage,MD,1
+I613,Intracerebral haemorrhage in brain stem,MD,1
+I614,Intracerebral haemorrhage in cerebellum,MD,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,MD,0
+S068,Other intracranial injuries,MD,0
+I616,"Intracerebral haemorrhage, multiple localized",MD,1
+I691,Sequelae of intracerebral haemorrhage,MD,0
+I669,Occlusion and stenosis of unspecified cerebral artery,MD,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",MD,0
+G464,Cerebellar stroke syndrome,MD,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",MD,1
+I690,Sequelae of subarachnoid haemorrhage,MD,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,MD,0
+I693,Sequelae of cerebral infarction,MD,0
+G467,Other lacunar syndromes,MD,1
+431,intracerebral haemorrhage,ICD9,1
+43301,"Occlusion and stenosis of basilar artery, with cerebral infarction",ICD9,1
+43311,"Occlusion and stenosis of carotid artery, with cerebral infarction",ICD9,1
+43321,"Occlusion and stenosis of vertebral artery, with cerebral infarction",ICD9,1
+43331,"Occlusion and stenosis of multiple and bilateral precerebral arteries, with cerebral infarction",ICD9,1
+43381,"Occlusion and stenosis of other specified precerebral artery, with cerebral infarction",ICD9,1
+43391,"Unspecified precerebral artery, with cerebral infarction",ICD9,1
+43401,"Cerebral thrombosis, with cerebral infarction",ICD9,1
+43411,"Cerebral embolism, with cerebral infarction",ICD9,1
+43491,"Cerebral artery occlusion, unspecified, with cerebral infarction",ICD9,1
+I64,"Stroke, not specified as haemorrhage or infarction",ICD10,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",ICD10,0
+I639,"Cerebral infarction, unspecified",ICD10,1
+I63,Cerebral infarction,ICD10,1
+I638,Other cerebral infarction,ICD10,1
+I679,"Cerebrovascular disease, unspecified",ICD10,0
+G463,Brain stem stroke syndrome,ICD10,1
+I668,Occlusion and stenosis of other cerebral artery,ICD10,0
+I678,Other specified cerebrovascular diseases,ICD10,0
+I663,Occlusion and stenosis of cerebellar arteries,ICD10,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,ICD10,1
+G466,Pure sensory lacunar syndrome,ICD10,1
+G465,Pure motor lacunar syndrome,ICD10,1
+I633,Cerebral infarction due to thrombosis of cerebral arteries,ICD10,1
+I634,Cerebral infarction due to embolism of cerebral arteries,ICD10,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",ICD10,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,ICD10,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,ICD10,1
+I631,Cerebral infarction due to embolism of precerebral arteries,ICD10,1
+I619,"Intracerebral haemorrhage, unspecified",ICD10,1
+I61,Intracerebral haemorrhage,ICD10,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",ICD10,0
+P101,Cerebral haemorrhage due to birth injury,ICD10,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,ICD10,0
+I620,Subdural haemorrhage (acute)(nontraumatic),ICD10,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",ICD10,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",ICD10,1
+I615,"Intracerebral haemorrhage, intraventricular",ICD10,1
+I618,Other intracerebral haemorrhage,ICD10,1
+I613,Intracerebral haemorrhage in brain stem,ICD10,1
+I614,Intracerebral haemorrhage in cerebellum,ICD10,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,ICD10,0
+S068,Other intracranial injuries,ICD10,0
+I616,"Intracerebral haemorrhage, multiple localized",ICD10,1
+I691,Sequelae of intracerebral haemorrhage,ICD10,0
+I669,Occlusion and stenosis of unspecified cerebral artery,ICD10,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",ICD10,0
+G464,Cerebellar stroke syndrome,ICD10,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",ICD10,1
+I690,Sequelae of subarachnoid haemorrhage,ICD10,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,ICD10,0
+I693,Sequelae of cerebral infarction,ICD10,0
+G467,Other lacunar syndromes,ICD10,1
+I64,"Stroke, not specified as haemorrhage or infarction",cancer,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",cancer,0
+I639,"Cerebral infarction, unspecified",cancer,1
+I63,Cerebral infarction,cancer,1
+I638,Other cerebral infarction,cancer,1
+I679,"Cerebrovascular disease, unspecified",cancer,0
+G463,Brain stem stroke syndrome,cancer,1
+I668,Occlusion and stenosis of other cerebral artery,cancer,0
+I678,Other specified cerebrovascular diseases,cancer,0
+I663,Occlusion and stenosis of cerebellar arteries,cancer,0
+I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,cancer,1
+G466,Pure sensory lacunar syndrome,cancer,1
+G465,Pure motor lacunar syndrome,cancer,1
+I633,Cerebral infarction due to thrombosis of cerebral arteries,cancer,1
+I634,Cerebral infarction due to embolism of cerebral arteries,cancer,1
+I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",cancer,1
+I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,cancer,1
+I630,Cerebral infarction due to thrombosis of precerebral arteries,cancer,1
+I631,Cerebral infarction due to embolism of precerebral arteries,cancer,1
+I619,"Intracerebral haemorrhage, unspecified",cancer,1
+I61,Intracerebral haemorrhage,cancer,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",cancer,0
+P101,Cerebral haemorrhage due to birth injury,cancer,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,cancer,0
+I620,Subdural haemorrhage (acute)(nontraumatic),cancer,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",cancer,1
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",cancer,1
+I615,"Intracerebral haemorrhage, intraventricular",cancer,1
+I618,Other intracerebral haemorrhage,cancer,1
+I613,Intracerebral haemorrhage in brain stem,cancer,1
+I614,Intracerebral haemorrhage in cerebellum,cancer,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,cancer,0
+S068,Other intracranial injuries,cancer,0
+I616,"Intracerebral haemorrhage, multiple localized",cancer,1
+I691,Sequelae of intracerebral haemorrhage,cancer,0
+I669,Occlusion and stenosis of unspecified cerebral artery,cancer,0
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",cancer,0
+G464,Cerebellar stroke syndrome,cancer,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",cancer,1
+I690,Sequelae of subarachnoid haemorrhage,cancer,0
+I692,Sequelae of other nontraumatic intracranial haemorrhage,cancer,0
+I693,Sequelae of cerebral infarction,cancer,0
+G467,Other lacunar syndromes,cancer,1

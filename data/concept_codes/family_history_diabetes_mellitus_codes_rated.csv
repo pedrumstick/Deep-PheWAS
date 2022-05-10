@@ -1,0 +1,9 @@
+Code,Description,Source,Decision
+1252.,FH: Diabetes mellitus,V3,1
+12520,Family history of diabetes mellitus type 1,V2,1
+12521,Family history of diabetes mellitus type 1,V2,1
+XaVw4,Family history of diabetes mellitus type II,V3,1
+XaVw3,Family history of diabetes mellitus type 1,V3,1
+Z833,Family history of diabetes mellitus,ICD10,1
+Z833,Family history of diabetes mellitus,cancer,1
+Z833,Family history of diabetes mellitus,MD,1

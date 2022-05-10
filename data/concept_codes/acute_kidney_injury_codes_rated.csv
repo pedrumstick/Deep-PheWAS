@@ -1,0 +1,206 @@
+Code,Description,Source,Decision
+K04..,Acute kidney injury,V3,1
+Xaa8Q,Acute kidney injury stage 3,V3,1
+Xaa8P,Acute kidney injury stage 2,V3,1
+Xaa8O,Acute kidney injury stage 1,V3,1
+XaZe5,Acute renal failure due to traumatic rhabdomyolysis,V3,0
+XaZSx,Acute renal failure due to non-traumatic rhabdomyolysis,V3,1
+XaPwv,Acute renal failure due to urinary obstruction,V3,1
+XM08q,Prerenal renal failure,V3,0
+Xa85t,Post-renal renal failure,V3,0
+K040.,Acute tubular necrosis,V3,1
+X30Ip,Postoperative acute tubular necrosis,V3,1
+X30Iq,Post-traumatic acute tubular necrosis,V3,1
+K041.,Acute cortical necrosis,V3,1
+K034.,Renal cortical necrosis unspecified,V3,1
+X30Ir,Nephrotoxic acute renal failure,V3,1
+XaZZ2,Acute renal failure induced by solvent,V3,1
+XaZYv,Acute renal failure induced by poison,V3,1
+XaZZ0,Acute renal failure induced by radiographic contrast media,V3,1
+XaZUa,Acute renal failure induced by heavy metal,V3,1
+XaZUZ,Acute renal failure induced by plant toxin,V3,1
+XaZUY,Acute renal failure induced by animal toxin,V3,1
+X30Is,Acute drug-induced renal failure,V3,1
+XaZPu,Acute renal failure induced by non-steroidal anti-inflammatory drug,V3,1
+XaZPt,Acute renal failure induced by cyclosporin A,V3,1
+XaZPs,Acute renal failure induced by cisplatin,V3,1
+XaZPp,Acute renal failure induced by aminoglycoside,V3,1
+XaZ6J,Acute renal failure due to angiotensin-converting-enzyme inhibitor,V3,1
+J624.,Hepatorenal syndrome,V3,0
+SP143,Hepatorenal syndrome as a complication of care,V3,0
+X30Ix,Pulmonary renal syndrome,V3,0
+L393.,Postpartum acute renal failure,V3,0
+L3930,Post-delivery acute renal failure unspecified,V3,0
+L3931,Post-delivery acute renal failure - delivered with postnatal problem,V3,0
+L3932,Post-delivery acute renal failure with postnatal problem,V3,0
+L393z,Post-delivery acute renal failure NOS,V3,0
+XaB3Y,Transient acute renal failure,V3,0
+K04y.,Other acute renal failure,V3,1
+K04z.,Acute renal failure NOS,V3,1
+XM199,[EDTA] Cortical or tubular necrosis associated with renal failure,V3,1
+XaebJ,H/O: acute kidney injury,V3,1
+Xabu1,At risk of acute kidney injury,V3,0
+XabmE,Acute kidney injury warning stage,V3,0
+Xabuj,Provision of written information about acute kidney injury,V3,0
+X30Im,Acute renal impairment,V3,1
+X30Iv,Traumatic anuria - crush syndrome,V3,0
+XE1oB,Acute renal failure due to crush syndrome,V3,0
+K04..,Acute kidney injury,V2,1
+K04E.,Acute kidney injury stage 3,V2,1
+K04D.,Acute kidney injury stage 2,V2,1
+K04C.,Acute kidney injury stage 1,V2,1
+K04B.,Acute renal failure due to traumatic rhabdomyolysis,V2,0
+K045.,Acute renal failure due to non-traumatic rhabdomyolysis,V2,1
+K044.,Acute renal failure due to urinary obstruction,V2,1
+K040.,Acute renal tubular necrosis,V2,1
+K041.,Acute renal cortical necrosis,V2,1
+K034.,Renal cortical necrosis unspecified,V2,1
+K046.,Acute renal failure induced by toxin,V2,1
+K04A.,Acute renal failure induced by solvent,V2,1
+K048.,Acute renal failure induced by poison,V2,1
+K049.,Acute renal failure induced by radiographic contrast media,V2,1
+K047.,Acute renal failure induced by heavy metal,V2,1
+K0461,Acute renal failure induced by plant toxin,V2,1
+K0460,Acute renal failure induced by animal toxin,V2,1
+K043.,Acute drug-induced renal failure,V2,1
+K0434,Acute renal failure induced by non-steroidal anti-inflammatory drug,V2,1
+K0433,Acute renal failure induced by cyclosporin A,V2,1
+K0432,Acute renal failure induced by cisplatin,V2,1
+K0431,Acute renal failure induced by aminoglycoside,V2,1
+K0430,Acute renal failure due to ACE inhibitor,V2,1
+J624.,Hepatorenal syndrome,V2,0
+SP143,Hepatorenal syndrome as a complication of care,V2,0
+L393.,Acute renal failure following labour and delivery,V2,0
+L3930,Post-delivery acute renal failure unspecified,V2,0
+L3931,Post-delivery acute renal failure - delivered with postnatal problem,V2,0
+L3932,Post-delivery acute renal failure with postnatal problem,V2,0
+L393z,Post-delivery acute renal failure NOS,V2,0
+K04y.,Other acute renal failure,V2,1
+K04z.,Acute renal failure NOS,V2,1
+14D8.,H/O: acute kidney injury,V2,1
+14Om.,At risk of acute kidney injury,V2,0
+451L.,Acute kidney injury warning stage,V2,0
+8OAG.,Provision of written information about acute kidney injury,V2,0
+K060.,Renal impairment,V2,0
+SK05.,Traumatic anuria - crush syndrome,V2,0
+1192,renal/kidney failure,SR,0
+N179,"Acute renal failure, unspecified",MD,1
+N17,Acute renal failure,MD,1
+N990,Postprocedural renal failure,MD,1
+O033,Spontaneous abortion,MD,0
+O038,Spontaneous abortion,MD,0
+O043,Medical abortion,MD,0
+O048,Medical abortion,MD,0
+O053,Other abortion,MD,0
+O058,Other abortion,MD,0
+O063,Unspecified abortion,MD,0
+O068,Unspecified abortion,MD,0
+O078,"Other and unspecified failed attempted abortion, with other and unspecified complications",MD,0
+O084,Renal failure following abortion and ectopic and molar pregnancy,MD,0
+O904,Postpartum acute renal failure,MD,0
+T795,Traumatic anuria,MD,0
+M628,Other specified disorders of muscle,MD,0
+N139,"Obstructive and reflux uropathy, unspecified",MD,0
+N13,Obstructive and reflux uropathy,MD,0
+R392,Extrarenal uraemia,MD,0
+N170,Acute renal failure with tubular necrosis,MD,1
+O268,Other specified pregnancy-related conditions,MD,0
+N171,Acute renal failure with acute cortical necrosis,MD,1
+N144,"Toxic nephropathy, not elsewhere classified",MD,0
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,MD,0
+N141,"Nephropathy induced by other drugs, medicaments and biological substances",MD,0
+Y575,X-ray contrast media,MD,0
+N143,Nephropathy induced by heavy metals,MD,0
+Y453,Other nonsteroidal anti-inflammatory drugs [NSAID],MD,0
+Y434,Immunosuppressive agents,MD,0
+Y433,Other antineoplastic drugs,MD,0
+Y405,Aminoglycosides,MD,0
+Y524,Angiotensin-converting-enzyme inhibitors,MD,0
+K767,Hepatorenal syndrome,MD,0
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",MD,0
+M310,Hypersensitivity angiitis,MD,0
+N172,Acute renal failure with medullary necrosis,MD,1
+N19,Unspecified kidney failure,MD,0
+N178,Other acute renal failure,MD,1
+5845,Acute renal failure with lesion of tubular necrosis,ICD9,1
+5846,Acute renal failure with lesion of renal cortical necrosis,ICD9,1
+5847,Acute renal failure with lesion of renal medullary (papillary) necrosis,ICD9,1
+5848,Acute renal failure with other specified pathological lesion in kidney,ICD9,1
+5849," Acute renal failure, unspecified",ICD9,1
+584,Acute renal failure,ICD9,1
+N179,"Acute renal failure, unspecified",ICD10,1
+N17,Acute renal failure,ICD10,1
+N990,Postprocedural renal failure,ICD10,1
+O033,Spontaneous abortion,ICD10,0
+O038,Spontaneous abortion,ICD10,0
+O043,Medical abortion,ICD10,0
+O048,Medical abortion,ICD10,0
+O053,Other abortion,ICD10,0
+O058,Other abortion,ICD10,0
+O063,Unspecified abortion,ICD10,0
+O068,Unspecified abortion,ICD10,0
+O078,"Other and unspecified failed attempted abortion, with other and unspecified complications",ICD10,0
+O084,Renal failure following abortion and ectopic and molar pregnancy,ICD10,0
+O904,Postpartum acute renal failure,ICD10,0
+T795,Traumatic anuria,ICD10,0
+M628,Other specified disorders of muscle,ICD10,0
+N139,"Obstructive and reflux uropathy, unspecified",ICD10,0
+N13,Obstructive and reflux uropathy,ICD10,0
+R392,Extrarenal uraemia,ICD10,0
+N170,Acute renal failure with tubular necrosis,ICD10,1
+O268,Other specified pregnancy-related conditions,ICD10,0
+N171,Acute renal failure with acute cortical necrosis,ICD10,1
+N144,"Toxic nephropathy, not elsewhere classified",ICD10,0
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,ICD10,0
+N141,"Nephropathy induced by other drugs, medicaments and biological substances",ICD10,0
+Y575,X-ray contrast media,ICD10,0
+N143,Nephropathy induced by heavy metals,ICD10,0
+Y453,Other nonsteroidal anti-inflammatory drugs [NSAID],ICD10,0
+Y434,Immunosuppressive agents,ICD10,0
+Y433,Other antineoplastic drugs,ICD10,0
+Y405,Aminoglycosides,ICD10,0
+Y524,Angiotensin-converting-enzyme inhibitors,ICD10,0
+K767,Hepatorenal syndrome,ICD10,0
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",ICD10,0
+M310,Hypersensitivity angiitis,ICD10,0
+N172,Acute renal failure with medullary necrosis,ICD10,1
+N19,Unspecified kidney failure,ICD10,0
+N178,Other acute renal failure,ICD10,1
+N179,"Acute renal failure, unspecified",cancer,1
+N17,Acute renal failure,cancer,1
+N990,Postprocedural renal failure,cancer,1
+O033,Spontaneous abortion,cancer,0
+O038,Spontaneous abortion,cancer,0
+O043,Medical abortion,cancer,0
+O048,Medical abortion,cancer,0
+O053,Other abortion,cancer,0
+O058,Other abortion,cancer,0
+O063,Unspecified abortion,cancer,0
+O068,Unspecified abortion,cancer,0
+O078,"Other and unspecified failed attempted abortion, with other and unspecified complications",cancer,0
+O084,Renal failure following abortion and ectopic and molar pregnancy,cancer,0
+O904,Postpartum acute renal failure,cancer,0
+T795,Traumatic anuria,cancer,0
+M628,Other specified disorders of muscle,cancer,0
+N139,"Obstructive and reflux uropathy, unspecified",cancer,0
+N13,Obstructive and reflux uropathy,cancer,0
+R392,Extrarenal uraemia,cancer,0
+N170,Acute renal failure with tubular necrosis,cancer,1
+O268,Other specified pregnancy-related conditions,cancer,0
+N171,Acute renal failure with acute cortical necrosis,cancer,1
+N144,"Toxic nephropathy, not elsewhere classified",cancer,0
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,cancer,0
+N141,"Nephropathy induced by other drugs, medicaments and biological substances",cancer,0
+Y575,X-ray contrast media,cancer,0
+N143,Nephropathy induced by heavy metals,cancer,0
+Y453,Other nonsteroidal anti-inflammatory drugs [NSAID],cancer,0
+Y434,Immunosuppressive agents,cancer,0
+Y433,Other antineoplastic drugs,cancer,0
+Y405,Aminoglycosides,cancer,0
+Y524,Angiotensin-converting-enzyme inhibitors,cancer,0
+K767,Hepatorenal syndrome,cancer,0
+K918,"Other postprocedural disorders of digestive system, not elsewhere classified",cancer,0
+M310,Hypersensitivity angiitis,cancer,0
+N172,Acute renal failure with medullary necrosis,cancer,1
+N19,Unspecified kidney failure,cancer,0
+N178,Other acute renal failure,cancer,1

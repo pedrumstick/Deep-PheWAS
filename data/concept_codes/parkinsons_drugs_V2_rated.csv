@@ -1,0 +1,217 @@
+read_code,term_description,status_flag,Decision
+dq1..,LEVODOPA,0,1
+dq11.,*LEVODOPA 125mg capsules,1,1
+dq12.,*LEVODOPA 250mg capsules,1,1
+dq13.,*LEVODOPA 500mg capsules,1,1
+dq14.,*LEVODOPA 500mg tablets,1,1
+dq15.,*BROCADOPA 125mg capsules,1,1
+dq16.,*BROCADOPA 250mg capsules,1,1
+dq17.,*BROCADOPA 500mg capsules,1,1
+dq18.,*LARODOPA 500mg tablets,1,1
+dq2..,LEVODOPA WITH BENSERAZIDE,0,1
+dq21.,MADOPAR-62.5 capsules,0,1
+dq22.,MADOPAR-125 capsules,0,1
+dq23.,MADOPAR-250 capsules,0,1
+dq24.,MADOPAR-62.5 dispersible tablets,0,1
+dq25.,MADOPAR-125 dispersible tablets,0,1
+dq26.,MADOPAR CR-125 m/r capsules,0,1
+dq27.,CO-BENELDOPA 12.5/50 capsules,0,1
+dq28.,CO-BENELDOPA 25/100 capsules,0,1
+dq29.,CO-BENELDOPA 50/200 capsules,0,1
+dq2a.,CO-BENELDOPA 12.5/50 dispersible tablets,0,1
+dq2b.,CO-BENELDOPA 25/100 m/r capsules,0,1
+dq2c.,CO-BENELDOPA 25/100 dispersible tablets,0,1
+dq3..,LEVODOPA WITH CARBIDOPA,0,1
+dq31.,SINEMET-110 tablets,0,1
+dq32.,SINEMET-275 tablets,0,1
+dq33.,SINEMET-PLUS tablets,0,1
+dq34.,SINEMET LS tablets,0,1
+dq35.,CO-CARELDOPA 12.5/50 tablets,0,1
+dq36.,CO-CARELDOPA 10/100 tablets,0,1
+dq37.,CO-CARELDOPA 25/100 tablets,0,1
+dq38.,CO-CARELDOPA 25/250 tablets,0,1
+dq39.,SINEMET CR m/r tablets,0,1
+dq3a.,CO-CARELDOPA 50/200 m/r tablets,0,1
+dq3A.,HALF-SINEMET CR m/r tablets,0,1
+dq3b.,CO-CARELDOPA 25mg/100mg m/r tablets,0,1
+dq3B.,STALEVO 50mg / 12.5mg / 200mg tablets,0,1
+dq3c.,STANEK 175mg/43.75mg/200mg tablets,0,1
+dq3C.,STALEVO 100mg / 25mg / 200mg tablets,0,1
+dq3d.,STANEK 200mg/50mg/200mg tablets,0,1
+dq3D.,STALEVO 150mg /37.5mg / 200mg tablets,0,1
+dq3E.,TILOLEC 100mg/25mg m/r tablets,1,1
+dq3F.,TILOLEC 200mg/50mg m/r tablets,0,1
+dq3G.,DUODOPA 5mg/20mg/mL intestinal gel cassette 100mL,0,1
+dq3H.,CARAMET CR 25mg/100mg m/r tablets,0,1
+dq3I.,CARAMET CR 50mg/200mg m/r tablets,0,1
+dq3J.,STALEVO 200mg/50mg/200mg tablets,0,1
+dq3K.,STALEVO 125mg/31.25mg/200mg tablets,0,1
+dq3L.,STALEVO 75mg/18.75mg/200mg tablets,0,1
+dq3M.,STALEVO 175mg/43.75mg/200mg tablets,0,1
+dq3N.,SASTRAVI 50mg/12.5mg/200mg tablets,0,1
+dq3O.,SASTRAVI 75mg/18.75mg/200mg tablets,0,1
+dq3P.,SASTRAVI 100mg/25mg/200mg tablets,0,1
+dq3Q.,SASTRAVI 125mg/31.25mg/200mg tablets,0,1
+dq3R.,SASTRAVI 150mg/37.5mg/200mg tablets,0,1
+dq3s.,LEVODOPA 175mg/CARBIDOPA 43.75mg/ENTACAPONE 200mg tablets,0,1
+dq3S.,SASTRAVI 175mg/43.75mg/200mg tablets,0,1
+dq3t.,LEVODOPA 75mg/CARBIDOPA 18.75mg/ENTACAPONE 200mg tablets,0,1
+dq3T.,SASTRAVI 200mg/50mg/200mg tablets,0,1
+dq3u.,LEVODOPA 125mg/CARBIDOPA 31.25mg/ENTACAPONE 200mg tablets,0,1
+dq3U.,STANEK 50mg/12.5mg/200mg tablets,0,1
+dq3v.,LEVODOPA 200mg/CARBIDOPA 50mg/ENTACAPONE 200mg tablets,0,1
+dq3V.,STANEK 75mg/18.75mg/200mg tablets,0,1
+dq3w.,CO-CARELDOPA 5mg/20mg/mL intestinal gel casette 100mL,0,1
+dq3x.,LEVODOPA 150mg / CARBIDOPA 37.5mg / ENTACAPONE 200mg tablets,0,1
+dq3X.,STANEK 100mg/25mg/200mg tablets,0,1
+dq3y.,LEVODOPA 100mg / CARBIDOPA 25mg / ENTACAPONE 200mg tablets,0,1
+dq3Y.,STANEK 125mg/31.25mg/200mg tablets,0,1
+dq3z.,LEVODOPA 50mg / CARBIDOPA 12.5mg / ENTACAPONE 200mg tablets,0,1
+dq3Z.,STANEK 150mg/37.5mg/200mg tablets,0,1
+dq4..,AMANTADINE HYDROCHLORIDE [PARKINSONS],0,1
+dq41.,SYMMETREL [PARK] 100mg capsules,1,1
+dq42.,SYMMETREL [PARK] 50mg/5mL syrup,1,1
+dq43.,*MANTADINE 100mg capsules,1,1
+dq44.,AMANTADINE HYDROCHLORIDE 50mg/5mL syrup,0,1
+dq4z.,AMANTADINE HYDROCHLORIDE 100mg capsules,0,1
+dq5..,BROMOCRIPTINE [PARKINSONS],0,1
+dq51.,*PARLODEL [PARK] 1mg tablets,1,1
+dq52.,*PARLODEL [PARK] 2.5mg tablets,1,1
+dq53.,PARLODEL [PARK] 5mg capsules,0,1
+dq54.,PARLODEL [PARK] 10mg capsules,0,1
+dq55.,*PARLODEL STARTER,1,1
+dq56.,BROMOCRIPTINE [PARK] 1mg tablets,0,1
+dq57.,BROMOCRIPTINE [PARK] 5mg capsules,0,1
+dq5y.,BROMOCRIPTINE 2.5mg tablets,0,1
+dq5z.,BROMOCRIPTINE 10mg capsules,0,1
+dq6..,SELEGILINE,0,1
+dq61.,ELDEPRYL 5mg tablets,0,1
+dq62.,ELDEPRYL 10mg tablets,0,1
+dq63.,*ELDEPRYL 10mg/5mL syrup,1,1
+dq64.,*VIVAPRYL 5mg tablets,1,1
+dq65.,*VIVAPRYL 10mg tablets,1,1
+dq66.,*STILLINE 5mg tablets,1,1
+dq67.,*STILLINE 10mg tablets,1,1
+dq68.,*CENTRAPRYL 5 tablets,1,1
+dq69.,*CENTRAPRYL 10 tablets,1,1
+dq6A.,ZELAPAR 1.25mg tablets,0,1
+dq6w.,SELEGILINE HYDROCHLORIDE 1.25mg tablets,0,1
+dq6x.,SELEGILINE HYDROCHLORIDE 10mg/5mL syrup,1,1
+dq6y.,SELEGILINE HYDROCHLORIDE 10mg tablets,0,1
+dq6z.,SELEGILINE HYDROCHLORIDE 5mg tablets,0,1
+dq8..,PERGOLIDE MESYLATE,0,1
+dq81.,PERGOLIDE 50micrograms tablets,0,1
+dq82.,PERGOLIDE 250micrograms tablets,0,1
+dq83.,PERGOLIDE 1mg tablets,0,1
+dq84.,*CELANCE 50micrograms tablets,1,1
+dq85.,*CELANCE 250micrograms tablets,1,1
+dq86.,*CELANCE 1mg tablets,1,1
+dq87.,CELANCE 50micrograms tablets starter pack,1,1
+dq88.,PERGOLIDE 50micrograms tablets starter pack,1,1
+dq89.,PERGOLIDE 50micrograms+250micrograms tablets starter pack,0,1
+dq8A.,CELANCE 50micrograms+250micrograms tablets starter pack,1,1
+dq9..,APOMORPHINE HYDROCHLORIDE,0,1
+dq91.,*BRITAJECT 20mg/2mL injection,1,1
+dq92.,APOMORPHINE HYDROCHLORIDE 20mg/2mL injection,0,1
+dq93.,*BRITAJECT 50mg/5mL injection,1,1
+dq94.,APOMORPHINE HYDROCHLORIDE 50mg/5mL injection,0,1
+dq95.,APOMORPHINE HYDROCHLORIDE 30mg/3mL prefilled pen,0,1
+dq96.,BRITAJECT 30mg/3mL prefilled pen,1,1
+dq97.,APO-GO 20mg/2mL injection,0,1
+dq98.,APO-GO 50mg/5mL injection,0,1
+dq99.,APO-GO 30mg/3mL prefilled pen,0,1
+dq9A.,APO-GO PFS 50mg/10mL injection solution prefilled syringe,0,1
+dq9z.,APOMORPHINE HYDROCHLORIDE 50mg/10mL prefilled syringe,0,1
+dqA..,ROPINIROLE HYDROCHLORIDE,0,1
+dqA1.,ROPINIROLE 0.25mg tablets,0,1
+dqA2.,ROPINIROLE 1mg tablets,0,1
+dqA3.,ROPINIROLE 2mg tablets,0,1
+dqA4.,ROPINIROLE 5mg tablets,0,1
+dqA5.,*REQUIP 0.25mg tablets,1,1
+dqA6.,REQUIP 1mg tablets,0,1
+dqA7.,REQUIP 2mg tablets,0,1
+dqA8.,REQUIP 5mg tablets,0,1
+dqA9.,ROPINIROLE 250micrograms+500micrograms+1000micrograms tablets starter pack,0,1
+dqAa.,ROPINIROLE 500micrograms+1mg+2mg tablets follow on pack,0,1
+dqAb.,REQUIP tablets starter pack,0,1
+dqAc.,REQUIP tablets follow-on pack,0,1
+dqAd.,ADARTREL 2mg tablets,0,1
+dqAe.,ROPINIROLE 500micrograms tablets,0,1
+dqAf.,ADARTREL 500micrograms tablets,0,1
+dqAg.,REQUIP XL 2mg m/r tablets,0,1
+dqAh.,REQUIP XL 4mg m/r tablets,0,1
+dqAi.,REQUIP XL 8mg m/r tablets,0,1
+dqAj.,ROPINIROLE 2mg m/r tablets,0,1
+dqAk.,ROPINIROLE 4mg m/r tablets,0,1
+dqAl.,ROPINIROLE 8mg m/r tablets,0,1
+dqAm.,REPINEX XL 2mg m/r tablets,0,1
+dqAn.,REPINEX XL 4mg m/r tablets,0,1
+dqAo.,REPINEX XL 8mg m/r tablets,0,1
+dqAp.,RAPONER XL 2mg m/r tablets,0,1
+dqAq.,RAPONER XL 3mg m/r tablets,0,1
+dqAr.,ROPINIROLE 3mg m/r tablets,0,1
+dqAs.,RAPONER XL 4mg m/r tablets,0,1
+dqAt.,RAPONER XL 6mg m/r tablets,0,1
+dqAu.,ROPINIROLE 6mg m/r tablets,0,1
+dqAv.,RAPONER XL 8mg m/r tablets,0,1
+dqAw.,AIMPART XL 2mg m/r tablets,0,1
+dqAx.,AIMPART XL 4mg m/r tablets,0,1
+dqAy.,AIMPART XL 8mg m/r tablets,0,1
+dqB..,CABERGOLINE [PARKINSONS],0,1
+dqB1.,CABERGOLINE 1mg tablets,0,1
+dqB2.,CABERGOLINE 2mg tablets,0,1
+dqB3.,CABERGOLINE 4mg tablets,0,1
+dqB4.,CABASER 1mg tablets,0,1
+dqB5.,CABASER 2mg tablets,0,1
+dqB6.,*CABASER 4mg tablets,1,1
+dqD..,ENTACAPONE,0,1
+dqD1.,ENTACAPONE 200mg tablets,0,1
+dqD2.,COMTESS 200mg tablets,0,1
+dqE..,PRAMIPEXOLE,0,1
+dqE1.,MIRAPEXIN 88micrograms tablets,0,1
+dqE2.,MIRAPEXIN 180micrograms tablets,0,1
+dqE3.,MIRAPEXIN 700micrograms tablets,0,1
+dqE4.,MIRAPEXIN 350micrograms tablets,0,1
+dqE5.,MIRAPEXIN 260micrograms m/r tablets,0,1
+dqE6.,MIRAPEXIN 520micrograms m/r tablets,0,1
+dqE7.,MIRAPEXIN 1.05mg m/r tablets,0,1
+dqE8.,MIRAPEXIN 2.1mg m/r tablets,0,1
+dqE9.,MIRAPEXIN 3.15mg m/r tablets,0,1
+dqEA.,MIRAPEXIN 1.57mg m/r tablets,0,1
+dqEB.,MIRAPEXIN 2.62mg m/r tablets,0,1
+dqEo.,PRAMIPEXOLE 1.1mg tablets,0,1
+dqEp.,PRAMIPEXOLE 2.62mg m/r tablets,0,1
+dqEq.,PRAMIPEXOLE 1.57mg m/r tablets,0,1
+dqEr.,PRAMIPEXOLE 3.15mg m/r tablets,0,1
+dqEs.,PRAMIPEXOLE 2.1mg m/r tablets,0,1
+dqEt.,PRAMIPEXOLE 1.05mg m/r tablets,0,1
+dqEu.,PRAMIPEXOLE 520micrograms m/r tablets,0,1
+dqEv.,PRAMIPEXOLE 260micrograms m/r tablets,0,1
+dqEw.,PRAMIPEXOLE 350micrograms tablets,0,1
+dqEx.,PRAMIPEXOLE 88micrograms tablets,0,1
+dqEy.,PRAMIPEXOLE 180micrograms tablets,0,1
+dqEz.,PRAMIPEXOLE 700micrograms tablets,0,1
+dqF..,RASAGILINE,0,1
+dqF1.,AZILECT 1mg tablets,0,1
+dqFz.,RASAGILINE 1mg tablets,0,1
+ei2..,AMANTADINE HYDROCHLORIDE [ANTI VIRAL],0,0
+ei21.,*SYMMETREL 100mg capsules,1,1
+ei22.,*SYMMETREL 50mg/5mL syrup,1,1
+ei23.,*AMANTADINE 100mg capsules,1,1
+ei24.,*AMANTADINE 50mg/5mL syrup,1,1
+ei2y.,AMANTADINE HYDROCHLORIDE 100mg capsules,0,1
+ei2z.,AMANTADINE HYDROCHLORIDE 50mg/5mL syrup,0,1
+fp...,BROMOCRIPTINE [ENDOCRINE],0,0
+fp1..,BROMOCRIPTINE [ENDOCRINE],0,0
+fp11.,*PARLODEL 1mg tablets,1,1
+fp12.,*PARLODEL 2.5mg tablets,1,1
+fp13.,BROMOCRIPTINE 2.5mg tablets,0,1
+fp14.,PARLODEL 10mg capsules,0,1
+fp15.,BROMOCRIPTINE 10mg capsules,0,1
+fp1y.,BROMOCRIPTINE 1mg tablets,0,1
+fp1z.,BROMOCRIPTINE 5mg capsules,0,1
+fu1..,CABERGOLINE,0,1
+fu11.,CABERGOLINE 500micrograms tablets,0,1
+gh6..,APOMORPHINE HYDROCHLORIDE [ERECTILE DYSFUNCTION],0,0
+gh61.,APOMORPHINE HYDROCHLORIDE 2mg sublingual tablets,1,1
+gh62.,APOMORPHINE HYDROCHLORIDE 3mg sublingual tablets,1,1

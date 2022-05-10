@@ -1,0 +1,41 @@
+Code,Description,Source,Decision
+F20..,Multiple sclerosis,V3,1
+XaP1V,Secondary progressive multiple sclerosis,V3,1
+XaP1B,Relapsing and remitting multiple sclerosis,V3,1
+XaP0r,Primary progressive multiple sclerosis,V3,1
+XaP0X,Malignant multiple sclerosis,V3,1
+XaOzZ,Benign multiple sclerosis,V3,1
+X005c,Acute relapsing multiple sclerosis,V3,1
+X005d,Chronic progressive multiple sclerosis,V3,1
+X005e,Remittent-progressive multiple sclerosis,V3,1
+F200.,Multiple sclerosis of the brainstem,V3,1
+F201.,Multiple sclerosis of the spinal cord,V3,1
+F202.,Generalised multiple sclerosis,V3,1
+F203.,Exacerbation of multiple sclerosis,V3,1
+F20z.,Multiple sclerosis NOS,V3,1
+XaPSY,Management of multiple sclerosis in onset phase,V3,1
+XaPSb,Management of multiple sclerosis in progressive disability phase,V3,1
+XaPSc,Management of multiple sclerosis in palliative phase,V3,1
+XaPSZ,Management of multiple sclerosis in early disease phase,V3,1
+XaPSa,Management of multiple sclerosis in stable disability phase,V3,1
+F20..,Multiple sclerosis,V2,1
+F208.,Secondary progressive multiple sclerosis,V2,1
+F207.,Relapsing and remitting multiple sclerosis,V2,1
+F206.,Primary progressive multiple sclerosis,V2,1
+F205.,Malignant multiple sclerosis,V2,1
+F204.,Benign multiple sclerosis,V2,1
+F200.,Multiple sclerosis of the brain stem,V2,1
+F201.,Multiple sclerosis of the spinal cord,V2,1
+F202.,Generalised multiple sclerosis,V2,1
+F203.,Exacerbation of multiple sclerosis,V2,1
+F20z.,Multiple sclerosis NOS,V2,1
+8Cc0.,Management of multiple sclerosis in onset phase,V2,1
+8Cc3.,Management of multiple sclerosis in progressive disability phase,V2,1
+8Cc4.,Management of multiple sclerosis in palliative phase,V2,1
+8Cc1.,Management of multiple sclerosis in early disease phase,V2,1
+8Cc2.,Management of multiple sclerosis in stable disability phase,V2,1
+1261,multiple sclerosis,SR,1
+G35,Multiple sclerosis,MD,1
+340,Multiple sclerosis,ICD9,1
+G35,Multiple sclerosis,ICD10,1
+G35,Multiple sclerosis,cancer,1

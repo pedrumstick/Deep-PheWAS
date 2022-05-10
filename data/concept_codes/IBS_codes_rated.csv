@@ -1,0 +1,20 @@
+Code,Description,Source,Decision
+K58,Irritable bowel syndrome,ICD10,1
+K58,Irritable bowel syndrome,MD,1
+K58,Irritable bowel syndrome,cancer,1
+1154,irritable bowel syndrome,SR,1
+5641,irritable bowel syndrome,ICD9,1
+K580,Irritable bowel syndrome with diarrhoea,ICD10,1
+K589,Irritable bowel syndrome without diarrohoea,ICD10,1
+K580,Irritable bowel syndrome with diarrhoea,MD,1
+K589,Irritable bowel syndrome without diarrohoea,MD,1
+K580,Irritable bowel syndrome with diarrhoea,cancer,1
+K589,Irritable bowel syndrome without diarrohoea,cancer,1
+XE0as,Irritable bowel syndrome,V3,1
+XabiQ,Irritable bowel syndrome characterised by alternating bowel habit,V3,1
+XabiP,Irritable bowel syndrome characterised by constipation,V3,1
+J5210,Irritable bowel syndrome with diarrhoea,V3,1
+J521.,Irritable bowel syndrome,V2,1
+J5211,Irritable bowel syndrome characterised by constipation,V2,1
+J5210,Irritable bowel syndrome with diarrhoea,V2,1
+J5212,Irritable bowel syndrome characterised by alternating bowel habit,V2,1

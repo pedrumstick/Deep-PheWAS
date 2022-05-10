@@ -1,0 +1,82 @@
+Code,Description,Source,Decision
+I350,I35.0 Aortic (valve) stenosis,ICD10_1,1
+I48,I48 Atrial fibrillation and flutter,ICD10_1,1
+I500,I50.0 Congestive heart failure,ICD10_1,1
+I501,I50.1 Left ventricular failure,ICD10_1,1
+I509,"I50.9 Heart failure, unspecified",ICD10_1,1
+I619,"I61.9 Intracerebral haemorrhage, unspecified",ICD10_1,1
+I635,I63.5 Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,ICD10_1,1
+I639,"I63.9 Cerebral infarction, unspecified",ICD10_1,1
+I713,"I71.3 Abdominal aortic aneurysm, ruptured",ICD10_1,1
+I714,"I71.4 Abdominal aortic aneurysm, without mention of rupture",ICD10_1,1
+J069,"J06.9 Acute upper respiratory infection, unspecified",ICD10_1,1
+J150,J15.0 Pneumonia due to Klebsiella pneumoniae,ICD10_1,1
+J152,J15.2 Pneumonia due to staphylococcus,ICD10_1,1
+J153,"J15.3 Pneumonia due to streptococcus, group B",ICD10_1,1
+J155,J15.5 Pneumonia due to Escherichia coli,ICD10_1,1
+J156,J15.6 Pneumonia due to other aerobic Gram-negative bacteria,ICD10_1,1
+J160,J16.0 Chlamydial pneumonia,ICD10_1,1
+J168,J16.8 Pneumonia due to other specified infectious organisms,ICD10_1,1
+J172,J17.2 Pneumonia in mycoses,ICD10_1,1
+J182,"J18.2 Hypostatic pneumonia, unspecified",ICD10_1,1
+J210,J21.0 Acute bronchiolitis due to respiratory syncytial virus,ICD10_1,1
+J219,"J21.9 Acute bronchiolitis, unspecified",ICD10_1,1
+J40,"J40 Bronchitis, not specified as acute or chronic",ICD10_1,1
+J41,J41 Simple and mucopurulent chronic bronchitis,ICD10_1,1
+J410,J41.0 Simple chronic bronchitis,ICD10_1,1
+J411,J41.1 Mucopurulent chronic bronchitis,ICD10_1,1
+J418,J41.8 Mixed simple and mucopurulent chronic bronchitis,ICD10_1,1
+J42,J42 Unspecified chronic bronchitis,ICD10_1,1
+J43,J43 Emphysema,ICD10_1,1
+J430,J43.0 MacLeod’s syndrome,ICD10_1,1
+J431,J43.1 Panlobular emphysema,ICD10_1,1
+J432,J43.2 Centrilobular emphysema,ICD10_1,1
+J438,J43.8 Other emphysema,ICD10_1,1
+J439,"J43.9 Emphysema, unspecified",ICD10_1,1
+J44,J44 Other chronic obstructive pulmonary disease,ICD10_1,1
+J448,J44.8 Other specified chronic obstructive pulmonary disease,ICD10_1,1
+J449,"J44.9 Chronic obstructive pulmonary disease, unspecified",ICD10_1,1
+J45,J45 Asthma,ICD10_1,1
+J450,J45.0 Predominantly allergic asthma,ICD10_1,1
+J451,J45.1 Nonallergic asthma,ICD10_1,1
+J458,J45.8 Mixed asthma,ICD10_1,1
+J459,"J45.9 Asthma, unspecified",ICD10_1,1
+J46,J46 Status asthmaticus,ICD10_1,1
+J47,J47 Bronchiectasis,ICD10_1,1
+J690,J69.0 Pneumonitis due to food and vomit,ICD10_1,1
+J851,J85.1 Abscess of lung with pneumonia,ICD10_1,1
+J869,J86.9 Pyothorax without fistula,ICD10_1,1
+J90,"J90 Pleural effusion, not elsewhere classified",ICD10_1,1
+J939,"J93.9 Pneumothorax, unspecified",ICD10_1,1
+J960,J96.0 Acute respiratory failure,ICD10_1,1
+J961,J96.1 Chronic respiratory failure,ICD10_1,1
+J969,"J96.9 Respiratory failure, unspecified",ICD10_1,1
+J980,"J98.0 Diseases of bronchus, not elsewhere classified",ICD10_1,1
+J984,J98.4 Other disorders of lung,ICD10_1,1
+K439,K43.9 Ventral hernia without obstruction or gangrene,ICD10_1,1
+K573,K57.3 Diverticular disease of large intestine without perforation or abscess,ICD10_1,1
+K804,K80.4 Calculus of bile duct with cholecystitis,ICD10_1,1
+K85,K85 Acute pancreatitis,ICD10_1,1
+L031,L03.1 Cellulitis of other parts of limb,ICD10_1,1
+L039,"L03.9 Cellulitis, unspecified",ICD10_1,1
+M169,"M16.9 Coxarthrosis, unspecified",ICD10_1,1
+M313,M31.3 Wegener’s granulomatosis,ICD10_1,1
+N179,"N17.9 Acute renal failure, unspecified",ICD10_1,1
+N390,"N39.0 Urinary tract infection, site not specified",ICD10_1,1
+R002,R00.2 Palpitations,ICD10_1,1
+R042,R04.2 Haemoptysis,ICD10_1,1
+R05,R05 Cough,ICD10_1,1
+R060,R06.0 Dyspnoea,ICD10_1,1
+R068,R06.8 Other and unspecified abnormalities of breathing,ICD10_1,1
+R073,R07.3 Other chest pain,ICD10_1,1
+R074,"R07.4 Chest pain, unspecified",ICD10_1,1
+R091,R09.1 Pleurisy,ICD10_1,1
+R296,"R29.6 Tendency to fall, not elsewhere classified",ICD10_1,1
+R410,"R41.0 Disorientation, unspecified",ICD10_1,1
+R509,"R50.9 Fever, unspecified",ICD10_1,1
+R55,R55 Syncope and collapse,ICD10_1,1
+R64,R64 Cachexia,ICD10_1,1
+R683,R68.3 Clubbing of fingers,ICD10_1,1
+R91,R91 Abnormal findings on diagnostic imaging of lung,ICD10_1,1
+S062,S06.2 Diffuse brain injury,ICD10_1,1
+S7200,S72.00 Fracture of neck of femur (closed),ICD10_1,1

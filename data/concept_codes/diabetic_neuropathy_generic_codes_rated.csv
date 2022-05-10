@@ -1,0 +1,132 @@
+Code,Description,Source,Decision
+X00Ag,Diabetic neuropathy,V3,1
+XE15k,Diabetic polyneuropathy,V3,1
+X00Ah,Diabetic distal sensorimotor polyneuropathy,V3,1
+X00Ai,Diabetic acute painful polyneuropathy,V3,0
+X00Aj,Diabetic chronic painful polyneuropathy,V3,0
+X00Ak,Diabetic asymmetric polyneuropathy,V3,1
+X00Al,Diabetic mononeuropathy,V3,1
+XaPmW,Diabetic femoral mononeuropathy,V3,1
+F1711,Diabetic autonomic neuropathy,V3,1
+XaXbW,Symptomatic diabetic peripheral neuropathy,V3,1
+F3722,Asymptomatic diabetic neuropathy,V3,0
+N0301,Diabetic neuropathic arthropathy,V3,1
+M2711,Neuropathic diabetic ulcer - foot,V3,0
+C1061,"Diabetes mellitus, adult onset, with neurological manifestation",V3,1
+C106y,Other specified diabetes mellitus with neurological complications,V3,1
+XaEnn,Type I diabetes mellitus with mononeuropathy,V3,1
+XaEno,Type I diabetes mellitus with polyneuropathy,V3,1
+XaFmM,Type I diabetes mellitus with neuropathic arthropathy,V3,1
+XaEnp,Type II diabetes mellitus with mononeuropathy,V3,1
+XaEnq,Type II diabetes mellitus with polyneuropathy,V3,1
+XaFn9,Type II diabetes mellitus with neuropathic arthropathy,V3,1
+C10A4,Malnutrition-related diabetes mellitus with neurological complications,V3,1
+C1092,Type II diabetes mellitus with neurological complications,V3,1
+C1082,Type I diabetes mellitus with neurological complications,V3,1
+F35z0,Diabetic mononeuritis NOS,V3,1
+X00Am,Diabetic truncal radiculopathy,V3,1
+X00An,Diabetic thoracic radiculopathy,V3,1
+F372.,Diabetic neuropathy,V2,1
+F3720,Acute painful diabetic neuropathy,V2,0
+F3721,Chronic painful diabetic neuropathy,V2,0
+F3y0.,Diabetic mononeuropathy,V2,1
+F1711,Autonomic neuropathy due to diabetes,V2,1
+F3722,Asymptomatic diabetic neuropathy,V2,1
+N0301,Diabetic Charcot arthropathy,V2,1
+M2711,Neuropathic diabetic ulcer - foot,V2,1
+C1060,"Diabetes mellitus, juvenile type, with neurological manifestation",V2,1
+C106.,Diabetes mellitus with neurological manifestation,V2,1
+C1061,"Diabetes mellitus, adult onset, with neurological manifestation",V2,1
+C106y,Other specified diabetes mellitus with neurological complications,V2,1
+C106z,Diabetes mellitus NOS with neurological manifestation,V2,1
+C10A4,Malnutrition-related diabetes mellitus with neurological complications,V2,1
+C1092,Type II diabetes mellitus with neurological complications,V2,1
+C1082,Type I diabetes mellitus with neurological complications,V2,1
+C108B,Type I diabetes mellitus with mononeuropathy,V2,1
+C108C,Type I diabetes mellitus with polyneuropathy,V2,1
+C108J,Type I diabetes mellitus with neuropathic arthropathy,V2,1
+C10EJ,Type I diabetes mellitus with neuropathic arthropathy,V2,1
+C109A,Type II diabetes mellitus with mononeuropathy,V2,1
+C109B,Type II diabetes mellitus with polyneuropathy,V2,1
+C109H,Type II diabetes mellitus with neuropathic arthropathy,V2,1
+C10FH,Type II diabetes mellitus with neuropathic arthropathy,V2,1
+F35z0,Diabetic mononeuritis NOS,V2,1
+E144,Unspecified diabetes mellitus,MD,0
+E104,Type 1 diabetes mellitus,MD,0
+E114,Type 2 diabetes mellitus,MD,0
+E124,Malnutrition-related diabetes mellitus,MD,0
+E134,Other specified diabetes mellitus,MD,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",MD,0
+O244,Diabetes mellitus arising in pregnancy,MD,0
+O249,"Diabetes mellitus in pregnancy, unspecified",MD,0
+G632,Diabetic polyneuropathy,MD,1
+G590,Diabetic mononeuropathy,MD,1
+G990,Autonomic neuropathy in endocrine and metabolic diseases,MD,0
+E146,Unspecified diabetes mellitus,MD,0
+E106,Type 1 diabetes mellitus,MD,0
+E116,Type 2 diabetes mellitus,MD,0
+E126,Malnutrition-related diabetes mellitus,MD,0
+E136,Other specified diabetes mellitus,MD,0
+M146,Neuropathic arthropathy,MD,0
+E145,Unspecified diabetes mellitus,MD,0
+E105,Type 1 diabetes mellitus,MD,0
+E115,Type 2 diabetes mellitus,MD,0
+E125,Malnutrition-related diabetes mellitus,MD,0
+E135,Other specified diabetes mellitus,MD,0
+L97,"Ulcer of lower limb, not elsewhere classified",MD,0
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,MD,0
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,MD,0
+3559,Mononeuritis of unspecified site,ICD9,0
+3572,Polyneuropathy in diabetes,ICD9,1
+3371,Peripheral autonomic neuropathy in disorders classified elsewhere,ICD9,0
+7135,Arthropathy associated with neurological disorders,ICD9,0
+E144,Unspecified diabetes mellitus,ICD10,0
+E104,Type 1 diabetes mellitus,ICD10,0
+E114,Type 2 diabetes mellitus,ICD10,0
+E124,Malnutrition-related diabetes mellitus,ICD10,0
+E134,Other specified diabetes mellitus,ICD10,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",ICD10,0
+O244,Diabetes mellitus arising in pregnancy,ICD10,0
+O249,"Diabetes mellitus in pregnancy, unspecified",ICD10,0
+G632,Diabetic polyneuropathy,ICD10,1
+G590,Diabetic mononeuropathy,ICD10,1
+G990,Autonomic neuropathy in endocrine and metabolic diseases,ICD10,0
+E146,Unspecified diabetes mellitus,ICD10,0
+E106,Type 1 diabetes mellitus,ICD10,0
+E116,Type 2 diabetes mellitus,ICD10,0
+E126,Malnutrition-related diabetes mellitus,ICD10,0
+E136,Other specified diabetes mellitus,ICD10,0
+M146,Neuropathic arthropathy,ICD10,0
+E145,Unspecified diabetes mellitus,ICD10,0
+E105,Type 1 diabetes mellitus,ICD10,0
+E115,Type 2 diabetes mellitus,ICD10,0
+E125,Malnutrition-related diabetes mellitus,ICD10,0
+E135,Other specified diabetes mellitus,ICD10,0
+L97,"Ulcer of lower limb, not elsewhere classified",ICD10,0
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,ICD10,0
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,ICD10,0
+E144,Unspecified diabetes mellitus,cancer,0
+E104,Type 1 diabetes mellitus,cancer,0
+E114,Type 2 diabetes mellitus,cancer,0
+E124,Malnutrition-related diabetes mellitus,cancer,0
+E134,Other specified diabetes mellitus,cancer,0
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",cancer,0
+O244,Diabetes mellitus arising in pregnancy,cancer,0
+O249,"Diabetes mellitus in pregnancy, unspecified",cancer,0
+G632,Diabetic polyneuropathy,cancer,1
+G590,Diabetic mononeuropathy,cancer,1
+G990,Autonomic neuropathy in endocrine and metabolic diseases,cancer,0
+E146,Unspecified diabetes mellitus,cancer,0
+E106,Type 1 diabetes mellitus,cancer,0
+E116,Type 2 diabetes mellitus,cancer,0
+E126,Malnutrition-related diabetes mellitus,cancer,0
+E136,Other specified diabetes mellitus,cancer,0
+M146,Neuropathic arthropathy,cancer,0
+E145,Unspecified diabetes mellitus,cancer,0
+E105,Type 1 diabetes mellitus,cancer,0
+E115,Type 2 diabetes mellitus,cancer,0
+E125,Malnutrition-related diabetes mellitus,cancer,0
+E135,Other specified diabetes mellitus,cancer,0
+L97,"Ulcer of lower limb, not elsewhere classified",cancer,0
+O240,Diabetes mellitus in pregnancy: Pre-existing type 1 diabetes mellitus,cancer,0
+O241,Diabetes mellitus in pregnancy: Pre-existing type 2 diabetes mellitus,cancer,0

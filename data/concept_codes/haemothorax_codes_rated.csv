@@ -1,0 +1,45 @@
+Code,Description,Source,Decision
+H51y2,Haemothorax,V3,1
+X1015,Traumatic haemothorax,V3,1
+S702.,Closed traumatic haemothorax,V3,1
+S703.,Open traumatic haemothorax,V3,1
+H51y1,Haemopneumothorax,V3,1
+Xa6ZZ,Clotted haemothorax,V3,1
+S70..,Traumatic pneumothorax and haemothorax,V3,1
+S705.,Open traumatic haemopneumothorax,V3,1
+S704.,Closed traumatic haemopneumothorax,V3,1
+S70z.,Traumatic pneumothorax and haemothorax NOS,V3,1
+H51y2,Haemothorax,V2,1
+S707.,Traumatic haemothorax,V2,1
+S702.,Closed traumatic haemothorax,V2,1
+S703.,Open traumatic haemothorax,V2,1
+H51y1,Haemopneumothorax,V2,1
+S70..,Traumatic pneumothorax and haemothorax,V2,1
+S705.,Open traumatic haemopneumothorax,V2,1
+S704.,Closed traumatic haemopneumothorax,V2,1
+S70z.,Traumatic pneumothorax and haemothorax NOS,V2,1
+J942,Haemothorax,MD,1
+A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically",MD,0
+A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",MD,0
+P548,Other specified neonatal haemorrhages,MD,0
+S271,Traumatic haemothorax,MD,1
+S272,Traumatic haemopneumothorax,MD,1
+5118," Other specified forms of effusion, except tuberculous",ICD9,0
+8602,Traumatic haemothorax without mention of open wound into thorax,ICD9,1
+8603,Traumatic haemothorax with open wound into thorax,ICD9,1
+8604,Traumatic pneumohaemothorax without mention of open wound into thorax,ICD9,1
+8605,Traumatic pneumohaemothorax with open wound into thorax,ICD9,1
+8600,Traumatic pneumothorax without mention of open wound into thorax,ICD9,1
+860,Traumatic pneumothorax and haemothorax,ICD9,1
+J942,Haemothorax,ICD10,1
+A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically",ICD10,0
+A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",ICD10,0
+P548,Other specified neonatal haemorrhages,ICD10,0
+S271,Traumatic haemothorax,ICD10,1
+S272,Traumatic haemopneumothorax,ICD10,1
+J942,Haemothorax,cancer,1
+A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically",cancer,0
+A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",cancer,0
+P548,Other specified neonatal haemorrhages,cancer,0
+S271,Traumatic haemothorax,cancer,1
+S272,Traumatic haemopneumothorax,cancer,1

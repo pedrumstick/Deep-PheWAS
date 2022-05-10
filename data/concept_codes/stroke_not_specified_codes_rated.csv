@@ -1,0 +1,48 @@
+Code,Description,Source,Decision
+X00D1,Stroke,V3,1
+X00DR,Stroke of uncertain pathology,V3,1
+X00DS,Anterior circulation stroke of uncertain pathology,V3,1
+X00DT,Posterior circulation stroke of uncertain pathology,V3,1
+G667.,Left sided cerebral hemisphere cerebrovascular accident,V3,1
+G668.,Right sided cerebral hemisphere cerebrovascular accident,V3,1
+XE2aB,Stroke and cerebrovascular accident unspecified,V3,1
+XaEGq,Stroke NOS,V3,1
+G66..,Stroke and cerebrovascular accident unspecified,V2,1
+G667.,Left sided CVA,V2,1
+G668.,Right sided CVA,V2,1
+1081,stroke,SR,1
+I64,"Stroke, not specified as haemorrhage or infarction",MD,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",MD,0
+I679,"Cerebrovascular disease, unspecified",MD,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",MD,0
+I678,Other specified cerebrovascular diseases,MD,0
+S068,Other intracranial injuries,MD,0
+G463,Brain stem stroke syndrome,MD,1
+G464,Cerebellar stroke syndrome,MD,1
+I64,"Stroke, not specified as haemorrhage or infarction",cancer,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",cancer,0
+I679,"Cerebrovascular disease, unspecified",cancer,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",cancer,0
+I678,Other specified cerebrovascular diseases,cancer,0
+S068,Other intracranial injuries,cancer,0
+G463,Brain stem stroke syndrome,cancer,1
+G464,Cerebellar stroke syndrome,cancer,1
+I64,"Stroke, not specified as haemorrhage or infarction",ICD10,1
+I694,"Sequelae of stroke, not specified as haemorrhage or infarction",ICD10,0
+I679,"Cerebrovascular disease, unspecified",ICD10,0
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",ICD10,0
+I678,Other specified cerebrovascular diseases,ICD10,0
+S068,Other intracranial injuries,ICD10,0
+G463,Brain stem stroke syndrome,ICD10,1
+G464,Cerebellar stroke syndrome,ICD10,1
+G64z.,Brainstem infarction NOS,V2,1
+Xa1hE,Extension of cerebrovascular accident,V3,1
+G663.,Brainstem stroke syndrome,V3,1
+G664.,Cerebellar stroke syndrome,V3,1
+G663.,Brain stem stroke syndrome,V2,1
+G664.,Cerebellar stroke syndrome,V2,1
+G64z1,Wallenberg syndrome,V2,1
+Xa00Q,Claude syndrome,V3,1
+Xa00O,Millard-Gubler syndrome,V3,1
+Xa00M,Wallenberg syndrome,V3,1
+Xa00L,Benedict syndrome,V3,1

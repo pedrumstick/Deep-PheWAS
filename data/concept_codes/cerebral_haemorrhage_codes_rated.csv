@@ -1,0 +1,439 @@
+Code,Description,Source,Decision
+XM0rV,Cerebral haemorrhage,V3,1
+G617.,"Intracerebral haemorrhage, intraventricular",V3,1
+Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified",V3,1
+XE0Wy,Cerebral haemorrhage NOS,V3,1
+Xa41d,Fetal cerebral haemorrhage,V3,0
+X00DM,Lobar cerebral haemorrhage,V3,1
+Xa41Z,Cerebral haemorrhage - birth,V3,0
+XE1m2,Traumatic cerebral haemorrhage,V3,0
+XA0BG,Traumatic intracerebral haemorrhage,V3,0
+S62z.,Cerebral haemorrhage following injury NOS,V3,0
+S63..,Other cerebral haemorrhage following injury,V3,0
+S631.,Other cerebral haemorrhage following injury with open intracranial wound,V3,0
+S6310,"Other cerebral haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V3,0
+S6311,"Other cerebral haemorrhage following injury with open intracranial wound, with no loss of consciousness",V3,0
+S6312,"Other cerebral haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6313,"Other cerebral haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6314,"Other cerebral haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6315,"Other cerebral haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6316,"Other cerebral haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S631z,"Other cerebral haemorrhage following injury with open intracranial wound, with concussion, unspecified",V3,0
+S63z.,Other cerebral haemorrhage following injury NOS,V3,0
+XE1m5,Other cerebral haemorrhage following injury without mention of open intracranial wound,V3,0
+S6300,"Other cerebral haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V3,0
+S6301,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V3,0
+S6302,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6303,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6304,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6305,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6306,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S630z,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V3,0
+XA0BB,Traumatic intracranial extradural haematoma,V3,0
+S625.,Open traumatic extradural haemorrhage,V3,0
+S6250,"Extradural haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V3,0
+S6251,"Extradural haemorrhage following injury with open intracranial wound, with no loss of consciousness",V3,0
+S6252,"Extradural haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6253,"Extradural haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6254,"Extradural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6255,"Extradural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6256,"Extradural haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S625z,"Extradural haemorrhage following injury with open intracranial wound, with concussion, unspecified",V3,0
+XE1m4,Closed traumatic extradural haemorrhage,V3,0
+S6240,"Extradural haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V3,0
+S6241,"Extradural haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V3,0
+S6242,"Extradural haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6243,"Extradural haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6244,"Extradural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6245,"Extradural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6246,"Extradural haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S624z,"Extradural haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V3,0
+XA0BI,Traumatic intracranial subarachnoid haemorrhage,V3,0
+S6210,"Subarachnoid haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V3,0
+S6211,"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness",V3,0
+S6212,"Subarachnoid haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6213,"Subarachnoid haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6214,"Subarachnoid haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6215,"Subarachnoid haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6216,"Subarachnoid haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S621z,"Subarachnoid haemorrhage following injury with open intracranial wound, with concussion, unspecified",V3,0
+XA0BE,Traumatic intracranial subdural haematoma,V3,0
+XaA99,Chronic intracranial subdural haematoma,V3,1
+S6230,"Subdural haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V3,0
+S6231,"Subdural haemorrhage following injury with open intracranial wound, with no loss of consciousness",V3,0
+S6232,"Subdural haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6233,"Subdural haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6234,"Subdural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6235,"Subdural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6236,"Subdural haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S623z,"Subdural haemorrhage following injury with open intracranial wound, with concussion, unspecified",V3,0
+S626.,Epidural haemorrhage,V3,1
+XA0B9,Middle meningeal haemorrhage following injury,V3,0
+XE0VF,Cerebral parenchymal haemorrhage,V3,1
+X00DL,Massive supratentorial cerebral haemorrhage,V3,1
+X00DN,Subcortical cerebral haemorrhage,V3,1
+X00DO,Thalamic haemorrhage,V3,1
+G612.,Basal ganglia haemorrhage,V3,1
+G611.,Internal capsule haemorrhage,V3,1
+X00DP,Lacunar haemorrhage,V3,1
+X00DQ,Brainstem haemorrhage,V3,1
+G614.,Pontine haemorrhage,V3,1
+G615.,Bulbar haemorrhage,V3,1
+G613.,Cerebellar haemorrhage,V3,1
+Xa0Bj,Intracerebellar and posterior fossa haemorrhage,V3,1
+G610.,Cortical haemorrhage,V3,1
+XaBM4,"Left sided intracerebral haemorrhage, unspecified",V3,1
+XaBM5,"Right sided intracerebral haemorrhage, unspecified",V3,1
+G616.,External capsule haemorrhage,V3,1
+G618.,"Intracerebral haemorrhage, multiple localised",V3,1
+G61z.,Intracerebral haemorrhage NOS,V3,1
+X00DI,Haemorrhagic cerebral infarction,V3,1
+X00DJ,Anterior cerebral circulation haemorrhagic infarction,V3,1
+X00DK,Posterior cerebral circulation haemorrhagic infarction,V3,1
+X00Dq,Hereditary cerebral haemorrhage with amyloidosis,V3,0
+X00Ds,Hereditary cerebral haemorrhage with amyloidosis - Dutch type,V3,0
+X00Dr,Icelandic type amyloidosis,V3,0
+Xa1uW,Subarachnoid haemorrhage,V3,1
+XE2bF,Spontaneous subarachnoid haemorrhage,V3,1
+Xa0N7,Angiogram-negative subarachnoid haemorrhage,V3,1
+G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation,V3,1
+G60z.,Subarachnoid haemorrhage NOS,V3,1
+X00Df,Subarachnoid haemorrhage due to ruptured arteriovenous malformation,V3,1
+XA0BH,Traumatic subarachnoid haemorrhage,V3,0
+XA04v,Traumatic spinal subarachnoid haemorrhage,V3,0
+Q4120,Subarachnoid haemorrhage due to birth injury,V3,0
+XE1m3,Closed traumatic subarachnoid haemorrhage,V3,0
+S6200,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V3,0
+S6201,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V3,0
+S6202,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6203,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6205,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6206,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S620z,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V3,0
+Q412.,Perinatal subarachnoid haemorrhage,V3,0
+Gyu60,[X]Subarachnoid haemorrhage from other intracranial arteries,V3,1
+Gyu61,[X]Other subarachnoid haemorrhage,V3,1
+Gyu6E,"[X]Subarachnoid haemorrhage from intracranial artery, unspecified",V3,1
+X00Dg,Subarachnoid haemorrhage due to ruptured aneurysm,V3,1
+A94y6,Rupture of syphilitic cerebral aneurysm,V3,0
+G606.,Subarachnoid haemorrhage from vertebral artery,V3,1
+Xa01b,Subarachnoid haemorrhage from multiple aneurysms,V3,1
+Xa01c,Subarachnoid haemorrhage from anterior cerebral artery aneurysm,V3,1
+Xa01h,Subarachnoid haemorrhage from middle cerebral artery aneurysm,V3,1
+Xa01i,Subarachnoid haemorrhage from posterior cerebral artery aneurysm,V3,1
+Xa01j,Subarachnoid haemorrhage from anterior communicating artery aneurysm,V3,1
+Xa01k,Subarachnoid haemorrhage from posterior communicating artery aneurysm,V3,1
+Xa01l,Subarachnoid haemorrhage from basilar artery aneurysm,V3,1
+Xa01m,Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm,V3,1
+Xa01o,Subarachnoid haemorrhage from carotid artery aneurysm,V3,1
+14AF.,H/O subarachnoid haemorrhage,V3,1
+XaONw,FH: Subarachnoid haemorrhage,V3,0
+S622.,Closed traumatic subdural haemorrhage,V3,0
+S6220,"Subdural haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V3,0
+S6221,"Subdural haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V3,0
+S6222,"Subdural haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V3,0
+S6223,"Subdural haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V3,0
+S6224,"Subdural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V3,0
+S6225,"Subdural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V3,0
+S6226,"Subdural haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V3,0
+S622z,"Subdural haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V3,0
+XaKK3,Subdural haemorrhage NOS,V3,1
+Xa0AC,Extradural haemorrhage,V3,1
+XE2w3,Non-traumatic extradural haematoma,V3,1
+Xa1uV,Non-traumatic extradural intracranial haematoma,V3,1
+G6...,Cerebrovascular disease,V2,0
+G617.,"Intracerebral haemorrhage, intraventricular",V2,1
+Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified",V2,1
+Q....,Perinatal conditions,V2,0
+G61..,Intracerebral haemorrhage,V2,1
+G619.,Lobar cerebral haemorrhage,V2,1
+S62..,Traumatic cerebral haemorrhage,V2,0
+S62z.,Cerebral haemorrhage following injury NOS,V2,0
+S63..,Other cerebral haemorrhage following injury,V2,0
+S631.,Other cerebral haemorrhage following injury with open intracranial wound,V2,0
+S6310,"Other cerebral haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V2,0
+S6311,"Other cerebral haemorrhage following injury with open intracranial wound, with no loss of consciousness",V2,0
+S6312,"Other cerebral haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6313,"Other cerebral haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6314,"Other cerebral haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6315,"Other cerebral haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6316,"Other cerebral haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S631z,"Other cerebral haemorrhage following injury with open intracranial wound, with concussion, unspecified",V2,0
+S63z.,Other cerebral haemorrhage following injury NOS,V2,0
+S630.,Other cerebral haemorrhage following injury without mention of open intracranial wound,V2,0
+S6300,"Other cerebral haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V2,0
+S6301,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V2,0
+S6302,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6303,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6304,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6305,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6306,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S630z,"Other cerebral haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V2,0
+S62A.,Traumatic extradural haematoma,V2,0
+S625.,Open traumatic extradural haemorrhage,V2,0
+S6250,"Extradural haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V2,0
+S6251,"Extradural haemorrhage following injury with open intracranial wound, with no loss of consciousness",V2,0
+S6252,"Extradural haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6253,"Extradural haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6254,"Extradural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6255,"Extradural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6256,"Extradural haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S625z,"Extradural haemorrhage following injury with open intracranial wound, with concussion, unspecified",V2,0
+S624.,Closed traumatic extradural haemorrhage,V2,0
+S6240,"Extradural haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V2,0
+S6241,"Extradural haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V2,0
+S6242,"Extradural haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6243,"Extradural haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6244,"Extradural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6245,"Extradural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6246,"Extradural haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S624z,"Extradural haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V2,0
+S627.,Traumatic subarachnoid haemorrhage,V2,0
+S6210,"Subarachnoid haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V2,0
+S6211,"Subarachnoid haemorrhage following injury with open intracranial wound, with no loss of consciousness",V2,0
+S6212,"Subarachnoid haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6213,"Subarachnoid haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6214,"Subarachnoid haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6215,"Subarachnoid haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6216,"Subarachnoid haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S621z,"Subarachnoid haemorrhage following injury with open intracranial wound, with concussion, unspecified",V2,0
+S629.,Traumatic subdural haematoma,V2,0
+S6230,"Subdural haemorrhage following injury with open intracranial wound, unspecified state of consciousness",V2,0
+S6231,"Subdural haemorrhage following injury with open intracranial wound, with no loss of consciousness",V2,0
+S6232,"Subdural haemorrhage following injury with open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6233,"Subdural haemorrhage following injury with open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6234,"Subdural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6235,"Subdural haemorrhage following injury with open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6236,"Subdural haemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S623z,"Subdural haemorrhage following injury with open intracranial wound, with concussion, unspecified",V2,0
+S626.,Epidural haemorrhage,V2,1
+S620.,Middle meningeal haemmorhage following injury,V2,0
+G612.,Basal nucleus haemorrhage,V2,1
+G611.,Internal capsule haemorrhage,V2,1
+G614.,Pontine haemorrhage,V2,1
+G615.,Bulbar haemorrhage,V2,1
+G613.,Cerebellar haemorrhage,V2,1
+G610.,Cortical haemorrhage,V2,1
+G61X0,"Left sided intracerebral haemorrhage, unspecified",V2,1
+G61X1,"Right sided intracerebral haemorrhage, unspecified",V2,1
+G616.,External capsule haemorrhage,V2,1
+G618.,"Intracerebral haemorrhage, multiple localized",V2,1
+G61z.,Intracerebral haemorrhage NOS,V2,1
+G66..,Stroke and cerebrovascular accident unspecified,V2,0
+G6740,Cerebral amyloid angiopathy,V2,0
+G60..,Subarachnoid haemorrhage,V2,1
+G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation,V2,1
+G60z.,Subarachnoid haemorrhage NOS,V2,1
+Q4120,Subarachnoid haemorrhage due to birth injury,V2,0
+S6200,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V2,0
+S6201,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V2,0
+S6202,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6203,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6205,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6206,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S620z,"Subarachnoid haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V2,0
+Q412.,Perinatal subarachnoid haemorrhage,V2,0
+Gyu60,[X]Subarachnoid haemorrhage from other intracranial arteries,V2,1
+Gyu61,[X]Other subarachnoid haemorrhage,V2,1
+Gyu6E,"[X]Subarachnoid haemorrhage from intracranial artery, unspecified",V2,1
+A94y6,Rupture of syphilitic cerebral aneurysm,V2,0
+G606.,Subarachnoid haemorrhage from vertebral artery,V2,1
+G602.,Subarachnoid haemorrhage from middle cerebral artery,V2,1
+G603.,Subarachnoid haemorrhage from anterior communicating artery,V2,1
+G604.,Subarachnoid haemorrhage from posterior communicating artery,V2,1
+G605.,Subarachnoid haemorrhage from basilar artery,V2,1
+14AF.,H/O sub-arachnoid haemorrhage,V2,1
+129C.,Family history of subarachnoid haemorrhage,V2,0
+S622.,Closed traumatic subdural haemorrhage,V2,0
+S6220,"Subdural haemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",V2,0
+S6221,"Subdural haemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",V2,0
+S6222,"Subdural haemorrhage following injury without mention of open intracranial wound, with less than 1 hour loss of consciousness",V2,0
+S6223,"Subdural haemorrhage following injury without mention of open intracranial wound, with 1-24 hours loss of consciousness",V2,0
+S6224,"Subdural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness and return to pre-existing conscious level",V2,0
+S6225,"Subdural haemorrhage following injury without mention of open intracranial wound, with more than 24 hours loss of consciousness without return to pre-existing conscious level",V2,0
+S6226,"Subdural haemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",V2,0
+S622z,"Subdural haemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",V2,0
+G623.,Subdural haemorrhage NOS,V2,0
+F....,Nervous system and sense organ diseases,V2,0
+1083,subdural haemorrhage/haematoma,SR,0
+1086,subarachnoid haemorrhage,SR,1
+1491,brain haemorrhage,SR,1
+I619,"Intracerebral haemorrhage, unspecified",MD,1
+I61,Intracerebral haemorrhage,MD,1
+P10,Intracranial laceration and haemorrhage due to birth injury,MD,0
+P52,Intracranial nontraumatic haemorrhage of fetus and newborn,MD,0
+S068,Other intracranial injuries,MD,0
+I615,"Intracerebral haemorrhage, intraventricular",MD,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",MD,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",MD,0
+P101,Cerebral haemorrhage due to birth injury,MD,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,MD,0
+S062,Diffuse brain injury,MD,0
+S063,Focal brain injury,MD,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",MD,1
+S064,Epidural haemorrhage,MD,0
+P108,Other intracranial lacerations and haemorrhages due to birth injury,MD,0
+S066,Traumatic subarachnoid haemorrhage,MD,0
+S065,Traumatic subdural haemorrhage,MD,0
+I620,Subdural haemorrhage (acute)(nontraumatic),MD,1
+P100,Subdural haemorrhage due to birth injury,MD,0
+P528,Other intracranial (nontraumatic) haemorrhages of fetus and newborn,MD,0
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",MD,1
+I618,Other intracerebral haemorrhage,MD,1
+I613,Intracerebral haemorrhage in brain stem,MD,1
+I614,Intracerebral haemorrhage in cerebellum,MD,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,MD,0
+I616,"Intracerebral haemorrhage, multiple localized",MD,1
+I691,Sequelae of intracerebral haemorrhage,MD,0
+I638,Other cerebral infarction,MD,0
+E854,Organ-limited amyloidosis,MD,0
+I680,Cerebral amyloid angiopathy,MD,0
+E859,"Amyloidosis, unspecified",MD,0
+E852,"Heredofamilial amyloidosis, unspecified",MD,0
+I609,"Subarachnoid haemorrhage, unspecified",MD,1
+I60,Subarachnoid haemorrhage,MD,1
+P103,Subarachnoid haemorrhage due to birth injury,MD,0
+P525,Subarachnoid (nontraumatic) haemorrhage of fetus and newborn,MD,0
+I600,Subarachnoid haemorrhage from carotid siphon and bifurcation,MD,1
+I608,Other subarachnoid haemorrhage,MD,1
+T063,Injuries of blood vessels involving multiple body regions,MD,0
+I606,Subarachnoid haemorrhage from other intracranial arteries,MD,1
+I607,"Subarachnoid haemorrhage from intracranial artery, unspecified",MD,1
+A520,Cardiovascular syphilis,MD,0
+I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere,MD,0
+I605,Subarachnoid haemorrhage from vertebral artery,MD,1
+I601,Subarachnoid haemorrhage from middle cerebral artery,MD,1
+I602,Subarachnoid haemorrhage from anterior communicating artery,MD,1
+I603,Subarachnoid haemorrhage from posterior communicating artery,MD,1
+I604,Subarachnoid haemorrhage from basilar artery,MD,1
+Z867,Personal history of diseases of the circulatory system,MD,0
+I621,Nontraumatic extradural haemorrhage,MD,1
+I629,"Intracranial haemorrhage (nontraumatic), unspecified",MD,1
+431,Intracerebral haemorrhage,ICD9,1
+6740,Cerebrovascular disorders in the puerperium,ICD9,0
+7670,Birth trauma: subdural and cerebral haemorrhage,ICD9,0
+8510,Cerebral laceration/contusion without open intracranial wound,ICD9,0
+8530,Other/unspec. intracranial haem.foll.without open intracranial wound,ICD9,0
+8531,Other/unspec. intracranial haem.foll.injury with open intracranial wound,ICD9,0
+8001,Fracture of vault of skull - closed with intracranial injury,ICD9,0
+8003,Fracture of vault of skull - open with intracranial injury,ICD9,0
+8011,Fracture of base of skull - closed with intracranial injury,ICD9,0
+8013,Fracture of base of skull - open with intracranial injury,ICD9,0
+8031,Other and unqualified skull fractures - closed with intracranial injury,ICD9,0
+8033,Other and unqualified skull fractures - open with intracranial injury,ICD9,0
+851,Cerebral laceration and contusion,ICD9,0
+852," Subarachnoid, subdural and extradural haemorrhage, following injury",ICD9,0
+8520,Subarach./subdural/extradural haem. foll.inj.without open intracr.wound,ICD9,0
+8521,Subarach./subdural/extradural haem.foll.inj.with open intracranial wound,ICD9,0
+430,Subarachnoid haemorrhage,ICD9,1
+4329,Unspecified intracranial haemorrhage,ICD9,1
+7721,Fetal and neonatal intraventricular haemorrhage,ICD9,0
+4349," Occlusion of cerebral arteries, unspecified",ICD9,0
+434,Occlusion of cerebral arteries,ICD9,0
+2773,Amyloidosis,ICD9,0
+435,Transient cerebral ischaemia,ICD9,0
+7722,Fetal and neonatal subarachnoid haemorrhage,ICD9,1
+4321,Subdural haemorrhage,ICD9,0
+4320,Nontraumatic extradural hemorrhage,ICD9,1
+I619,"Intracerebral haemorrhage, unspecified",ICD10,1
+I61,Intracerebral haemorrhage,ICD10,1
+P10,Intracranial laceration and haemorrhage due to birth injury,ICD10,0
+P52,Intracranial nontraumatic haemorrhage of fetus and newborn,ICD10,0
+S068,Other intracranial injuries,ICD10,0
+I615,"Intracerebral haemorrhage, intraventricular",ICD10,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",ICD10,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",ICD10,0
+P101,Cerebral haemorrhage due to birth injury,ICD10,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,ICD10,0
+S062,Diffuse brain injury,ICD10,0
+S063,Focal brain injury,ICD10,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",ICD10,1
+S064,Epidural haemorrhage,ICD10,0
+P108,Other intracranial lacerations and haemorrhages due to birth injury,ICD10,0
+S066,Traumatic subarachnoid haemorrhage,ICD10,0
+S065,Traumatic subdural haemorrhage,ICD10,0
+I620,Subdural haemorrhage (acute)(nontraumatic),ICD10,1
+P100,Subdural haemorrhage due to birth injury,ICD10,0
+P528,Other intracranial (nontraumatic) haemorrhages of fetus and newborn,ICD10,0
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",ICD10,1
+I618,Other intracerebral haemorrhage,ICD10,1
+I613,Intracerebral haemorrhage in brain stem,ICD10,1
+I614,Intracerebral haemorrhage in cerebellum,ICD10,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,ICD10,0
+I616,"Intracerebral haemorrhage, multiple localized",ICD10,1
+I691,Sequelae of intracerebral haemorrhage,ICD10,0
+I638,Other cerebral infarction,ICD10,0
+E854,Organ-limited amyloidosis,ICD10,0
+I680,Cerebral amyloid angiopathy,ICD10,0
+E859,"Amyloidosis, unspecified",ICD10,0
+E852,"Heredofamilial amyloidosis, unspecified",ICD10,0
+I609,"Subarachnoid haemorrhage, unspecified",ICD10,1
+I60,Subarachnoid haemorrhage,ICD10,1
+P103,Subarachnoid haemorrhage due to birth injury,ICD10,0
+P525,Subarachnoid (nontraumatic) haemorrhage of fetus and newborn,ICD10,0
+I600,Subarachnoid haemorrhage from carotid siphon and bifurcation,ICD10,1
+I608,Other subarachnoid haemorrhage,ICD10,1
+T063,Injuries of blood vessels involving multiple body regions,ICD10,0
+I606,Subarachnoid haemorrhage from other intracranial arteries,ICD10,1
+I607,"Subarachnoid haemorrhage from intracranial artery, unspecified",ICD10,1
+A520,Cardiovascular syphilis,ICD10,0
+I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere,ICD10,0
+I605,Subarachnoid haemorrhage from vertebral artery,ICD10,1
+I601,Subarachnoid haemorrhage from middle cerebral artery,ICD10,1
+I602,Subarachnoid haemorrhage from anterior communicating artery,ICD10,1
+I603,Subarachnoid haemorrhage from posterior communicating artery,ICD10,1
+I604,Subarachnoid haemorrhage from basilar artery,ICD10,1
+Z867,Personal history of diseases of the circulatory system,ICD10,0
+I621,Nontraumatic extradural haemorrhage,ICD10,1
+I629,"Intracranial haemorrhage (nontraumatic), unspecified",ICD10,1
+I619,"Intracerebral haemorrhage, unspecified",cancer,1
+I61,Intracerebral haemorrhage,cancer,1
+P10,Intracranial laceration and haemorrhage due to birth injury,cancer,0
+P52,Intracranial nontraumatic haemorrhage of fetus and newborn,cancer,0
+S068,Other intracranial injuries,cancer,0
+I615,"Intracerebral haemorrhage, intraventricular",cancer,1
+I612,"Intracerebral haemorrhage in hemisphere, unspecified",cancer,1
+O994,"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",cancer,0
+P101,Cerebral haemorrhage due to birth injury,cancer,0
+P524,Intracerebral (nontraumatic) haemorrhage of fetus and newborn,cancer,0
+S062,Diffuse brain injury,cancer,0
+S063,Focal brain injury,cancer,0
+I611,"Intracerebral haemorrhage in hemisphere, cortical",cancer,1
+S064,Epidural haemorrhage,cancer,0
+P108,Other intracranial lacerations and haemorrhages due to birth injury,cancer,0
+S066,Traumatic subarachnoid haemorrhage,cancer,0
+S065,Traumatic subdural haemorrhage,cancer,0
+I620,Subdural haemorrhage (acute)(nontraumatic),cancer,1
+P100,Subdural haemorrhage due to birth injury,cancer,0
+P528,Other intracranial (nontraumatic) haemorrhages of fetus and newborn,cancer,0
+I610,"Intracerebral haemorrhage in hemisphere, subcortical",cancer,1
+I618,Other intracerebral haemorrhage,cancer,1
+I613,Intracerebral haemorrhage in brain stem,cancer,1
+I614,Intracerebral haemorrhage in cerebellum,cancer,1
+P526,Cerebellar (nontraumatic) and posterior fossa haemorrhage of fetus and newborn,cancer,0
+I616,"Intracerebral haemorrhage, multiple localized",cancer,1
+I691,Sequelae of intracerebral haemorrhage,cancer,0
+I638,Other cerebral infarction,cancer,0
+E854,Organ-limited amyloidosis,cancer,0
+I680,Cerebral amyloid angiopathy,cancer,0
+E859,"Amyloidosis, unspecified",cancer,0
+E852,"Heredofamilial amyloidosis, unspecified",cancer,0
+I609,"Subarachnoid haemorrhage, unspecified",cancer,1
+I60,Subarachnoid haemorrhage,cancer,1
+P103,Subarachnoid haemorrhage due to birth injury,cancer,0
+P525,Subarachnoid (nontraumatic) haemorrhage of fetus and newborn,cancer,0
+I600,Subarachnoid haemorrhage from carotid siphon and bifurcation,cancer,1
+I608,Other subarachnoid haemorrhage,cancer,1
+T063,Injuries of blood vessels involving multiple body regions,cancer,0
+I606,Subarachnoid haemorrhage from other intracranial arteries,cancer,1
+I607,"Subarachnoid haemorrhage from intracranial artery, unspecified",cancer,1
+A520,Cardiovascular syphilis,cancer,0
+I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere,cancer,0
+I605,Subarachnoid haemorrhage from vertebral artery,cancer,1
+I601,Subarachnoid haemorrhage from middle cerebral artery,cancer,1
+I602,Subarachnoid haemorrhage from anterior communicating artery,cancer,1
+I603,Subarachnoid haemorrhage from posterior communicating artery,cancer,1
+I604,Subarachnoid haemorrhage from basilar artery,cancer,1
+Z867,Personal history of diseases of the circulatory system,cancer,0
+I621,Nontraumatic extradural haemorrhage,cancer,1
+I629,"Intracranial haemorrhage (nontraumatic), unspecified",cancer,1

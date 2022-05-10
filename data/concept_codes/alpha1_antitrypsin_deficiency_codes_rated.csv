@@ -1,0 +1,17 @@
+Code,Description,Source,Decision
+C3762,Alpha-1-antitrypsin deficiency,V3,1
+C3761,Alpha-1-antitrypsin hepatitis,V3,1
+X101o,Pulmonary emphysema in alpha-1 PI deficiency,V3,1
+X772S,Alpha-1-antitrypsin phenotype PiZZ,V3,1
+C3762,Alpha-1-antitrypsin deficiency,V2,1
+C3761,Alpha-1-antitrypsin hepatitis,V2,1
+H32..,Emphysema,V2,0
+4L00.,Alpha-1-antitrypsin phenotype,V2,1
+E880,"Disorders of plasma-protein metabolism, not elsewhere classified",ICD10,0
+J438,Other emphysema,ICD10,0
+E880,"Disorders of plasma-protein metabolism, not elsewhere classified",MD,0
+J438,Other emphysema,MD,0
+E880,"Disorders of plasma-protein metabolism, not elsewhere classified",cancer,0
+J438,Other emphysema,cancer,0
+2734,Alpha-1-antitrypsin deficency,ICD9,1
+1496,Alpha-1-antitrypsin deficency,SR,1

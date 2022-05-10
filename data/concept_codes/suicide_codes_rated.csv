@@ -1,0 +1,463 @@
+Code,Description,Source,Decision
+X79pf,Suicide,V3,1
+XM0yp,Drug overdose - suicide,V3,1
+1289.,FH: Suicide,V3,0
+Ua1WE,Suicide risk,V3,0
+XaZ8H,Suicide risk unchanged from previous level,V3,0
+XaZ8G,Suicide risk increased from previous level,V3,0
+XaIeX,Low suicide risk,V3,0
+XaIeW,Moderate suicide risk,V3,0
+XaIeV,High suicide risk,V3,1
+Xa3FF,Threatening suicide,V3,1
+Ua18F,Suicide attempt,V3,1
+X75yS,Planning suicide,V3,1
+Xa3jL,Suicide - hanging,V3,1
+XM0jY,Suicide risk scale,V3,0
+Ua1TL,Suicide prevention,V3,0
+XaP7J,Suicide precautions,V3,0
+Xa3jN,Suicide - drowning,V3,1
+Xa3jO,Suicide - firearms,V3,1
+Xa3jP,Suicide - cut/stab,V3,1
+Xa3jK,Suicide - car exhaust,V3,1
+Xa3jI,Attempted suicide NOS,V3,1
+XE22H,Suicide and self harm,V3,1
+TK0z.,Suicide and selfinflicted poisoning by solid and liquid substances NOS,V3,1
+TK4..,Suicide and selfinflicted injury by drowning,V3,1
+TK5..,Suicide or selfinflicted injury by firearms and explosives,V3,1
+TK50.,Suicide or selfinflicted injury by handgun,V3,1
+TK51.,Suicide or selfinflicted injury by shotgun,V3,1
+TK52.,Suicide or selfinflicted injury by hunting rifle,V3,1
+TK53.,Suicide or selfinflicted injury by military firearm,V3,1
+TK54.,Suicide and selfinflicted injury by other firearm,V3,1
+TK55.,Suicide or selfinflicted injury by explosives,V3,1
+TK5z.,Suicide and selfinflicted injury by firearms and explosives NOS,V3,1
+Xa3jF,Attempted suicide - firearms,V3,0
+TK6..,Suicide or selfinflicted injury by cutting and stabbing,V3,1
+TK60.,Suicide or selfinflicted injury by cutting,V3,1
+TK601,Self inflicted lacerations to wrist,V3,1
+TK61.,Suicide or selfinflicted injury by stabbing,V3,1
+TK6z.,Suicide and selfinflicted injury by cutting and stabbing instruments NOS,V3,1
+Xa3jG,Attempted suicide - cut/stab,V3,1
+TK7..,Suicide or self injury by jumping from a height,V3,1
+TK70.,Suicide and selfinflicted injury by jumping from residential premises,V3,1
+TK71.,Suicide and selfinflicted injury by jumping from other man-made structure,V3,1
+TK72.,Suicide and selfinflicted injury by jumping from natural sites,V3,1
+TK7z.,Suicide and selfinflicted injury by jumping from high place NOS,V3,1
+X71B6,Suicide or self injury by jumping from high man-made structure,V3,1
+X71B7,Suicide or self injury by jumping from high building,V3,1
+X71B8,Suicide or self injury by jumping from bridge,V3,1
+X71B9,Suicide or self injury by jumping from high natural feature,V3,1
+X71BA,Suicide or self injury by jumping off cliff,V3,1
+Xa3jH,Attempted suicide - jumping from a high place,V3,1
+Xa3jQ,Suicide - jumping from a high place,V3,1
+TKx..,Suicide and selfinflicted injury by other means,V3,1
+TKx0.,Suicide and selfinflicted injury by jumping or lying before moving object,V3,1
+TKx00,Suicide and selfinflicted injury by jumping before moving object,V3,1
+TKx01,Suicide and selfinflicted injury by lying before moving object,V3,1
+TKx0z,Suicide and selfinflicted injury by jumping or lying before moving object NOS,V3,1
+TKxy.,Suicide and selfinflicted injury by other specified means,V3,1
+TKxz.,Suicide and selfinflicted injury by other means NOS,V3,1
+TKx1.,Suicide or self injury by burning or fire,V3,1
+TKx2.,Suicide or self injury by scalding,V3,1
+X71BF,Suicide or self injury by igniting petrol soaked clothing,V3,1
+X71BG,Suicide or self injury by arson,V3,1
+X71BH,Self injury by cigarette burn,V3,1
+XE22K,Self injury with external chemical burn,V3,1
+TKx3.,Suicide or self injury by exposure to cold,V3,1
+TKx4.,Suicide or self injury by electric current,V3,1
+TKx7.,"Suicide and selfinflicted injury by caustic substances, excluding poisoning",V3,1
+TKz..,Suicide and selfinflicted injury NOS,V3,1
+Xa3jR,Suicide NOS,V3,1
+X71B3,Self poisoning by gas,V3,1
+TK1..,Suicide and selfinflicted poisoning by gases in domestic use,V3,1
+TK10.,Suicide and selfinflicted poisoning by gas distributed by pipeline,V3,1
+TK11.,Suicide and selfinflicted poisoning by liquefied petroleum gas distributed in mobile containers,V3,1
+TK1y.,Suicide and selfinflicted poisoning by other utility gas,V3,1
+TK1z.,Suicide and selfinflicted poisoning by gases in domestic use NOS,V3,1
+Xa3jJ,Suicide - domestic gas,V3,1
+Xa42C,Attempt suicide - domestic gas,V3,1
+TK21.,Suicide and selfinflicted poisoning by other carbon monoxide,V3,1
+TK2y.,Suicide and selfinflicted poisoning by other gases and vapours,V3,1
+TK2z.,Suicide and selfinflicted poisoning by gases and vapours NOS,V3,1
+X71B4,Self poisoning by carbon monoxide,V3,1
+TK20.,Self poisoning by motor vehicle exhaust gas,V3,1
+XE24V,Attempt suicide - car exhaust,V3,1
+X71B5,Self poisoning by coal gas,V3,1
+X71BB,Suicide or self injury associated with moving vehicles,V3,1
+TKx5.,Suicide or selfinflicted injury by crashing motor vehicle,V3,1
+TKx6.,Suicide or selfinflicted injury by crashing of aircraft,V3,1
+X71BC,Suicide or self injury by placing self in path of moving vehicle,V3,1
+X71BD,Suicide or self injury by placing self in path of moving motor vehicle,V3,1
+X71BE,Suicide or self injury by placing self in path of moving railway vehicle,V3,1
+XE22J,Suicide or attempted suicide by drowning,V3,1
+Xa3jE,Attempted suicide - drowning,V3,1
+XM0Ba,Deliberate self poisoning,V3,1
+TK0..,Suicide and selfinflicted poisoning by solid and liquid substances,V3,1
+X71Am,Deliberate overdose of drug or pharmaceutical preparation,V3,1
+TK00.,"Suicide and selfinflicted poisoning by analgesics, antipyretics and anti-rheumatics",V3,1
+TK01.,Suicide and selfinflicted poisoning by barbiturates,V3,1
+TK010,Suicide and self inflicted injury by amobarbital,V3,1
+TK011,Suicide and self inflicted injury by Barbitone,V3,1
+TK012,Suicide and self inflicted injury by Butabarbitone,V3,1
+TK013,Suicide and self inflicted injury by Pentabarbitone,V3,1
+TK014,Suicide and self inflicted injury by phenobarbital,V3,1
+TK015,Suicide and self inflicted injury by secobarbital,V3,1
+TK01z,Suicide and self inflicted injury by barbiturates,V3,1
+TK02.,Suicide and selfinflicted poisoning by other sedatives and hypnotics,V3,1
+TK03.,Suicide and selfinflicted poisoning by tranquillisers and other psychotropic agents,V3,1
+TK04.,Suicide and selfinflicted poisoning by other drugs and medicines,V3,1
+TK05.,Suicide and selfinflicted poisoning by drug or medicine NOS,V3,1
+X71B0,Self poisoning by non-drug solid or liquid agents,V3,1
+TK07.,Self poisoning by corrosive or caustic substance,V3,1
+TK08.,Self poisoning by arsenic or its compounds,V3,1
+X71B2,Self poisoning by plants or parts of plants,V3,1
+XM1FX,Self poisoning by agricultural chemical,V3,1
+TK06.,Suicide and selfinflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers,V3,1
+X71B1,Self poisoning by paraquat,V3,1
+XM1Fs,"Self hanging, strangulation or suffocation",V3,1
+TK3..,"Suicide and selfinflicted injury by hanging, strangulation and suffocation",V3,1
+TK30.,Suicide or attempted suicide by hanging,V3,1
+Xa3jC,Attempted suicide - hanging,V3,1
+TK3y.,"Suicide and selfinflicted injury by other means of hanging, strangulation and suffocation",V3,1
+TK3z.,"Suicide and selfinflicted injury by hanging, strangulation and suffocation NOS",V3,1
+XE22I,Suicide and selfinflicted injury by suffocation by plastic bag,V3,1
+Xa3jD,Attempted suicide - suffocation,V3,1
+Xa3jM,Suicide - suffocation,V3,1
+Xa0EN,Self inflicted injury,V3,1
+146A.,H/O: attempted suicide,V3,1
+13MB.,Suicide of close relative,V3,0
+1289,Family history of suicide,V3,0
+Xa26a,Suicide intent score scale,V3,0
+Xa26b,Suicide intent score scale - summated,V3,0
+XaNFq,Pierce suicide intent scale score,V3,0
+Xa26c,Suicide intent score subscale,V3,0
+Xa26d,Suicide intent score subscale - attempt circumstances,V3,1
+Xa26e,Suicide intent score subscale - self report,V3,0
+Xa26f,Suicide intent score subscale - risk,V3,0
+U2...,[X]Suicide,V2,1
+1289.,FH: Suicide,V2,0
+1BD4.,Suicide risk,V2,0
+1BDF.,Suicide risk unchanged from previous level,V2,0
+1BDE.,Suicide risk increased from previous level,V2,0
+1BD7.,Low suicide risk,V2,0
+1BD6.,Moderate suicide risk,V2,0
+1BD5.,High suicide risk,V2,1
+TK...,Suicide and selfinflicted injury,V2,1
+1BD3.,Suicidal plans,V2,1
+TK30.,Suicide and selfinflicted injury by hanging,V2,1
+38D..,Further miscellaneous scales,V2,0
+38G..,Additional miscellaneous scales,V2,0
+6....,Preventive procedures,V2,0
+TK5..,Suicide and selfinflicted injury by firearms and explosives,V2,1
+TK6..,Suicide and selfinflicted injury by cutting and stabbing instruments,V2,1
+TK20.,Suicide and selfinflicted poisoning by motor vehicle exhaust gas,V2,1
+TKz..,Suicide and selfinflicted injury NOS,V2,1
+TK0z.,Suicide and selfinflicted poisoning by solid and liquid substances NOS,V2,1
+TK4..,Suicide and selfinflicted injury by drowning,V2,1
+TK50.,Suicide and selfinflicted injury by handgun,V2,1
+TK51.,Suicide and selfinflicted injury by shotgun,V2,1
+TK52.,Suicide and selfinflicted injury by hunting rifle,V2,1
+TK53.,Suicide and selfinflicted injury by military firearms,V2,1
+TK54.,Suicide and selfinflicted injury by other firearm,V2,1
+TK55.,Suicide and selfinflicted injury by explosives,V2,1
+TK5z.,Suicide and selfinflicted injury by firearms and explosives NOS,V2,1
+TK60.,Suicide and selfinflicted injury by cutting,V2,1
+TK601,Self inflicted lacerations to wrist,V2,1
+TK61.,Suicide and selfinflicted injury by stabbing,V2,1
+TK6z.,Suicide and selfinflicted injury by cutting and stabbing instruments NOS,V2,1
+TK7..,Suicide and selfinflicted injury by jumping from high place,V2,1
+TK70.,Suicide and selfinflicted injury by jumping from residential premises,V2,1
+TK71.,Suicide and selfinflicted injury by jumping from other manmade structure,V2,1
+TK72.,Suicide and selfinflicted injury by jumping from natural sites,V2,1
+TK7z.,Suicide and selfinflicted injury by jumping from high place NOS,V2,1
+TKx..,Suicide and selfinflicted injury by other means,V2,1
+TKx0.,Suicide and selfinflicted injury by jumping or lying before moving object,V2,1
+TKx00,Suicide and selfinflicted injury by jumping before moving object,V2,1
+TKx01,Suicide and selfinflicted injury by lying before moving object,V2,1
+TKx0z,Suicide and selfinflicted injury by jumping or lying before moving object NOS,V2,1
+TKxy.,Suicide and selfinflicted injury by other specified means,V2,1
+TKxz.,Suicide and selfinflicted injury by other means NOS,V2,1
+TKx1.,Suicide and selfinflicted injury by burns or fire,V2,1
+TKx2.,Suicide and selfinflicted injury by scald,V2,1
+TKx3.,Suicide and selfinflicted injury by extremes of cold,V2,1
+TKx4.,Suicide and selfinflicted injury by electrocution,V2,1
+TKx7.,"Suicide and selfinflicted injury by caustic substances, except poisoning",V2,1
+TK1..,Suicide + selfinflicted poisoning by gases in domestic use,V2,1
+TK10.,Suicide and selfinflicted poisoning by gas distributed by pipeline,V2,1
+TK11.,Suicide and selfinflicted poisoning by liquefied petroleum gas distributed in mobile containers,V2,1
+TK1y.,Suicide and selfinflicted poisoning by other utility gas,V2,1
+TK1z.,Suicide and selfinflicted poisoning by gases in domestic use NOS,V2,1
+TK21.,Suicide and selfinflicted poisoning by other carbon monoxide,V2,1
+TK2y.,Suicide and selfinflicted poisoning by other gases and vapours,V2,1
+TK2z.,Suicide + selfinflicted poisoning by gases and vapours NOS,V2,1
+TKx5.,Suicide and selfinflicted injury by crashing of motor vehicle,V2,1
+TKx6.,Suicide and selfinflicted injury by crashing of aircraft,V2,1
+U20..,[X]Intentional self poisoning by and exposure to noxious substances,V2,1
+TK0..,Suicide and selfinflicted poisoning by solid and liquid substances,V2,1
+TK00.,"Suicide and selfinflicted poisoning by analgesics, antipyretics and anti-rheumatics",V2,1
+TK01.,Suicide + selfinflicted poisoning by barbiturates,V2,1
+TK010,Suicide and self inflicted injury by amobarbital,V2,1
+TK011,Suicide and self inflicted injury by Barbitone,V2,1
+TK012,Suicide and self inflicted injury by Butabarbitone,V2,1
+TK013,Suicide and self inflicted injury by Pentabarbitone,V2,1
+TK014,Suicide and self inflicted injury by phenobarbital,V2,1
+TK015,Suicide and self inflicted injury by secobarbital,V2,1
+TK01z,Suicide and self inflicted injury by barbiturates,V2,1
+TK02.,Suicide and selfinflicted poisoning by other sedatives and hypnotics,V2,1
+TK03.,Suicide and selfinflicted poisoning by tranquillisers and other psychotropic agents,V2,1
+TK04.,Suicide and selfinflicted poisoning by other drugs and medicines,V2,1
+TK05.,Suicide + selfinflicted poisoning by drug or medicine NOS,V2,1
+TK07.,Suicide and selfinflicted poisoning by corrosive and caustic substances,V2,1
+TK08.,Suicide and selfinflicted poisoning by arsenic and its compounds,V2,1
+U20C.,[X]Intentional self poisoning by and exposure to pesticides,V2,1
+TK06.,Suicide and selfinflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers,V2,1
+TK3..,"Suicide and selfinflicted injury by hanging, strangulation and suffocation",V2,1
+TK3y.,"Suicide and selfinflicted injury by other means of hanging, strangulation and suffocation",V2,1
+TK3z.,"Suicide and selfinflicted injury by hanging, strangulation and suffocation NOS",V2,1
+TK31.,Suicide and selfinflicted injury by suffocation by plastic bag,V2,1
+146A.,H/O: attempted suicide,V2,1
+13MB.,Suicide of close relative,V2,0
+388s.,Pierce suicide intent scale score,V2,0
+1290,deliberate self-harm/suicide attempt,SR,1
+X849,Intentional self-harm by unspecified means,MD,1
+X84,Intentional self-harm by unspecified means,MD,1
+X649,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",MD,1
+X64,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",MD,1
+X83,Intentional self-harm by other specified means,MD,1
+R458,Other symptoms and signs involving emotional state,MD,0
+X719,Intentional self-harm by drowning and submersion,MD,1
+X71,Intentional self-harm by drowning and submersion,MD,1
+X749,Intentional self-harm by other and unspecified firearm discharge,MD,1
+X74,Intentional self-harm by other and unspecified firearm discharge,MD,1
+X72,Intentional self-harm by handgun discharge,MD,1
+X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge",MD,1
+X789,Intentional self-harm by sharp object,MD,1
+X78,Intentional self-harm by sharp object,MD,1
+X679,Intentional self-poisoning by and exposure to other gases and vapours,MD,1
+X67,Intentional self-poisoning by and exposure to other gases and vapours,MD,1
+S619,"Open wound of wrist and hand, part unspecified",MD,0
+X809,Intentional self-harm by jumping from a high place,MD,1
+X80,Intentional self-harm by jumping from a high place,MD,1
+T300,"Burn of unspecified body region, unspecified degree",MD,0
+T301,"Burn of first degree, body region unspecified",MD,0
+T302,"Burn of second degree, body region unspecified",MD,0
+T303,"Burn of third degree, body region unspecified",MD,0
+T304,"Corrosion of unspecified body region, unspecified degree",MD,0
+T305,"Corrosion of first degree, body region unspecified",MD,0
+T306,"Corrosion of second degree, body region unspecified",MD,0
+T307,"Corrosion of third degree, body region unspecified",MD,0
+T32,Corrosions classified according to extent of body surface involved,MD,0
+T599,"Toxic effect: Gases, fumes and vapours, unspecified",MD,0
+T58,Toxic effect of carbon monoxide,MD,0
+T598,"Toxic effect: Other specified gases, fumes and vapours",MD,0
+T659,Toxic effect: Toxic effect of unspecified substance,MD,0
+X699,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,MD,1
+X69,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,MD,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",MD,0
+T549,"Toxic effect: Corrosive substance, unspecified",MD,0
+T54,Toxic effect of corrosive substances,MD,0
+T570,Toxic effect: Arsenic and its compounds,MD,0
+X689,Intentional self-poisoning by and exposure to pesticides,MD,1
+X68,Intentional self-poisoning by and exposure to pesticides,MD,1
+T622,Toxic effect: Other ingested (parts of) plant(s),MD,0
+T621,Toxic effect: Ingested berries,MD,0
+T658,Toxic effect: Toxic effect of other specified substances,MD,0
+T603,Toxic effect: Herbicides and fungicides,MD,0
+X709,"Intentional self-harm by hanging, strangulation and suffocation",MD,1
+X70,"Intentional self-harm by hanging, strangulation and suffocation",MD,1
+T149,"Injury, unspecified",MD,0
+T14,Injury of unspecified body region,MD,0
+Z915,Personal history of self-harm,MD,1
+Z818,Family history of other mental and behavioural disorders,MD,0
+Y870,Sequelae of intentional self-harm,MD,1
+X75,Intentional self-harm by explosive material,MD,1
+X76,"Intentional self-harm by smoke, fire and flames",MD,1
+X77,"Intentional self-harm by steam, hot vapours and hot objects",MD,1
+X79,Intentional self-harm by blunt object,MD,1
+X82,Intentional self-harm by crashing of motor vehicle,MD,1
+E950,Suicide and self-inflicted poisoning by solid or liquid substances,ICD9,1
+E9500,"Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics",ICD9,1
+E9501,Suicide and self-inflicted poisoning by barbiturates,ICD9,1
+E9502,Suicide and self-inflicted poisoning by other sedatives and hypnotics,ICD9,1
+E9503,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents,ICD9,1
+E9504,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances,ICD9,1
+E9505,Suicide and self-inflicted poisoning by unspecified drug or medicinal substance,ICD9,1
+E9506,Suicide and self-inflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers,ICD9,1
+E9507,Suicide and self-inflicted poisoning by corrosive and caustic substances,ICD9,1
+E9508,Suicide and self-inflicted poisoning by arsenic and its compounds,ICD9,1
+E9509,Suicide and self-inflicted poisoning by other and unspecified solid and liquid substances,ICD9,1
+E951,Suicide and self-inflicted poisoning by gases in domestic use,ICD9,1
+E9510,Suicide and self-inflicted poisoning by gas distributed by pipeline,ICD9,1
+E9511,Suicide and self-inflicted poisoning by liquefied petroleum gas distributed in mobile containers,ICD9,1
+E9518,Suicide and self-inflicted poisoning by other utility gas,ICD9,1
+E952,Suicide and self-inflicted poisoning by other gases and vapors,ICD9,1
+E9520,Suicide and self-inflicted poisoning by motor vehicle exhaust gas,ICD9,1
+E9521,Suicide and self-inflicted poisoning by other carbon monoxide,ICD9,1
+E9528,Suicide and self-inflicted poisoning by other specified gases and vapors,ICD9,1
+E9529,Suicide and self-inflicted poisoning by unspecified gases and vapors,ICD9,1
+E953,"Suicide and self-inflicted injury by hanging, strangulation, and suffocation",ICD9,1
+E9530,Suicide and self-inflicted injury by hanging,ICD9,1
+E9531,Suicide and self-inflicted injury by suffocation by plastic bag,ICD9,1
+E9538,"Suicide and self-inflicted injury by hanging, other specified means",ICD9,1
+E9539,"Suicide and self-inflicted injury by hanging, unspecified means",ICD9,1
+E954,Suicide and self-inflicted injury by submersion [drowning],ICD9,1
+E955,"Suicide and self-inflicted injury by firearms, air guns, and explosives",ICD9,1
+E9550,Suicide and self-inflicted injury by handgun,ICD9,1
+E9551,Suicide and self-inflicted injury by shotgun,ICD9,1
+E9552,Suicide and self-inflicted injury by hunting rifle,ICD9,1
+E9553,Suicide and self-inflicted injury by military firearms,ICD9,1
+E9554,Suicide and self-inflicted injury by other and unspecified firearm,ICD9,1
+E9555,Suicide and self-inflicted injury by explosives,ICD9,1
+E9556,Suicide and self-inflicted injury by air gun,ICD9,1
+E9557,"Suicide and self-inflicted injury by firearms, air guns and explosives paintball gun",ICD9,1
+E9559,"Suicide and self-inflicted injury by firearms and explosives, unspecified",ICD9,1
+E956,Suicide and self-inflicted injury by cutting and piercing instrument,ICD9,1
+E957,Suicide and self-inflicted injuries by jumping from high place,ICD9,1
+E9570,Suicide and self-inflicted injuries by jumping from residential premises,ICD9,1
+E9571,Suicide and self-inflicted injuries by jumping from other man-made structures,ICD9,1
+E9572,Suicide and self-inflicted injuries by jumping from natural sites,ICD9,1
+E9579,Suicide and self-inflicted injuries by jumping from unspecified site,ICD9,1
+E958,Suicide and self-inflicted injury by other and unspecified means,ICD9,1
+E9580,Suicide and self-inflicted injury by jumping or lying before moving object,ICD9,1
+E9581,"Suicide and self-inflicted injury by burns, fire",ICD9,1
+E9582,Suicide and self-inflicted injury by scald,ICD9,1
+E9583,Suicide and self-inflicted injury by extremes of cold,ICD9,1
+E9584,Suicide and self-inflicted injury by electrocution,ICD9,1
+E9585,Suicide and self-inflicted injury by crashing of motor vehicle,ICD9,1
+E9586,Suicide and self-inflicted injury by crashing of aircraft,ICD9,1
+E9587,"Suicide and self-inflicted injury by caustic substances, except poisoning",ICD9,1
+E9589,Suicide and self-inflicted injury by unspecified means,ICD9,1
+E959,Late effects of self-inflicted injury,ICD9,1
+E985,"Injury by firearms, air guns and explosives, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9850,"Injury by handgun, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9851,"Injury by shotgun, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9852,"Injury by hunting rifle, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9853,"Injury by military firearms, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9854,"Injury by other and unspecified firearm, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9855,"Injury by explosives, undetermined whether accidentally or purposely inflicted",ICD9,1
+E986,"Injury by cutting and piercing instruments, undetermined whether accidentally or purposely inflicted",ICD9,1
+E988,"Injury by other and unspecified means, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9880,"Injury by jumping or lying before moving object, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9881,"Injury by burns or fire, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9882,"Injury by scald, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9883,"Injury by extremes of cold, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9884,"Injury by electrocution, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9885,"Injury by crashing of motor vehicle, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9886,"Injury by crashing of aircraft, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9887,"Injury by caustic substances, except poisoning, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9888,"Injury by other specified means, undetermined whether accidentally or purposely inflicted",ICD9,1
+E9889,"Injury by unspecified means, undetermined whether accidentally or purposely inflicted",ICD9,1
+E989,"Late effects of injury, undetermined whether accidentally or purposely inflicted",ICD9,1
+V6284,Suicidal ideation,ICD9,1
+X849,Intentional self-harm by unspecified means,ICD10,1
+X84,Intentional self-harm by unspecified means,ICD10,1
+X649,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",ICD10,1
+X64,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",ICD10,1
+X83,Intentional self-harm by other specified means,ICD10,1
+R458,Other symptoms and signs involving emotional state,ICD10,0
+X719,Intentional self-harm by drowning and submersion,ICD10,1
+X71,Intentional self-harm by drowning and submersion,ICD10,1
+X749,Intentional self-harm by other and unspecified firearm discharge,ICD10,1
+X74,Intentional self-harm by other and unspecified firearm discharge,ICD10,1
+X72,Intentional self-harm by handgun discharge,ICD10,1
+X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge",ICD10,1
+X789,Intentional self-harm by sharp object,ICD10,1
+X78,Intentional self-harm by sharp object,ICD10,1
+X679,Intentional self-poisoning by and exposure to other gases and vapours,ICD10,1
+X67,Intentional self-poisoning by and exposure to other gases and vapours,ICD10,1
+S619,"Open wound of wrist and hand, part unspecified",ICD10,0
+X809,Intentional self-harm by jumping from a high place,ICD10,1
+X80,Intentional self-harm by jumping from a high place,ICD10,1
+T300,"Burn of unspecified body region, unspecified degree",ICD10,0
+T301,"Burn of first degree, body region unspecified",ICD10,0
+T302,"Burn of second degree, body region unspecified",ICD10,0
+T303,"Burn of third degree, body region unspecified",ICD10,0
+T304,"Corrosion of unspecified body region, unspecified degree",ICD10,0
+T305,"Corrosion of first degree, body region unspecified",ICD10,0
+T306,"Corrosion of second degree, body region unspecified",ICD10,0
+T307,"Corrosion of third degree, body region unspecified",ICD10,0
+T32,Corrosions classified according to extent of body surface involved,ICD10,0
+T599,"Toxic effect: Gases, fumes and vapours, unspecified",ICD10,0
+T58,Toxic effect of carbon monoxide,ICD10,0
+T598,"Toxic effect: Other specified gases, fumes and vapours",ICD10,0
+T659,Toxic effect: Toxic effect of unspecified substance,ICD10,0
+X699,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,ICD10,1
+X69,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,ICD10,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",ICD10,0
+T549,"Toxic effect: Corrosive substance, unspecified",ICD10,0
+T54,Toxic effect of corrosive substances,ICD10,0
+T570,Toxic effect: Arsenic and its compounds,ICD10,0
+X689,Intentional self-poisoning by and exposure to pesticides,ICD10,1
+X68,Intentional self-poisoning by and exposure to pesticides,ICD10,1
+T622,Toxic effect: Other ingested (parts of) plant(s),ICD10,0
+T621,Toxic effect: Ingested berries,ICD10,0
+T658,Toxic effect: Toxic effect of other specified substances,ICD10,0
+T603,Toxic effect: Herbicides and fungicides,ICD10,0
+X709,"Intentional self-harm by hanging, strangulation and suffocation",ICD10,1
+X70,"Intentional self-harm by hanging, strangulation and suffocation",ICD10,1
+T149,"Injury, unspecified",ICD10,0
+T14,Injury of unspecified body region,ICD10,0
+Z915,Personal history of self-harm,ICD10,1
+Z818,Family history of other mental and behavioural disorders,ICD10,0
+Y870,Sequelae of intentional self-harm,ICD10,1
+X75,Intentional self-harm by explosive material,ICD10,1
+X76,"Intentional self-harm by smoke, fire and flames",ICD10,1
+X77,"Intentional self-harm by steam, hot vapours and hot objects",ICD10,1
+X79,Intentional self-harm by blunt object,ICD10,1
+X82,Intentional self-harm by crashing of motor vehicle,ICD10,1
+X849,Intentional self-harm by unspecified means,cancer,1
+X84,Intentional self-harm by unspecified means,cancer,1
+X649,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",cancer,1
+X64,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",cancer,1
+X83,Intentional self-harm by other specified means,cancer,1
+R458,Other symptoms and signs involving emotional state,cancer,0
+X719,Intentional self-harm by drowning and submersion,cancer,1
+X71,Intentional self-harm by drowning and submersion,cancer,1
+X749,Intentional self-harm by other and unspecified firearm discharge,cancer,1
+X74,Intentional self-harm by other and unspecified firearm discharge,cancer,1
+X72,Intentional self-harm by handgun discharge,cancer,1
+X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge",cancer,1
+X789,Intentional self-harm by sharp object,cancer,1
+X78,Intentional self-harm by sharp object,cancer,1
+X679,Intentional self-poisoning by and exposure to other gases and vapours,cancer,1
+X67,Intentional self-poisoning by and exposure to other gases and vapours,cancer,1
+S619,"Open wound of wrist and hand, part unspecified",cancer,0
+X809,Intentional self-harm by jumping from a high place,cancer,1
+X80,Intentional self-harm by jumping from a high place,cancer,1
+T300,"Burn of unspecified body region, unspecified degree",cancer,0
+T301,"Burn of first degree, body region unspecified",cancer,0
+T302,"Burn of second degree, body region unspecified",cancer,0
+T303,"Burn of third degree, body region unspecified",cancer,0
+T304,"Corrosion of unspecified body region, unspecified degree",cancer,0
+T305,"Corrosion of first degree, body region unspecified",cancer,0
+T306,"Corrosion of second degree, body region unspecified",cancer,0
+T307,"Corrosion of third degree, body region unspecified",cancer,0
+T32,Corrosions classified according to extent of body surface involved,cancer,0
+T599,"Toxic effect: Gases, fumes and vapours, unspecified",cancer,0
+T58,Toxic effect of carbon monoxide,cancer,0
+T598,"Toxic effect: Other specified gases, fumes and vapours",cancer,0
+T659,Toxic effect: Toxic effect of unspecified substance,cancer,0
+X699,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,cancer,1
+X69,Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances,cancer,1
+T509,"Poisoning: Other and unspecified drugs, medicaments and biological substances",cancer,0
+T549,"Toxic effect: Corrosive substance, unspecified",cancer,0
+T54,Toxic effect of corrosive substances,cancer,0
+T570,Toxic effect: Arsenic and its compounds,cancer,0
+X689,Intentional self-poisoning by and exposure to pesticides,cancer,1
+X68,Intentional self-poisoning by and exposure to pesticides,cancer,1
+T622,Toxic effect: Other ingested (parts of) plant(s),cancer,0
+T621,Toxic effect: Ingested berries,cancer,0
+T658,Toxic effect: Toxic effect of other specified substances,cancer,0
+T603,Toxic effect: Herbicides and fungicides,cancer,0
+X709,"Intentional self-harm by hanging, strangulation and suffocation",cancer,1
+X70,"Intentional self-harm by hanging, strangulation and suffocation",cancer,1
+T149,"Injury, unspecified",cancer,0
+T14,Injury of unspecified body region,cancer,0
+Z915,Personal history of self-harm,cancer,1
+Z818,Family history of other mental and behavioural disorders,cancer,0
+Y870,Sequelae of intentional self-harm,cancer,1
+X75,Intentional self-harm by explosive material,cancer,1
+X76,"Intentional self-harm by smoke, fire and flames",cancer,1
+X77,"Intentional self-harm by steam, hot vapours and hot objects",cancer,1
+X79,Intentional self-harm by blunt object,cancer,1
+X82,Intentional self-harm by crashing of motor vehicle,cancer,1

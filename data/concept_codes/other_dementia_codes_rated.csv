@@ -1,0 +1,228 @@
+Code,Description,Source,Decision
+Xa0sC,Frontal lobe degeneration,V3,1
+Xaghb,Predominantly cortical dementia,V3,1
+Xa0sE,Dementia of frontal lobe type,V3,1
+X003A,Lewy body disease,V3,1
+XaE74,Senile dementia of the Lewy body type,V3,1
+X0037,Frontotemporal degeneration,V3,1
+X0034,Frontotemporal dementia,V3,1
+F111.,Pick's disease,V3,1
+X0035,Pick's disease with Pick bodies,V3,1
+X0036,Pick's disease with Pick cells and no Pick bodies,V3,1
+Eu020,[X]Dementia in Pick's disease,V3,1
+X0039,Frontal lobe degeneration with motor neurone disease,V3,1
+X003W,Semantic dementia,V3,1
+X003H,Argyrophilic brain disease,V3,1
+X003L,Prion protein disease,V3,1
+A411.,Creutzfeldt-Jakob disease,V3,1
+XabVp,Sporadic Creutzfeldt-Jakob disease,V3,1
+XaA1S,New variant of Creutzfeldt-Jakob disease,V3,1
+X003M,Gerstmann-Straussler-Scheinker syndrome,V3,1
+A410.,Kuru,V3,1
+X003N,Familial fatal insomnia,V3,1
+X003K,Spongiform encephalopathy,V3,1
+Eu021,[X]Dementia in Creutzfeldt-Jakob disease,V3,1
+F11x7,Cerebral degeneration due to Creutzfeldt-Jakob disease,V3,1
+X001T,Limbic encephalitis,V3,1
+X003P,Acquired immune deficiency syndrome dementia complex,V3,1
+XE1Xs,Vascular dementia,V3,1
+X003R,Vascular dementia of acute onset,V3,1
+X003T,Subcortical vascular dementia,V3,1
+X003V,Mixed cortical and subcortical vascular dementia,V3,1
+Xa0lH,Multi-infarct dementia,V3,1
+E0040,Uncomplicated arteriosclerotic dementia,V3,1
+E0041,Arteriosclerotic dementia with delirium,V3,1
+E0042,Arteriosclerotic dementia with paranoia,V3,1
+E0043,Arteriosclerotic dementia with depression,V3,1
+E004z,Arteriosclerotic dementia NOS,V3,1
+Eu01y,[X]Other vascular dementia,V3,1
+Eu01z,"[X]Vascular dementia, unspecified",V3,1
+F21y2,Binswanger's disease,V3,1
+X003Y,Epileptic dementia,V3,1
+X003I,Post-traumatic dementia,V3,1
+X003J,Punch drunk syndrome,V3,1
+Xa25J,Alcoholic dementia,V3,1
+X00R2,Senile dementia,V3,1
+E000.,Uncomplicated senile dementia,V3,1
+E002.,Senile dementia with depressive or paranoid features,V3,1
+E0020,Senile dementia with paranoia,V3,1
+E0021,Senile dementia with depression,V3,1
+E002z,Senile dementia with depressive or paranoid features NOS,V3,1
+E003.,Senile dementia with delirium,V3,1
+E001.,Presenile dementia,V3,1
+X005A,Dialysis dementia,V3,1
+Eu02z,[X] Unspecified dementia,V2,1
+F116.,Lewy body disease,V2,1
+F118.,Frontotemporal degeneration,V2,1
+F111.,Pick's disease,V2,1
+Eu020,[X]Dementia in Pick's disease,V2,1
+A411.,Jakob-Creutzfeldt disease,V2,1
+A4110,Sporadic Creutzfeldt-Jakob disease,V2,1
+A410.,Kuru,V2,1
+Eu021,[X]Dementia in Creutzfeldt-Jakob disease,V2,1
+F11x7,Cerebral degeneration due to Jakob - Creutzfeldt disease,V2,1
+Eu024,[X]Dementia in human immunodef virus [HIV] disease,V2,1
+E004.,Arteriosclerotic dementia,V2,1
+Eu010,[X]Vascular dementia of acute onset,V2,1
+Eu012,[X]Subcortical vascular dementia,V2,1
+Eu013,[X]Mixed cortical and subcortical vascular dementia,V2,1
+E0040,Uncomplicated arteriosclerotic dementia,V2,1
+E0041,Arteriosclerotic dementia with delirium,V2,1
+E0042,Arteriosclerotic dementia with paranoia,V2,1
+E0043,Arteriosclerotic dementia with depression,V2,1
+E004z,Arteriosclerotic dementia NOS,V2,1
+Eu01y,[X]Other vascular dementia,V2,1
+Eu01z,"[X]Vascular dementia, unspecified",V2,1
+F21y2,Binswanger's disease,V2,1
+E00..,Senile and presenile organic psychotic conditions,V2,1
+E012.,Alcoholic dementia NOS,V2,1
+E000.,Uncomplicated senile dementia,V2,1
+E002.,Senile dementia with depressive or paranoid features,V2,1
+E0020,Senile dementia with paranoia,V2,1
+E0021,Senile dementia with depression,V2,1
+E002z,Senile dementia with depressive or paranoid features NOS,V2,1
+E003.,Senile dementia with delirium,V2,1
+E001.,Presenile dementia,V2,1
+F....,Nervous system and sense organ diseases,V2,0
+G318,Other specified degenerative diseases of nervous system,MD,0
+F03,Unspecified dementia,MD,0
+F028,Dementia in other specified diseases classified elsewhere,MD,0
+G310,Circumscribed brain atrophy,MD,0
+F020,Dementia in Pick disease,MD,1
+G98,"Other disorders of nervous system, not elsewhere classified",MD,0
+A819,"Atypical virus infection of central nervous system, unspecified",MD,0
+A81,Atypical virus infections of central nervous system,MD,0
+A810,Creutzfeldt-Jakob disease,MD,0
+F021,Dementia in Creutzfeldt-Jakob disease,MD,1
+G218,Other secondary parkinsonism,MD,0
+A818,Other atypical virus infections of central nervous system,MD,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",MD,0
+B220,HIV disease resulting in encephalopathy,MD,0
+F024,Dementia in human immunodeficiency virus [HIV] disease,MD,1
+F019,"Vascular dementia, unspecified",MD,1
+F01,Vascular dementia,MD,1
+F010,Vascular dementia of acute onset,MD,1
+F012,Subcortical vascular dementia,MD,1
+F013,Mixed cortical and subcortical vascular dementia,MD,1
+F011,Multi-infarct dementia,MD,1
+F051,Delirium superimposed on dementia,MD,1
+F329,"Depressive episode, unspecified",MD,0
+F32,Depressive episode,MD,0
+F33,Recurrent depressive disorder,MD,0
+F018,Other vascular dementia,MD,1
+I673,Progressive vascular leukoencephalopathy,MD,0
+G409,"Epilepsy, unspecified",MD,0
+G40,Epilepsy,MD,0
+T909,Sequelae of unspecified injury of head,MD,0
+F107,Mental and behavioural disorders due to use of alcohol,MD,0
+G301,Alzheimer disease with late onset,MD,0
+G938,Other specified disorders of brain,MD,0
+F02,Dementia in other diseases classified elsewhere,MD,1
+F02.3,Dementia in Parkinson disease,MD,1
+F02.8,Dementia in other specified diseases classified elsewhere,MD,1
+G31.1,"Senile degeneration of brain, not elsewhere classified",MD,1
+F023,Dementia in Huntington's disease,MD,1
+2900,"Senile dementia, uncomplicated",ICD9,1
+2901,Presenile dementia,ICD9,1
+29010,"Presenile dementia, uncomplicated",ICD9,1
+29011,Presenile dementia with delirium,ICD9,1
+29012,Presenile dementia with delusional features,ICD9,1
+29013,Presenile dementia with depressive features,ICD9,1
+2902,Senile dementia with delusional or depressive features,ICD9,1
+29020,Senile dementia with delusional features,ICD9,1
+29021,Senile dementia with depressive features,ICD9,1
+2903,Senile dementia with delirium,ICD9,1
+2904,Vascular dementia,ICD9,1
+29040,"Vascular dementia, uncomplicated",ICD9,1
+29041,Vascular dementia with delirium,ICD9,1
+29042,Vascular dementia with delusions,ICD9,1
+29043,Vascular dementia with depressed mood,ICD9,1
+2941,Dementia in conditions classified elsewhere,ICD9,1
+29410,Dementia in conditions classified elsewhere without behavioral disturbance,ICD9,1
+29411,Dementia in conditions classified elsewhere with behavioral disturbance,ICD9,1
+2942,"Dementia, unspecified",ICD9,1
+29420,"Dementia, unspecified, without behavioral disturbance",ICD9,1
+29421,"Dementia, unspecified, with behavioral disturbance",ICD9,1
+3311,Frontotemporal dementia,ICD9,1
+33111,Pick's disease,ICD9,1
+33119,Other frontotemporal dementia,ICD9,1
+3312,Senile degeneration of brain,ICD9,1
+33182,Dementia with Lewy bodies,ICD9,1
+797,Senility without mention of psychosis,ICD9,1
+7970,Senility without mention of psychosis **,ICD9,1
+G318,Other specified degenerative diseases of nervous system,ICD10,0
+F03,Unspecified dementia,ICD10,0
+F028,Dementia in other specified diseases classified elsewhere,ICD10,0
+G310,Circumscribed brain atrophy,ICD10,0
+F020,Dementia in Pick disease,ICD10,1
+G98,"Other disorders of nervous system, not elsewhere classified",ICD10,0
+A819,"Atypical virus infection of central nervous system, unspecified",ICD10,0
+A81,Atypical virus infections of central nervous system,ICD10,0
+A810,Creutzfeldt-Jakob disease,ICD10,0
+F021,Dementia in Creutzfeldt-Jakob disease,ICD10,1
+G218,Other secondary parkinsonism,ICD10,0
+A818,Other atypical virus infections of central nervous system,ICD10,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",ICD10,0
+B220,HIV disease resulting in encephalopathy,ICD10,0
+F024,Dementia in human immunodeficiency virus [HIV] disease,ICD10,1
+F019,"Vascular dementia, unspecified",ICD10,1
+F01,Vascular dementia,ICD10,1
+F010,Vascular dementia of acute onset,ICD10,1
+F012,Subcortical vascular dementia,ICD10,1
+F013,Mixed cortical and subcortical vascular dementia,ICD10,1
+F011,Multi-infarct dementia,ICD10,1
+F051,Delirium superimposed on dementia,ICD10,1
+F329,"Depressive episode, unspecified",ICD10,0
+F32,Depressive episode,ICD10,0
+F33,Recurrent depressive disorder,ICD10,0
+F018,Other vascular dementia,ICD10,1
+I673,Progressive vascular leukoencephalopathy,ICD10,0
+G409,"Epilepsy, unspecified",ICD10,0
+G40,Epilepsy,ICD10,0
+T909,Sequelae of unspecified injury of head,ICD10,0
+F107,Mental and behavioural disorders due to use of alcohol,ICD10,0
+G301,Alzheimer disease with late onset,ICD10,0
+G938,Other specified disorders of brain,ICD10,0
+F02,Dementia in other diseases classified elsewhere,ICD10,1
+F02.3,Dementia in Parkinson disease,ICD10,1
+F02.8,Dementia in other specified diseases classified elsewhere,ICD10,1
+G31.1,"Senile degeneration of brain, not elsewhere classified",ICD10,1
+F023,Dementia in Huntington's disease,ICD10,1
+G318,Other specified degenerative diseases of nervous system,cancer,0
+F03,Unspecified dementia,cancer,0
+F028,Dementia in other specified diseases classified elsewhere,cancer,0
+G310,Circumscribed brain atrophy,cancer,0
+F020,Dementia in Pick disease,cancer,1
+G98,"Other disorders of nervous system, not elsewhere classified",cancer,0
+A819,"Atypical virus infection of central nervous system, unspecified",cancer,0
+A81,Atypical virus infections of central nervous system,cancer,0
+A810,Creutzfeldt-Jakob disease,cancer,0
+F021,Dementia in Creutzfeldt-Jakob disease,cancer,1
+G218,Other secondary parkinsonism,cancer,0
+A818,Other atypical virus infections of central nervous system,cancer,0
+G048,"Other encephalitis, myelitis and encephalomyelitis",cancer,0
+B220,HIV disease resulting in encephalopathy,cancer,0
+F024,Dementia in human immunodeficiency virus [HIV] disease,cancer,1
+F019,"Vascular dementia, unspecified",cancer,1
+F01,Vascular dementia,cancer,1
+F010,Vascular dementia of acute onset,cancer,1
+F012,Subcortical vascular dementia,cancer,1
+F013,Mixed cortical and subcortical vascular dementia,cancer,1
+F011,Multi-infarct dementia,cancer,1
+F051,Delirium superimposed on dementia,cancer,1
+F329,"Depressive episode, unspecified",cancer,0
+F32,Depressive episode,cancer,0
+F33,Recurrent depressive disorder,cancer,0
+F018,Other vascular dementia,cancer,1
+I673,Progressive vascular leukoencephalopathy,cancer,0
+G409,"Epilepsy, unspecified",cancer,0
+G40,Epilepsy,cancer,0
+T909,Sequelae of unspecified injury of head,cancer,0
+F107,Mental and behavioural disorders due to use of alcohol,cancer,0
+G301,Alzheimer disease with late onset,cancer,0
+G938,Other specified disorders of brain,cancer,0
+F02,Dementia in other diseases classified elsewhere,cancer,1
+F02.3,Dementia in Parkinson disease,cancer,1
+F02.8,Dementia in other specified diseases classified elsewhere,cancer,1
+G31.1,"Senile degeneration of brain, not elsewhere classified",cancer,1
+F023,Dementia in Huntington's disease,cancer,1

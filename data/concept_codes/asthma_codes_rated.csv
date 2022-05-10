@@ -1,0 +1,401 @@
+Code,Description,Source,Decision
+H33..,Asthma,V3,1
+Xaa7B,Chronic asthma with fixed airflow obstruction,V3,1
+X101x,Allergic asthma,V3,1
+XE0YQ,Allergic atopic asthma,V3,1
+X1021,Allergic non-atopic asthma,V3,1
+H330z,Extrinsic asthma NOS,V3,1
+X101y,Extrinsic asthma with asthma attack,V3,1
+X101z,Allergic asthma NEC,V3,1
+XE0YR,Extrinsic asthma without status asthmaticus,V3,1
+XE0YS,Extrinsic asthma with status asthmaticus,V3,1
+XE0YT,Non-allergic asthma,V3,1
+H3310,Intrinsic asthma without status asthmaticus,V3,1
+H331z,Intrinsic asthma NOS,V3,1
+X1022,Intrinsic asthma with asthma attack,V3,1
+XE0YU,Intrinsic asthma with status asthmaticus,V3,1
+X1023,Drug-induced asthma,V3,1
+XaJFG,Aspirin-induced asthma,V3,1
+X1024,Aspirin-sensitive asthma with nasal polyps,V3,1
+173A.,Exercise-induced asthma,V3,1
+X1025,Occupational asthma,V3,1
+H47y0,Detergent asthma,V3,1
+X1026,Baker's asthma,V3,1
+X1027,Colophony asthma,V3,1
+X1028,Grain worker's asthma,V3,1
+X1029,Sulphite-induced asthma,V3,1
+XaKdk,Work aggravated asthma,V3,1
+H440.,Byssinosis,V3,0
+X101k,Byssinosis grade 3,V3,0
+X102B,Mill fever,V3,0
+XaEKI,Flax-dressers' disease,V3,0
+H441.,Cannabinosis,V3,0
+Xa0lZ,Asthmatic bronchitis,V3,1
+H3120,Chronic asthmatic bronchitis,V3,1
+Xa9zf,Acute asthma,V3,1
+X102D,Status asthmaticus,V3,1
+XE0YV,Status asthmaticus NOS,V3,1
+XE0YW,Asthma attack,V3,1
+XM0s2,Asthma attack NOS,V3,1
+Xa1hD,Exacerbation of asthma,V3,1
+Xafdz,Life threatening acute exacerbation of asthma,V3,1
+Xafdy,Moderate acute exacerbation of asthma,V3,1
+Xafdj,Acute severe exacerbation of asthma,V3,1
+Ua1AX,Brittle asthma,V3,1
+X101u,Late onset asthma,V3,1
+H332.,Mixed asthma,V3,1
+H33z.,Asthma unspecified,V3,1
+XE0YX,Asthma NOS,V3,1
+H44..,Pneumopathy due to inhalation of other dust,V3,0
+H44z.,Pneumopathy due to inhalation of other dust NOS,V3,0
+X101t,Childhood asthma,V3,1
+12D2.,FH: Asthma,V3,0
+14B4.,H/O: asthma,V3,1
+663V1,Mild asthma,V3,1
+XaIOV,Asthma finding,V3,1
+XaIIW,Asthma accident and emergency attendance since last visit,V3,1
+XaIIX,Asthma treatment compliance satisfactory,V3,1
+XaIIY,Asthma treatment compliance unsatisfactory,V3,1
+XaIIZ,Asthma daytime symptoms,V3,1
+XaINb,Asthma causes daytime symptoms 1 to 2 times per month,V3,1
+XaINc,Asthma causes daytime symptoms 1 to 2 times per week,V3,1
+XaINd,Asthma causes daytime symptoms most days,V3,1
+XaINa,Asthma never causes daytime symptoms,V3,1
+XaINf,Asthma limits walking up hills or stairs,V3,1
+XaINg,Asthma limits walking on the flat,V3,1
+XaINh,Number of asthma exacerbations in past year,V3,0
+XaINi,Number of times bronchodilator used in one week,V3,0
+XaINj,Number of times bronchodilator used in 24 hours,V3,0
+XaIoE,Asthma night-time symptoms,V3,1
+XaINZ,Asthma causes night symptoms 1 to 2 times per month,V3,1
+XaXZm,Asthma causes night time symptoms 1 to 2 times per week,V3,1
+XaXZp,Asthma causes symptoms most nights,V3,1
+XaIww,Asthma trigger,V3,1
+XaLIm,Asthma trigger - respiratory infection,V3,1
+XaLIn,Asthma trigger - seasonal,V3,1
+XaLIr,Asthma trigger - animals,V3,1
+XaLJS,Asthma trigger - cold air,V3,1
+XaLJT,Asthma trigger - damp,V3,1
+XaLJU,Asthma trigger - emotion,V3,1
+XaObi,Asthma trigger - airborne dust,V3,1
+XaObj,Asthma trigger - exercise,V3,1
+XaObk,Asthma trigger - pollen,V3,1
+XaObl,Asthma trigger - tobacco smoke,V3,1
+XaObm,Asthma trigger - warm air,V3,1
+XaYja,Asthma trigger - wind,V3,1
+XaYpF,Asthma trigger - perfume,V3,1
+XaY2V,Asthma never causes night symptoms,V3,1
+Xaa7Q,No asthma trigger identified by subject,V3,0
+X102Y,Cardiac asthma,V3,1
+663V.,Asthma severity,V3,1
+663V0,Occasional asthma,V3,1
+663V2,Moderate asthma,V3,1
+663V3,Severe asthma,V3,1
+XM1Xb,Asthma monitoring,V3,1
+XaIeq,Asthma annual review,V3,1
+XaIu5,Asthma monitoring by nurse,V3,1
+XaIu6,Asthma monitoring by doctor,V3,1
+XaX3n,Asthma review using Royal College of Physicians three questions,V3,1
+Xac8r,Telehealth asthma monitoring,V3,1
+Xaff0,Use of asthma symptom diary,V3,1
+c7...,Asthma prophylaxis,V3,1
+Xa8Hn,Asthma control steps,V3,1
+8793.,Asthma control step 0,V3,1
+8794.,Asthma control step 1,V3,1
+8795.,Asthma control step 2,V3,1
+8796.,Asthma control step 3,V3,1
+8797.,Asthma control step 4,V3,1
+8798.,Asthma control step 5,V3,1
+9N1d.,Seen in asthma clinic,V3,1
+XaY2q,Seen in school asthma clinic,V3,1
+XaBU2,Asthma monitoring call,V3,1
+Xabj3,Asthma monitoring invitation email,V3,1
+Xabiu,Asthma monitoring invitation SMS (short message service) text message,V3,1
+XacM1,Asthma monitoring SMS (short message service) text message third invitation,V3,1
+XacM0,Asthma monitoring SMS (short message service) text message second invitation,V3,1
+XacLz,Asthma monitoring SMS (short message service) text message first invitation,V3,1
+9OJ4.,Asthma monitoring call first letter,V3,1
+9OJ5.,Asthma monitoring call second letter,V3,1
+9OJ6.,Asthma monitoring call third letter,V3,1
+9OJ7.,Asthma monitoring call verbal invite,V3,1
+9OJ8.,Asthma monitoring call telephone invite,V3,1
+663N.,Asthma disturbing sleep,V3,1
+663N0,Asthma causing night waking,V3,1
+663N1,Asthma disturbs sleep weekly,V3,1
+663N2,Asthma disturbs sleep frequently,V3,1
+XE2Na,Asthma monitoring admin.,V3,1
+9OJZ.,Asthma monitoring admin.NOS,V3,1
+XM1U3,Asthma clinic administration,V3,1
+XaBAQ,Recent asthma management,V3,1
+XaBU3,Asthma monitoring status,V3,1
+XaIRN,Asthma monitoring due,V3,1
+9OJ2.,Refuses asthma monitoring,V3,1
+9OJ3.,Asthma monitor offer default,V3,1
+9OJ9.,Asthma monitoring deleted,V3,1
+XE2Nb,Asthma monitoring check done,V3,1
+679J.,Health education - asthma,V3,1
+XaRFj,Health education - asthma self management,V3,1
+XaRFk,Health education - structured asthma discussion,V3,1
+XaRFl,Health education - structured patient focused asthma discussion,V3,1
+663e.,Asthma restricts exercise,V3,1
+663e0,Asthma sometimes restricts exercise,V3,1
+663e1,Asthma severely restricts exercise,V3,1
+663P.,Asthma limiting activities,V3,1
+XaIR3,Absent from work or school due to asthma,V3,1
+XaXZs,Asthma limits activities 1 to 2 times per month,V3,1
+XaXZu,Asthma limits activities 1 to 2 times per week,V3,1
+XaXZx,Asthma limits activities most days,V3,1
+663O.,Asthma not disturbing sleep,V3,1
+663O0,Asthma never disturbs sleep,V3,1
+XaIQ4,Change in asthma management plan,V3,1
+XaIQD,Step up change in asthma management plan,V3,1
+XaIQE,Step down change in asthma management plan,V3,1
+663W.,Asthma prophylactic medication used,V3,1
+XaEES,Spacer device in use,V3,0
+XaNR9,Inhaler device in use,V3,0
+XaNKw,Royal College of Physicians asthma assessment,V3,0
+XaXa0,Royal College of Physicians asthma assessment three questions score,V3,0
+XaJ4W,Exception reporting: asthma quality indicators,V3,1
+XaJ50,Excepted from asthma quality indicators: Informed dissent,V3,1
+XaJ4z,Excepted from asthma quality indicators: Patient unsuitable,V3,1
+Xac33,ACOS - asthma-chronic obstructive pulmonary disease overlap syndrome,V3,1
+H33..,Asthma,V2,1
+H335.,Chronic asthma with fixed airflow obstruction,V2,1
+H330.,Allergic asthma,V2,1
+H330z,Extrinsic asthma NOS,V2,1
+H3301,Extrinsic asthma with asthma attack,V2,1
+H33zz,Allergic asthma NEC,V2,1
+H3300,Extrinsic asthma without status asthmaticus,V2,1
+H331.,Intrinsic asthma,V2,1
+H3310,Intrinsic asthma without status asthmaticus,V2,1
+H331z,Intrinsic asthma NOS,V2,1
+H3311,Intrinsic asthma with asthma attack,V2,1
+1780.,Aspirin induced asthma,V2,1
+173A.,Exercise induced asthma,V2,1
+173c.,Occupational asthma,V2,1
+H47y0,Detergent asthma,V2,1
+173d.,Work aggravated asthma,V2,1
+H440.,Byssinosis,V2,0
+H442.,Flax-dressers' disease,V2,0
+H441.,Cannabinosis,V2,0
+H302.,Wheezy bronchitis,V2,0
+H3120,Chronic asthmatic bronchitis,V2,1
+H333.,Acute exacerbation of asthma,V2,1
+H33z0,Status asthmaticus NOS,V2,1
+H33z1,Asthma attack,V2,1
+H334.,Brittle asthma,V2,1
+H33z2,Late-onset asthma,V2,1
+H332.,Mixed asthma,V2,1
+H33z.,Asthma unspecified,V2,1
+H44..,Pneumopathy due to inhalation of other dust,V2,0
+H44z.,Pneumopathy due to inhalation of other dust NOS,V2,0
+12D2.,FH: Asthma,V2,0
+14B4.,H/O: asthma,V2,1
+663V1,Mild asthma,V2,1
+17...,Respiratory symptoms,V2,0
+2....,Examination / Signs,V2,0
+663m.,Asthma accident and emergency attendance since last visit,V2,1
+663n.,Asthma treatment compliance satisfactory,V2,1
+663p.,Asthma treatment compliance unsatisfactory,V2,1
+663q.,Asthma daytime symptoms,V2,1
+663t.,Asthma causes daytime symptoms 1 to 2 times per month,V2,1
+663u.,Asthma causes daytime symptoms 1 to 2 times per week,V2,1
+663v.,Asthma causes daytime symptoms most days,V2,1
+663s.,Asthma never causes daytime symptoms,V2,1
+663w.,Asthma limits walking up hills or stairs,V2,1
+663x.,Asthma limits walking on the flat,V2,1
+663y.,Number of asthma exacerbations in past year,V2,1
+663z.,Number of times bronchodilator used in one week,V2,0
+66Y0.,Number of times bronchodilator used in 24 hours,V2,0
+66YP.,Asthma night-time symptoms,V2,1
+663r.,Asthma causes night symptoms 1 to 2 times per month,V2,1
+66Yq.,Asthma causes night time symptoms 1 to 2 times per week,V2,1
+66Yr.,Asthma causes symptoms most nights,V2,1
+178..,Asthma trigger,V2,1
+1789.,Asthma trigger - respiratory infection,V2,1
+1787.,Asthma trigger - seasonal,V2,1
+1786.,Asthma trigger - animals,V2,1
+1788.,Asthma trigger - cold air,V2,1
+1785.,Asthma trigger - damp,V2,1
+1784.,Asthma trigger - emotion,V2,1
+178A.,Asthma trigger - airborne dust,V2,1
+178B.,Asthma trigger - exercise,V2,1
+1781.,Asthma trigger - pollen,V2,1
+1782.,Asthma trigger - tobacco smoke,V2,1
+1783.,Asthma trigger - warm air,V2,1
+66Ys.,Asthma never causes night symptoms,V2,1
+G581.,Asthma - cardiac,V2,1
+663V.,Asthma severity,V2,1
+663V0,Occasional asthma,V2,1
+663V2,Moderate asthma,V2,1
+663V3,Severe asthma,V2,1
+663..,Asthma monitoring,V2,1
+66YJ.,Asthma annual review,V2,1
+66YQ.,Asthma monitoring by nurse,V2,1
+66YR.,Asthma monitoring by doctor,V2,1
+66Yp.,Asthma review using Royal College of Physicians three questions,V2,1
+66Yz5,Telehealth asthma monitoring,V2,1
+8793.,Asthma control step 0,V2,1
+8794.,Asthma control step 1,V2,1
+8795.,Asthma control step 2,V2,1
+8796.,Asthma control step 3,V2,1
+8797.,Asthma control step 4,V2,1
+8798.,Asthma control step 5,V2,1
+9N1d.,Seen in asthma clinic,V2,1
+9N1d0,Seen in school asthma clinic,V2,1
+9....,Administration,V2,0
+9OJC.,Asthma monitoring invitation email,V2,1
+9OJB.,Asthma monitoring invitation SMS (short message service) text message,V2,1
+9OJB2,Asthma monitoring SMS (short message service) text message third invitation,V2,1
+9OJB1,Asthma monitoring SMS (short message service) text message second invitation,V2,1
+9OJB0,Asthma monitoring SMS (short message service) text message first invitation,V2,1
+9OJ4.,Asthma monitor 1st letter,V2,1
+9OJ5.,Asthma monitor 2nd letter,V2,1
+9OJ6.,Asthma monitor 3rd letter,V2,1
+9OJ7.,Asthma monitor verbal invite,V2,1
+9OJ8.,Asthma monitor phone invite,V2,1
+663N.,Asthma disturbing sleep,V2,1
+663N0,Asthma causing night waking,V2,1
+663N1,Asthma disturbs sleep weekly,V2,1
+663N2,Asthma disturbs sleep frequently,V2,1
+9OJ..,Asthma monitoring admin.,V2,1
+9OJZ.,Asthma monitoring admin.NOS,V2,1
+66YE.,Asthma monitoring due,V2,1
+9OJ2.,Refuses asthma monitoring,V2,1
+9OJ3.,Asthma monitor offer default,V2,1
+9OJ9.,Asthma monitoring deleted,V2,1
+9OJA.,Asthma monitoring check done,V2,1
+679J.,Health education - asthma,V2,1
+679J0,Health education - asthma self management,V2,1
+679J1,Health education - structured asthma discussion,V2,1
+679J2,Health education - structured patient focused asthma discussion,V2,1
+663e.,Asthma restricts exercise,V2,1
+663e0,Asthma sometimes restricts exercise,V2,1
+663e1,Asthma severely restricts exercise,V2,1
+663P.,Asthma limiting activities,V2,1
+66YC.,Absent from work or school due to asthma,V2,1
+663P0,Asthma limits activities 1 to 2 times per month,V2,1
+663P1,Asthma limits activities 1 to 2 times per week,V2,1
+663P2,Asthma limits activities most days,V2,1
+663O.,Asthma not disturbing sleep,V2,1
+663O0,Asthma never disturbs sleep,V2,1
+66Y5.,Change in asthma management plan,V2,1
+66Y9.,Step up change in asthma management plan,V2,1
+66YA.,Step down change in asthma management plan,V2,1
+663W.,Asthma prophylactic medication used,V2,1
+663l.,Spacer device in use,V2,0
+66Ym.,Inhaler device in use,V2,0
+388t.,Royal College of Physicians asthma assessment,V2,0
+388t0,Royal College of Physicians asthma assessment three questions score,V2,0
+9hA..,Exception reporting: asthma quality indicators,V2,1
+9hA2.,Excepted from asthma quality indicators: Informed dissent,V2,1
+9hA1.,Excepted from asthma quality indicators: Patient unsuitable,V2,1
+H3B..,Asthma-chronic obstructive pulmonary disease overlap syndrome,V2,1
+1111,asthma,SR,1
+J459,"Asthma, unspecified",MD,1
+J45,Asthma,MD,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",MD,0
+I501,Left ventricular failure,MD,0
+J385,Laryngeal spasm,MD,0
+J46,Status asthmaticus,MD,1
+J60,Coalworker pneumoconiosis,MD,0
+J628,Pneumoconiosis due to other dust containing silica,MD,0
+J64,Unspecified pneumoconiosis,MD,0
+J698,Pneumonitis due to other solids and liquids,MD,0
+J82,"Pulmonary eosinophilia, not elsewhere classified",MD,0
+J449,"Chronic obstructive pulmonary disease, unspecified",MD,0
+J44,Other chronic obstructive pulmonary disease,MD,0
+J450,Predominantly allergic asthma,MD,1
+J458,Mixed asthma,MD,1
+J451,Nonallergic asthma,MD,1
+J66,Airway disease due to specific organic dust,MD,0
+J688,"Other respiratory conditions due to chemicals, gases, fumes and vapours",MD,0
+J668,Airway disease due to other specific organic dusts,MD,0
+J638,Pneumoconiosis due to other specified inorganic dusts,MD,0
+J660,Byssinosis,MD,0
+J661,Flax-dresser disease,MD,0
+J662,Cannabinosis,MD,0
+J448,Other specified chronic obstructive pulmonary disease,MD,0
+Z825,Family history of asthma and other chronic lower respiratory diseases,MD,0
+Z870,Personal history of diseases of the respiratory system,MD,0
+4939," Asthma, unspecified",ICD9,1
+493,Asthma,ICD9,1
+4930,Extrinsic asthma,ICD9,1
+4931,Intrinsic asthma,ICD9,1
+4719," Nasal polyps, unspecified",ICD9,0
+471,Nasal polyps,ICD9,0
+4958,Other allergic pneumonitis,ICD9,0
+500,Coalworkers' pneumoconiosis,ICD9,0
+502,Pneumoconiosis due to other silica or silicates,ICD9,0
+505," Pneumoconiosis, unspecified",ICD9,0
+5078,Other pneumonitis due to solids and liquids,ICD9,0
+503,Pneumoconiosis due to other inorganic dust,ICD9,0
+504,Pneumopathy due to inhalation of other dust,ICD9,0
+4281,Left heart failure,ICD9,0
+4787," Other diseases of larynx, not elsewhere classified",ICD9,0
+4912,Obstructive chronic bronchitis,ICD9,0
+5183,Pulmonary eosinophilia,ICD9,0
+49301,Extrinsic asthma with status asthmaticus,ICD9,1
+49302,Extrinsic asthma with acute exacerbation,ICD9,1
+49311,Intrinsic asthma with status asthmaticus,ICD9,1
+49312,Intrinsic asthma with acute exacerbation,ICD9,1
+4932,Chronic obstructive asthma,ICD9,1
+49321,"Chronic obstructive asthma, with status asthmaticus",ICD9,1
+49322,"Chronic obstructive asthma, with acute exacerbation",ICD9,1
+4938,Other forms of asthma,ICD9,1
+49381,Exercise induced bronchospasm,ICD9,1
+49382,Cough variant asthma,ICD9,1
+49391,"Asthma, unspecified type, with status asthmaticus",ICD9,1
+49392,"Asthma, unspecified type, with acute exacerbation",ICD9,1
+J459,"Asthma, unspecified",ICD10,1
+J45,Asthma,ICD10,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",ICD10,0
+I501,Left ventricular failure,ICD10,0
+J385,Laryngeal spasm,ICD10,0
+J46,Status asthmaticus,ICD10,1
+J60,Coalworker pneumoconiosis,ICD10,0
+J628,Pneumoconiosis due to other dust containing silica,ICD10,0
+J64,Unspecified pneumoconiosis,ICD10,0
+J698,Pneumonitis due to other solids and liquids,ICD10,0
+J82,"Pulmonary eosinophilia, not elsewhere classified",ICD10,0
+J449,"Chronic obstructive pulmonary disease, unspecified",ICD10,0
+J44,Other chronic obstructive pulmonary disease,ICD10,0
+J450,Predominantly allergic asthma,ICD10,1
+J458,Mixed asthma,ICD10,1
+J451,Nonallergic asthma,ICD10,1
+J66,Airway disease due to specific organic dust,ICD10,0
+J688,"Other respiratory conditions due to chemicals, gases, fumes and vapours",ICD10,0
+J668,Airway disease due to other specific organic dusts,ICD10,0
+J638,Pneumoconiosis due to other specified inorganic dusts,ICD10,0
+J660,Byssinosis,ICD10,0
+J661,Flax-dresser disease,ICD10,0
+J662,Cannabinosis,ICD10,0
+J448,Other specified chronic obstructive pulmonary disease,ICD10,0
+Z825,Family history of asthma and other chronic lower respiratory diseases,ICD10,0
+Z870,Personal history of diseases of the respiratory system,ICD10,0
+J459,"Asthma, unspecified",cancer,1
+J45,Asthma,cancer,1
+A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",cancer,0
+I501,Left ventricular failure,cancer,0
+J385,Laryngeal spasm,cancer,0
+J46,Status asthmaticus,cancer,1
+J60,Coalworker pneumoconiosis,cancer,0
+J628,Pneumoconiosis due to other dust containing silica,cancer,0
+J64,Unspecified pneumoconiosis,cancer,0
+J698,Pneumonitis due to other solids and liquids,cancer,0
+J82,"Pulmonary eosinophilia, not elsewhere classified",cancer,0
+J449,"Chronic obstructive pulmonary disease, unspecified",cancer,0
+J44,Other chronic obstructive pulmonary disease,cancer,0
+J450,Predominantly allergic asthma,cancer,1
+J458,Mixed asthma,cancer,1
+J451,Nonallergic asthma,cancer,1
+J66,Airway disease due to specific organic dust,cancer,0
+J688,"Other respiratory conditions due to chemicals, gases, fumes and vapours",cancer,0
+J668,Airway disease due to other specific organic dusts,cancer,0
+J638,Pneumoconiosis due to other specified inorganic dusts,cancer,0
+J660,Byssinosis,cancer,0
+J661,Flax-dresser disease,cancer,0
+J662,Cannabinosis,cancer,0
+J448,Other specified chronic obstructive pulmonary disease,cancer,0
+Z825,Family history of asthma and other chronic lower respiratory diseases,cancer,0
+Z870,Personal history of diseases of the respiratory system,cancer,0
