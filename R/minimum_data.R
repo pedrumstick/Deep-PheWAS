@@ -113,5 +113,5 @@ if(is.numeric(N_cores)){
   if(arguments$save_loc=="minimum_tab_data.gz") {
     fwrite(minimum_tab, here("data","minimum_tab_data.gz"), sep = "\t", na = NA)
   } else {
-    fwrite(minimum_tab, arguments$save_loc, sep = "\t", sep = "\t", na = NA)
+    fwrite(minimum_tab, arguments$save_loc, sep = "\t", na = NA)
   }
