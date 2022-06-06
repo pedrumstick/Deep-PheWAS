@@ -166,25 +166,6 @@ if(!is.null(arguments$exclusions)) {
   exclusions <- data.frame(V1=NA) %>% 
     pull()
 }
-# min_data
-if(!is.null(arguments$min_data)){
-  tab_data <- fread(arguments$min_data) %>% 
-    filter(!eid %in% exclusions)
-  available_tab_data <- colnames(tab_data)
-}
-# empty df
-all_phenotype_data <- data.frame(remove=NA)
-# the assessment centre date
-if(length(str_which(available_tab_data,"^53-"))>0) {
-  assesment_centre_date <- tab_data %>% 
-    select(1,matches("^53-"))
-}
-# save location
-if(arguments$save_location == "data/") {
-  save_location <- paste0(here("data"),"/")
-} else {
-  save_location <- arguments$save_location
-}
 if(!is.null(arguments$N_cores)) {
   N_cores <- as.numeric(arguments$N_cores)
 } else {
