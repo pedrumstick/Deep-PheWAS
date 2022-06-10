@@ -372,7 +372,7 @@ all_phenotype_data <- all_phenotype_data %>%
   select(-remove)
 fwrite(all_phenotype_data,paste0(save_location,"/health_records.txt.gz"),sep = "\t",na = NA)
 # Control populations -----------------------------------------------------
-if(all(c("combined_sex","GP_C_ID.txt.gz") %in% list.files(here("data")))){
+if(all(c("combined_sex","GP_C_ID.txt.gz") %in% list.files(save_location))){
   # making populations from combined sex (as should eb everybody)
   combined_sex_edit <- fread(here("data","combined_sex")) %>% 
     mutate(all_pop=1) %>% 
