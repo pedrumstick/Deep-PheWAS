@@ -401,10 +401,12 @@ combining_data_field <- function (a,b,c,d,e,f) {
   # value to search for
   phewas_ID_edit <- paste0(a,".")
   # combining values
-  combinees <- PheWAS_manifest %>% 
+  combinees_a <- PheWAS_manifest %>% 
     filter(str_detect(PheWAS_ID,phewas_ID_edit)) %>% 
     pull(PheWAS_ID)
-  combining_variables <- data_field_variables[combinees] %>% 
+  if(all(combinees_a %in% current_data_fields)){ 
+  
+  combining_variables <- data_field_variables[combinees_a] %>% 
     reduce(full_join,by="eid") 
   #getting combinations of column names to split columns by
   ID_colnames <- colnames(combining_variables)[-1]
@@ -457,6 +459,7 @@ combining_data_field <- function (a,b,c,d,e,f) {
       set_names(c("eid",a,"earliest_date",age_name))
     return(phenotype_extraction_final) 
   }
+  } else {return()}
 }
 # Load in defining variables -----------------------------------------------------
 min_data <- fread(arguments$min_data)
@@ -543,21 +546,36 @@ if (is.numeric(N_cores)) {
 }
 # append to existing list either empty or with previously created phenotypes
 data_field_variables <- append(data_field_variables,data_field_variables_created)
+data_field_variables <- compact(data_field_variables)
+current_data_fields <- names(data_field_variables)
+
 # Combined_data_field_phenotype function ---------------------------------
 data_field_comb <- PheWAS_manifest %>% 
   filter(quant_combination==1) 
-# function
-if (length(data_field_comb >0)) {
-  filed_ID_combined <- mapply(combining_data_field,
-                              data_field_comb$PheWAS_ID,
-                              data_field_comb$first_last_max_min_value,
-                              data_field_comb$limits,
-                              data_field_comb$lower_limit,
-                              data_field_comb$upper_limit,
-                              data_field_comb$age_col,
-                              SIMPLIFY = F,
-                              USE.NAMES = T)
-  data_field_variables <- append(data_field_variables,filed_ID_combined)
+
+combine_search <- paste0(data_field_comb$PheWAS_ID,".")
+
+combinees <- PheWAS_manifest %>% 
+  filter(str_detect(PheWAS_ID,paste(combine_search,collapse = "|"))) %>% 
+  pull(PheWAS_ID)
+
+if(isFALSE(any(combinees %in% current_data_fields))){
+  
+} else {
+  # function
+  if (length(data_field_comb >0)) {
+    filed_ID_combined <- mapply(combining_data_field,
+                                data_field_comb$PheWAS_ID,
+                                data_field_comb$first_last_max_min_value,
+                                data_field_comb$limits,
+                                data_field_comb$lower_limit,
+                                data_field_comb$upper_limit,
+                                data_field_comb$age_col,
+                                SIMPLIFY = F,
+                                USE.NAMES = T)
+    data_field_variables <- append(data_field_variables,filed_ID_combined)
+    data_field_variables <- compact(data_field_variables)
+  }
 }
 # save file
 saveRDS(data_field_variables,phenotype_save_location)
