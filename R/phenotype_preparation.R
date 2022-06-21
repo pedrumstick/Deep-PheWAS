@@ -293,12 +293,6 @@ if(!is.null(arguments$groupings)) {
   groupings <- fread(arguments$groupings)
 }
 
-if(arguments$kinship_file=="data/related_callrate"){
-  call_rate_kinships <- fread(here("data","related_callrate"))  
-  } else {
-    call_rate_kinships <- fread(arguments$kinship_file)
-    }
-
 # create directory
 
 if(arguments$case_N_filtered_save_name=="analysis/phenotype/preperation/all_pheno_epi_case_N_filtered") {
@@ -313,13 +307,13 @@ if(arguments$case_N_filtered_save_name=="analysis/phenotype/preperation/all_phen
     dir.create(new_folder,recursive = T)
   }
   
-  }
+}
 
 
 # read in all the files in the phenotypes folder and combine them.
 files <- paste0(phenotype_folder,"/",list.files(phenotype_folder))
 
-phenotypes <- files %>% 
+phenotypes <- files[[4]] %>% 
   map(readRDS) %>% 
   reduce(c)
 
@@ -338,16 +332,16 @@ if(arguments$sex_split){
   if(arguments$sex_info=="data/combined_sex"){
     sex_info <- fread(here("data","combined_sex")) %>% 
       rename(eid=1) }
-    else{
-      sex_info <- fread(arguments$sex_info)
-    }
-    
-    male <- sex_info %>% 
-      filter(sex==male_N) %>% 
-      pull(eid)
-    female <- sex_info %>% 
-      filter(sex==female_N) %>% 
-      pull(eid)
+  else{
+    sex_info <- fread(arguments$sex_info)
+  }
+  
+  male <- sex_info %>% 
+    filter(sex==male_N) %>% 
+    pull(eid)
+  female <- sex_info %>% 
+    filter(sex==female_N) %>% 
+    pull(eid)
   
   sex_specific_female <- function(x,y) {
     female_pheno <- y %>%
@@ -406,8 +400,7 @@ if(!is.null(arguments$groupings)){
   
 } else {
   groups <- c("all_population")
-  per_population_ungroup <- all_phenotypes %>% 
-    ungroup()
+  per_population_ungroup <- all_phenotypes 
   per_population_phenotypes <- list(all_pop=per_population_ungroup)
 }
 
@@ -439,7 +432,7 @@ selecting_phenotype_cases_N <- function(x) {
     left_join(PheWAS_ID_type, by=c("ID_2"="PheWAS_ID")) %>%
     mutate(sufficent_cases=ifelse(analysis=="quant" & 
                                     cases >= quant_min_cases,1,ifelse(analysis=="binary" &
-                                                                      cases >= binary_min_cases, 1, 0))) %>% 
+                                                                        cases >= binary_min_cases, 1, 0))) %>% 
     filter(sufficent_cases>0)
   
   N_cases_filtered <- x %>% 
@@ -460,8 +453,8 @@ reducing_phenotypes <- function(x,y) {
 epi_case_trimmed <- mapply(reducing_phenotypes,per_population_phenotypes,trimmed_PheWAS_ID,SIMPLIFY = F)
 
 if(isFALSE(arguments$no_case_N_save)) {
-      saveRDS(epi_case_trimmed,case_N_save_name)
-  }
+  saveRDS(epi_case_trimmed,case_N_save_name)
+}
 # now to remove related individuals within each population.
 if(arguments$relate_remove) {
   relate_remove_all_pops <- function(x) {
@@ -473,6 +466,12 @@ if(arguments$relate_remove) {
     return(relate_remove_step)
     
   } 
+  
+  if(arguments$kinship_file=="data/related_callrate"){
+    call_rate_kinships <- fread(here("data","related_callrate"))  
+  } else {
+    call_rate_kinships <- fread(arguments$kinship_file)
+  }
   
   relate_remove_phenotypes <- mapply(relate_remove_all_pops,epi_case_trimmed,SIMPLIFY = F,USE.NAMES = T)
   
@@ -486,13 +485,12 @@ if(arguments$relate_remove) {
     }
     relate_removed_save <- here("analysis","phenotype","relate_remove_pheno_N_filtered")
     
-    }else{
-      relate_removed_save <- arguments$relate_remove_save_name
-      new_folder <- str_remove(arguments$relate_remove_save_name,basename(arguments$relate_remove_save_name))
-      if(!dir.exists(new_folder)){
-        dir.create(new_folder,recursive = T)
-      }
+  }else{
+    relate_removed_save <- arguments$relate_remove_save_name
+    new_folder <- str_remove(arguments$relate_remove_save_name,basename(arguments$relate_remove_save_name))
+    if(!dir.exists(new_folder)){
+      dir.create(new_folder,recursive = T)
     }
+  }
   saveRDS(RR_case_trimmed,relate_removed_save)
 }
-
