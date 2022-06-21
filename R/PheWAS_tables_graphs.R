@@ -406,7 +406,7 @@ updated_manifest <- PheWAS_manifest_edit %>%
   bind_rows(PheWAS_manifest_male,PheWAS_manifest_female) %>% 
   select(PheWAS_ID,phenotype,category,phenotype_group=pheno_group,group_narrow,short_desc)
 #read in all results
-all_results <- readRDS(arguments$results_file)
+all_results <- compact(readRDS(arguments$results_file))
 # group_filter
 if(!is.null(arguments$group_filter)) {
   group_filter <- unlist(strsplit(arguments$group_filter,","))
