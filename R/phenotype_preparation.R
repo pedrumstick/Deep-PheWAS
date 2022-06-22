@@ -313,7 +313,7 @@ if(arguments$case_N_filtered_save_name=="analysis/phenotype/preperation/all_phen
 # read in all the files in the phenotypes folder and combine them.
 files <- paste0(phenotype_folder,"/",list.files(phenotype_folder))
 
-phenotypes <- files[[4]] %>% 
+phenotypes <- files %>% 
   map(readRDS) %>% 
   reduce(c)
 
