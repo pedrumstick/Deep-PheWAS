@@ -122,7 +122,32 @@ association_tests <- function(y,x) {
     select(IID,any_of(all_remaining))
   # exit if no phenotypes to test
   if(ncol(phenotype_edit)==1){
-    return()
+    if(isFALSE(arguments$split_analysis)){
+      # combine results
+      results_files <-  list.files(path = paste0(arguments$analysis_folder,"/","plink_results"), pattern = paste0(y,"(.*?)hybrid|",y,"(.*?)linear"))
+      remove_string <- c(".glm.logistic.hybrid", paste0(y,"."), ".glm.linear")
+      results_file_location <- paste0(paste0(arguments$analysis_folder,"/","plink_results","/",results_files))
+      plink_file_edit_join <- function(x,y) {
+        name <- data.frame(str_remove_all(y, paste(remove_string, collapse = "|"))) %>% 
+          rename(PheWAS_ID=1)
+        per_result <- fread(x) %>% 
+          bind_cols(name) %>% 
+          mutate(across(everything(), as.character),
+                 table_save=arguments$analysis_name)
+        return(per_result)  
+      }
+      # join the plink results into a single table
+      plink_results <- mapply(plink_file_edit_join,results_file_location,results_files,SIMPLIFY = F) %>% 
+        rbindlist(.,fill = T)
+      # option to save raw results per group
+      if(arguments$save_plink_tables){
+        save_results_table_name <- paste0(y,"_",arguments$analysis_name,"_plink_results_raw.csv")
+        fwrite(plink_results,paste0(arguments$analysis_folder,"/","association_results","/",y,"/",save_results_table_name), na = NA)
+      }
+      return(plink_results)
+    } else {
+      return()
+    }
   }
   # seperate into binary and quant this is for neater results
   binary_pheno <- phenotype_edit %>% 
